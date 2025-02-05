@@ -30,8 +30,9 @@ thursday
 friday
 - find out how to extract text features and start implementing something
 
-saturday
+saturday (blog writing day)
 - get some text features 
+- update blog with progress so far
 
 sunday
 - find out to extract emotional content from them
