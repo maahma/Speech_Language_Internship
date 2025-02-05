@@ -15,3 +15,25 @@
 - Expand knowledge beyond ML by learning useful tools like Regular Expressions (Regex), Bash scripting, and working with High-Performance Computing (HPC) environments
 - Enhance debugging skills for troubleshooting and optimizing model performance
 - Improve organizational and time management abilities to stay efficient and focused throughout the internship
+
+
+<!--
+Tasks to do:
+wednesday
+- find out how to connect to postgresql db to get data sets 
+- email dr junhong about getting in touch with the student or get in touch with him yourself
+
+thursday
+- find out how how to create an ml pipeline in linux
+- find out what the next steps should be after data cleaning for text (look at github repos for inspo)
+
+friday
+- find out how to extract text features and start implementing something
+
+saturday
+- get some text features 
+
+sunday
+- find out to extract emotional content from them
+- check github repos for inspo in case theres a deep learning model needed for the task
+--!>
