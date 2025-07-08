@@ -1,0 +1,1 @@
+In other cases, it's really more around securing through micro segmentation inside of the cloud network

@@ -1,0 +1,1 @@
+This portion of PaaS/IaaS saw growth of 46% in CD and 49% in USD, while the traditional hosting services, which we are de-focusing, were down nearly 10%

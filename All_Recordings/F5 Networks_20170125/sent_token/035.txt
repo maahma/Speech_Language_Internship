@@ -1,0 +1,1 @@
+This enabled our customer to easily repurpose many of their legacy data center applications to the public cloud without compromising the mature security capabilities they enjoy with F5. In recent quarters, we have seen growing interest in our Internet of Things capabilities and have enjoyed successes with several Fortune 500 customers

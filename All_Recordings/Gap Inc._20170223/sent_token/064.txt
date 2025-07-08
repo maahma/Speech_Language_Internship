@@ -1,0 +1,1 @@
+It also allows us to leverage and be very flexible with one pool of inventory

@@ -1,0 +1,1 @@
+So on the good news front, we did convert our Comdata processing mainframe infrastructure from running in the Comdata office building to running on the IBM Cloud

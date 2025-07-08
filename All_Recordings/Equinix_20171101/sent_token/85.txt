@@ -1,0 +1,1 @@
+Cloud service providers are re-architecting their networks, further expanding their customer aggregation points with additional access nodes and bringing more core services to the edge

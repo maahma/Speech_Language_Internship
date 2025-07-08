@@ -1,0 +1,1 @@
+But just as a reminder, part of the Cloud PaaS and IaaS business is our legacy hosting services which don’t share the same high growth characteristics as PaaS and next-gen IaaS services

@@ -1,0 +1,1 @@
+Telcos are going through a significant transformation as trends such as SD-WAN, 5G, IoT, and overall broadband growth are driving the need to evaluate Cloud-grade architectural shift in order to increase automation, reduce costs and enable greater service speed and agility

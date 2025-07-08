@@ -1,0 +1,1 @@
+I highlighted specifically the fact that we had invested substantially in automotive certified IP in FinFET 16, because three years ago nobody in their right mind would have ever associated the word FinFET in automotive and today all of the big providers in that value chain are focusing on that, because they need more computation inside of the car

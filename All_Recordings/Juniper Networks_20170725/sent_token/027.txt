@@ -1,0 +1,1 @@
+In Security, we announced enhancements to our Software-Defined Secure Networks platform and expanded our public cloud offering with the introduction of virtual SRX 4.0. Our SDSN enhancements deliver pervasive security across multivendor environments, public clouds and private cloud

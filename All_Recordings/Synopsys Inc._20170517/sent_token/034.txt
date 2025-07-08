@@ -1,0 +1,1 @@
+For example, Spreadtrum standardized on ZeBu for its advanced mobile SoCs and Wave Computing adopted ZeBu for its machine learning products

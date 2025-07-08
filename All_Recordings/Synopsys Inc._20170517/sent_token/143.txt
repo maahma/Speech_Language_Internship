@@ -1,0 +1,1 @@
+And by the way, it's intersection of prototyping, emulation and simulation and in some cases, even virtual prototyping

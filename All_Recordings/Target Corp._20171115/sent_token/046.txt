@@ -1,0 +1,1 @@
+In the past, we had a relatively rigid prototype for a store's size and layout, and our real estate team focused on finding sites that would accommodate that prototype

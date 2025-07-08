@@ -1,0 +1,1 @@
+And we-re sitting in the space where the idea is to design security in the first place, not to just fix all the things that went wrong in the past but make it essentially correct by construction

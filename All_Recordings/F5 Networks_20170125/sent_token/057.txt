@@ -1,0 +1,1 @@
+Daytona is a major release with a host of new functionality, including our high-performance 40-gig virtualization; a sophisticated but easy to install iApp for our SSL Orchestrator; VCMP support for the 100-gig blade, which should extend the 100-gig blade solutions to enterprise customers; and IoT/MQTT protocol support

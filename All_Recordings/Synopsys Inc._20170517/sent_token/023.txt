@@ -1,0 +1,1 @@
+IC Compiler II, our place and route solution, is used on highly complex chips, some as advanced as 7-nanometer, by companies such as Xilinx, NVIDIA, ST and Broadcom

@@ -1,0 +1,1 @@
+With WAF Express customers can protect applications with a point-and-click simplicity, while our security operation center experts monitor, analyze and mitigate attacks as they occur

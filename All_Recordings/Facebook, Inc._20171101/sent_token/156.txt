@@ -1,0 +1,1 @@
+So it takes a lot of engineering investment, and we will be prioritizing that, in some cases by adding people to teams and in other cases by trading off and doing more security work instead of other product work that we might have done, but this is really important and this is our priority

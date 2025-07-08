@@ -1,0 +1,1 @@
+Well, one of the key pieces is that the intersection of hardware and software has been driving verification extremely hard and a subcategory to that is really emulation and prototyping

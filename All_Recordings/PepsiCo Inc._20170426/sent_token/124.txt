@@ -1,0 +1,1 @@
+And it looks like that strategy is working at this point

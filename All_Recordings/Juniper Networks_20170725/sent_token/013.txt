@@ -1,0 +1,1 @@
+This announcement includes two new foundational products: Junos Node Slicing and Universal Chassis, which reduce operational overhead and create an environment for operational agility to thrive

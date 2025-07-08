@@ -1,0 +1,1 @@
+It's an extension of really what we're doing across the broader NetScaler platform, leverages mass and various other web services like threat intelligence, et cetera

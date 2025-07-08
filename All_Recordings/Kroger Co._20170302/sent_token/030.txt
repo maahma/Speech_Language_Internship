@@ -1,0 +1,1 @@
+When doing this, we duplicate inventory for a period of time to ensure a smooth transition

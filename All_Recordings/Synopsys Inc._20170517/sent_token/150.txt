@@ -1,0 +1,1 @@
+For starters, we're fortunate that our own processes around upgrading our firewalls, of making sure that all of the patches have been applied to software have been effective, so we have not had any issues with this

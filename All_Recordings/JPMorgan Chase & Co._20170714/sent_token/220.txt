@@ -1,0 +1,1 @@
+So I mean, it’s necessary to go back and rethink the calculation of operational risk just because it's the right thing to do and ultimately how that plays out into how we optimize against our constraint is less of what we focus on

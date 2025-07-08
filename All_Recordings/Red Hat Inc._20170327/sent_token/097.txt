@@ -1,0 +1,1 @@
+One of the reasons we acquired the company is it's a great standalone automation solution, but in a scale out world automation becomes increasingly important

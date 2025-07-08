@@ -1,0 +1,1 @@
+We expanded our IoT offering with our new ARC Secure IP subsystem for endpoint security and our IoT Development Kit to accelerate software development for sensor fusion, voice recognition and face detection designs

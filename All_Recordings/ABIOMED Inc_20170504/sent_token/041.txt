@@ -1,0 +1,1 @@
+Historically, Impella was primarily reimbursed in one category, DRG 216. Over the last 18 months, the AHA Coding Clinic updated Impella to four specific categories: DRG's 216 to 221 for the cath lab, DRG 215 for care in the ICU, DRG 1 and 2 for biventricular support, and DRG's 268 and 269 for transfer of patients to specialized heart recovery hospitals

@@ -1,0 +1,1 @@
+And so you're right, normally you would close the transaction and come out with numbers, but with the underperformance of this business in 2017, we thought it was important to try to put a little bit of context on how we're viewing it for today's call

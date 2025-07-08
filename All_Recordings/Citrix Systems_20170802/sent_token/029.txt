@@ -1,0 +1,1 @@
+They weighed upgrading with that competitor with switching to Citrix's NetScaler, ultimately choosing NetScaler with the addition of XenApp citing both Citrix's product integration capabilities and the completeness of vision to help them well into the future as unmatched reasons for this switch

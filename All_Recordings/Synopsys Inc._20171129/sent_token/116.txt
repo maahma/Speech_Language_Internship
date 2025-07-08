@@ -1,0 +1,1 @@
+At the same time, the -- our solution in the verification space, the overall verification platform, which includes the emulation and the FPGA prototyping boards has done very, very well

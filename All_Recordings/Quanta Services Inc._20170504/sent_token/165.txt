@@ -1,0 +1,1 @@
+And then the last part of your question, telecom, yes, as it stands here right now, we've not baked in any incremental aspects of telecom

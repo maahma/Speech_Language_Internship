@@ -1,0 +1,1 @@
+And we're largely complete in moving our POS off of hardware into the cloud and making it browser-based

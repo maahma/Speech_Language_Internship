@@ -1,0 +1,1 @@
+Historically, types of misses that we had in Q4 would really have taken a year

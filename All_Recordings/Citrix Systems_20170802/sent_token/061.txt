@@ -1,0 +1,1 @@
+Just released like, for example, a NetScaler software web gateway, which is a web security solution with user behavior analytics built into it

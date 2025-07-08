@@ -1,0 +1,1 @@
+It's a product that supports both routing and switching, and eventually will also support edge routing capabilities as opposed to just core routing capabilities

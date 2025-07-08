@@ -1,0 +1,1 @@
+It would affect the workers, because if we totally suspend that, we've got about 5,000 workers that would be out of work

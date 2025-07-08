@@ -1,0 +1,1 @@
+On the customer split, we serve – in AWS, we serve millions of active customers along the spectrum of large enterprise companies as well as small startups and the public company – or public environment as well

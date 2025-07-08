@@ -1,0 +1,1 @@
+Earlier this year, we moved our TriZetto products to the Microsoft Azure Cloud and launched our healthcare cloud solution, a SaaS platform for healthcare payers of any size

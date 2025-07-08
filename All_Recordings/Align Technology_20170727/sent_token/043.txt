@@ -1,0 +1,1 @@
+TimeLapse compares a patient's prior 3D scans to their most current scan and gives doctors an enhanced visualization assessment and communications tool that can help them provide additional treatment recommendations

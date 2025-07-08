@@ -1,0 +1,1 @@
+Given that our below-the-line assumptions are essentially unchanged, I won't take you through them in detail

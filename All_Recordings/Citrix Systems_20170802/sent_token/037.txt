@@ -1,0 +1,1 @@
+This quarter, we announced an expanded partnership with Google to bring Citrix Cloud's desktop and application delivery and NetScaler CPS to the Google Cloud Platform, and to better integrate ShareFile and the security and control that we can offer with the full G Suite of solutions

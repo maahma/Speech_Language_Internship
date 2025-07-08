@@ -1,0 +1,1 @@
+The second comment I would have for that, it is quite remarkable how, over all these years, over and over, there have been redesigns of architecture of utilization of compute environments, of utilization of multiple computers, multiple cores, multiple threads that have managed to keep your question in check

@@ -1,0 +1,1 @@
+The sale point we use over-and-over again is you can run it on Amazon, you can run it on Azure, you can run it on VMware, you can run it on OpenStack and it really is a mix

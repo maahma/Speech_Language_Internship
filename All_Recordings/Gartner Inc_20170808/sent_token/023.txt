@@ -1,0 +1,1 @@
+While, CEB did report contract value, we have now recast that measure to be aligned with how we've traditionally done it with the Gartner business

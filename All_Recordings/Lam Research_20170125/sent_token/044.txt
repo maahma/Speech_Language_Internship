@@ -1,0 +1,1 @@
+Inventory turns also improved from 3.9 to 4.1 times

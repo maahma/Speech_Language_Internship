@@ -1,0 +1,1 @@
+For those of you who try to model billings metrics and quarterly cash flows, we would expect the same business flow in our model as in the past

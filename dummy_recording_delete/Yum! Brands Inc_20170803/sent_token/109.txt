@@ -1,0 +1,1 @@
+Encouraged by some of the tests that are going on, like a UK test for KFC, where we're actually doing a test with both aggregators and by ourselves

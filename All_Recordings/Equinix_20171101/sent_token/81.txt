@@ -1,0 +1,1 @@
+Additionally, Chinese content led hyperscalers are increasingly utilizing Platform Equinix to support their growing user requirements, placing content closer to the edge to reduce latency and optimize the user experience

@@ -1,0 +1,1 @@
+We can directly see the model shift when measuring the percentage of product bookings in the quarter that came in as subscription-based versus perpetual

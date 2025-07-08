@@ -1,0 +1,1 @@
+We're actually doing the work to convert the retail DCs to be able to ship both direct and retail fulfillment out of one pool of inventory and one DC

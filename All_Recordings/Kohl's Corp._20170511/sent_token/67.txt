@@ -1,0 +1,1 @@
+I think the other piece in optimized stores is we did test these stores, and we did see that we pulled out the inventory, got a nice margin gain, got SG&A savings, but we had no sales change from it

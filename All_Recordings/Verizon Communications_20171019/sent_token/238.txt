@@ -1,0 +1,1 @@
+So in terms of benefits from SDN and so on, let me show as you not just SDN but also network function, virtualization it does allow the value of some of the hardware you put in the network to change overtime, and how you operate network moves more to the underlying software there

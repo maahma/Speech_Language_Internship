@@ -1,0 +1,1 @@
+So understand that to get the benefit of Autonomous Database in the Oracle cloud, you bring your own license, but you may also, you will also need depending on which service you need, you’re going to need some of the options in addition

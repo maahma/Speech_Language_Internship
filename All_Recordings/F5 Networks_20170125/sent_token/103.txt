@@ -1,0 +1,1 @@
+So I just I had mentioned DevOps is something that drives our roadmaps and is a big focus area for F5 in our technology and the ability to support automated in – automation and orchestration ecosystems with open APIs and very flexible extendibility of the product and simplicity and usability are critical things

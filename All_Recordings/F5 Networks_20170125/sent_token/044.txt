@@ -1,0 +1,1 @@
+Today most web traffic is now encrypted and attempts to address application security using traditional methods alone are both inadequate and costly

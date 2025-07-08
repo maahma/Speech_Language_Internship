@@ -1,0 +1,1 @@
+Herculon SSL Orchestrator can significantly increase performance while significantly decreasing infrastructure costs by eliminating the need for redundant encryption and decryption capabilities

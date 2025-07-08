@@ -1,0 +1,1 @@
+So, it's a complicated dynamic of trying to make sure that we are maximizing against all of these constraints and not just the mathematical ones, but also the operational and practical ones

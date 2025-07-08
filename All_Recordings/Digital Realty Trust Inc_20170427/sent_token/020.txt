@@ -1,0 +1,1 @@
+We will do our best to minimize any external facing impact from the integration process

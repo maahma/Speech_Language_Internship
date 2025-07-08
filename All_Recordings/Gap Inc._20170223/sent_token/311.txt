@@ -1,0 +1,1 @@
+And that's an example of continuing to, under the covers, back off of some of the discounting we've been doing

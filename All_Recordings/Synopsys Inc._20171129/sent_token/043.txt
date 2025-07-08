@@ -1,0 +1,1 @@
+We realized a number of years ago that as chips and systems became more and more complex, verification would increasingly be required at the intersection of hardware and software
