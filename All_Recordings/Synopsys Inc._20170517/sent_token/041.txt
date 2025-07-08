@@ -1,1 +1,0 @@
-Elements throughout our EDA, IP and software integrity portfolio are now certified for the most stringent level of automotive safety defined by the ISO 26262 standard

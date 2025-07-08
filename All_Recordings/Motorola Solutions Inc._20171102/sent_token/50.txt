@@ -1,1 +1,0 @@
-We announced responder alert, technology that triggers automatic alerts to the command center for events such as weapon drawn or fired

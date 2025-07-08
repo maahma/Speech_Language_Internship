@@ -1,1 +1,0 @@
-Also announced today is our Silverline WAF Express service as more and more of our customers prefer a web application security as a service approach to attack mitigation

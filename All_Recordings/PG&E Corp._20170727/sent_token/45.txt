@@ -1,1 +1,0 @@
-The rapid growth of both large-scale renewables and distributed energy resources, or DERs, means that we as a grid planner and operator, we have to find ways of managing third-party assets that we don't own or don't control, assets such as private rooftop solar or electric vehicles

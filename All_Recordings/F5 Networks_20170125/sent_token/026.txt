@@ -1,1 +1,0 @@
-They also required a solution to deal with the onslaught of encrypted ECC traffic triggered by the recent adoption of this encryption method by companies like Apple, Google and Microsoft

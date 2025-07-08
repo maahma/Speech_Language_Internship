@@ -1,1 +1,0 @@
-The solution consisted of F5 virtualization software licenses as well as our carrier-class firewall, our WAF and access management software modules

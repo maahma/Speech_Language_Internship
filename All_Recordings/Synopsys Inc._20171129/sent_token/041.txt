@@ -1,1 +1,0 @@
-Customers such as MediaTek, Renesas, Panasonic, ST and TDK/Micronas have reported very successful deployments and tapeouts using our Custom Compiler solution, which is targeted specifically at FinFET designs

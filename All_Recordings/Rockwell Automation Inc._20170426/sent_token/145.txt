@@ -1,1 +1,0 @@
-There is also a lot of process safety that we can participate in for emergency shutdown and fire and gas safety, but the primary process control is not a focus at this time

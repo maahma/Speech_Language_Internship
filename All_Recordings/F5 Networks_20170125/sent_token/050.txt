@@ -1,1 +1,0 @@
-The product provides comprehensive DDoS coverage through behavioral analytics, subsecond attack mitigation, and visibility into sophisticated application-layer attack

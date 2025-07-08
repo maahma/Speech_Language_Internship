@@ -1,1 +1,0 @@
-And that certainly is the case, but I will say that different cloud providers have very different security requirements and security models that they deploy inside of their networks

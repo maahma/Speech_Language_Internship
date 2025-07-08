@@ -1,1 +1,0 @@
-The way I tend to think about it is, with any service you want the gross margin itself to improve, and that includes in the Azure services components themselves

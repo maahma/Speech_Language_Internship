@@ -1,1 +1,0 @@
-Secondly, this data needs to be manipulated through machine learning, which is extremely compute in terms, and then the machine learning it in terms gets interpreted in the utilization, let’s say inside of a car for example

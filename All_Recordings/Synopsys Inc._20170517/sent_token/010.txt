@@ -1,1 +1,0 @@
-Mounting software content, whether integrated on a chip or as an app, creates huge functionality, development and security challenges

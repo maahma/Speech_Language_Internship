@@ -1,1 +1,0 @@
-During Q2, we announced full flow certification for TSMC's 12- and 7-nanometer processes as well as broad IP cooperation for 12-nanometer FinFETs

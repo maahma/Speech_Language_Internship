@@ -1,1 +1,0 @@
-It is designed to provide customers with the ability to adapt to ever changing business requirements with a common hardware platform that supports a continuum of optimized switching and routing use cases across their network

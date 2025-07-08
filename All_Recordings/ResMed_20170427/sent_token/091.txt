@@ -1,1 +1,0 @@
-Another key area of Horizon 3 growth is our work in chronic disease management algorithms, including population health models, care coordination and Software-as-a-Service models for home health, home nursing and hospice

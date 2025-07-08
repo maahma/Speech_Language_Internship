@@ -1,1 +1,0 @@
-Among high profile customers presenting at the Design Automation Conference in June, AMD highlighted its use of our ZeBu emulation for early software development and bring-up

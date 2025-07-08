@@ -1,1 +1,0 @@
-Junos Node Slicing is a critical technology in the transition to Cloud-Grade Networking and in particular, the movement to disaggregated networking at the edge

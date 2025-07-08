@@ -1,1 +1,0 @@
-With regard to the leverage itself, we had talked about being in the 2.6, 2.7 range by the end of 2017, targeting getting back to around 2.5 times

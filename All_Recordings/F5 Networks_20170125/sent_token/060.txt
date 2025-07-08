@@ -1,1 +1,0 @@
-Finally, we are planning to deliver the first release of our container micro services based solution, internally known as Project Velcro

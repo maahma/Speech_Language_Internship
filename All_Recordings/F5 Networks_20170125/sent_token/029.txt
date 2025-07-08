@@ -1,1 +1,0 @@
-This deployment leveraged many cloud-based orchestration and automation technologies including OpenStack and KVM

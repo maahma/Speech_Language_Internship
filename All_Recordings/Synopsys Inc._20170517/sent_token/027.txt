@@ -1,1 +1,0 @@
-Custom Compiler's FinFET optimizations and our close collaboration with UMC, for example, enabled customers to use Custom Compiler in their new 14-nanometer process

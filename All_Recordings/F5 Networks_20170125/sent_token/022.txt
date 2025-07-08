@@ -1,1 +1,0 @@
-For example, a Fortune 100 insurance company leveraged a new F5 iSeries 5000 platform to deploy the next-generation private cloud infrastructure

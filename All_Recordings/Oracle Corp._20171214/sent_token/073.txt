@@ -1,1 +1,0 @@
-And also, as you bring your own database licenses, you’re going to want to have app server licenses and middleware licenses in order to work with your database

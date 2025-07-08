@@ -1,1 +1,0 @@
-Earlier this month, we announced the acquisition of Black Duck Software, the leader in testing Open Source software for known security vulnerabilities and license compliance

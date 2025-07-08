@@ -1,1 +1,0 @@
-In a 5 million plus transaction, a large Asia Pacific Telco operator initiated a 5 year program to virtualize 100% of its IP transport network and chose F5 as its primary ADC provider

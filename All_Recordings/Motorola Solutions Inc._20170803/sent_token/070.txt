@@ -1,1 +1,0 @@
-It could include the deployment of software we've developed, which interoperates and links, land mobile radio P25 with LTE networks

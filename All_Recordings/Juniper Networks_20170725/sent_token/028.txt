@@ -1,1 +1,0 @@
-Juniper's SDSN platform and its ecosystem help organizations unify security for their networks, giving customers a streamlined way to integrate products and manage their security operation regardless of the vendors they choose

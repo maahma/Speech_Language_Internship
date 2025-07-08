@@ -1,1 +1,0 @@
-And one of the things that we know absolutely is that our customers have a diverse set of networking needs, that there are data centers that they want to connect with dark fiber, that there are main locations that they want to connect with waves, that there are big branch offices that they want to connect with MPLS

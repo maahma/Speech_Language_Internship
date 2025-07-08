@@ -1,1 +1,0 @@
-So our customers who want to buy cloud forms often also acquire Ansible

@@ -1,1 +1,0 @@
-Most of it, I would bet that most of our OpenStack and OpenShift customers buy at least a degree of Ansible as well

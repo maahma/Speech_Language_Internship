@@ -1,1 +1,0 @@
-And that is because the system people would like to simulate software on larger systems that have many components that may be defined at different levels of abstraction

@@ -1,1 +1,0 @@
-This customer also deployed F5’s ASM product ensuring WAF functionality was available to on-premise applications as well as a private cloud data center assets

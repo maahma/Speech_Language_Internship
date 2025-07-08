@@ -1,1 +1,0 @@
-This fabric combines image recognition, artificial intelligence, machine learning, and process automation

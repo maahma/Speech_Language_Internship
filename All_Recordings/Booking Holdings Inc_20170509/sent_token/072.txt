@@ -1,1 +1,0 @@
-We know the number of rooms that are in those properties, and so we look at that as a proxy for the market

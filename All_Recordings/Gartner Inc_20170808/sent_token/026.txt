@@ -1,1 +1,0 @@
-Similarly, we have harmonized how we calculate wallet retention to also be consistent with how we calculate retention at Gartner

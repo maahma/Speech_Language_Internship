@@ -1,1 +1,0 @@
-We're not relying on a rip-and-replace hardware cycle for growth at this point in time

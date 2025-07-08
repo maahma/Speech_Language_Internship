@@ -1,1 +1,0 @@
-And I think what we're doing right now is testing in a number of places just user aggregators, doing it ourselves

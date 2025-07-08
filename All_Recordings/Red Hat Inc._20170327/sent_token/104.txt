@@ -1,1 +1,0 @@
-So they are often sold together because you got to have a deployment target for OpenShift

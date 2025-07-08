@@ -1,1 +1,0 @@
-And that’s the micro services version of our ADC and Watson container architecture typed a scenarios

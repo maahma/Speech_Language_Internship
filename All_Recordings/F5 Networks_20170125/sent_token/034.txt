@@ -1,1 +1,0 @@
-Working together with AWS, F5 crafted a dynamic and secure traffic management solution utilizing F5’s WAF and firewall capabilities in the AWS computing environment

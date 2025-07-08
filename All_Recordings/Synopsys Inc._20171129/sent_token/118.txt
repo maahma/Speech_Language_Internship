@@ -1,1 +1,0 @@
-With more complex software, people want to run the software before they have the hardware and therefore they model the hardware and that’s the basis that we’re in

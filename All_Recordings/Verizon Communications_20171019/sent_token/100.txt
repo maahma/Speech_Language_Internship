@@ -1,1 +1,0 @@
-We will leverage these in [HART] (Ph) network capability such as latency, throughput and security to create network slices that will be tuned to the specific needs of each application

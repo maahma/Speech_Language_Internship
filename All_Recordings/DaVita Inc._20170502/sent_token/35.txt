@@ -1,1 +1,0 @@
-So sometimes, we have some of their outliers that we need to bring in, and we do have a small set of out-of-network rates, and so those are sometimes the one we're discussing here

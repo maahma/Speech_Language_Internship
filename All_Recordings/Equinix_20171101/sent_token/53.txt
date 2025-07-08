@@ -1,1 +1,0 @@
-Early this quarter, we cut over from Verizon systems to the Equinix operating systems for all 29 data centers, marking a significant milestone for the integration program

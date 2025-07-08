@@ -1,1 +1,0 @@
-The mechanics are not automatic, so let’s actually set this up

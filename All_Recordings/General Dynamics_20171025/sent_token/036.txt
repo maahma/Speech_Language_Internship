@@ -1,1 +1,0 @@
-On the G600, our additional validation tests have proven an additional 300 nautical miles at 0.85 mach as well as 300 nautical miles at 0.90 mach

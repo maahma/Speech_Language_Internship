@@ -1,1 +1,0 @@
-One example is Samsung SARC, which chose our Verification Continuum, including simulation, formal, emulation, debug and verification IP as the primary solution for their advanced mobile processor designs

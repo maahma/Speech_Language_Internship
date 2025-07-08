@@ -1,1 +1,0 @@
-AppFormix and Contrail have been integrated for seamless operations management of Juniper's hardware and software

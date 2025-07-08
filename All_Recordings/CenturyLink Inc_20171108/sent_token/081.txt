@@ -1,1 +1,0 @@
-And there are times – there's a lot of concern I'm hearing in questions, there's concern around will SD-WAN be a substitute for MPLS and, therefore, a headwind that we have to overcome? There will be cases where we sold an MPLS circuit, where an SD-WAN would've been a better solution

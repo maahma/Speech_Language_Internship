@@ -1,1 +1,0 @@
-Occasionally, you get some timing differentials when new programs are coming onboard

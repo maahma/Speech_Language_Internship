@@ -1,1 +1,0 @@
-And as we continue to have opportunistic store resizings, we're doing that as well so we're able to become efficient in those boxes

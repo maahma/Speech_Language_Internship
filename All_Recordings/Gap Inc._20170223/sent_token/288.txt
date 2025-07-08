@@ -1,1 +1,0 @@
-But I think if you look at those two things, it explains a little bit of the latency between the work we've done and seeing the results show up in the numbers

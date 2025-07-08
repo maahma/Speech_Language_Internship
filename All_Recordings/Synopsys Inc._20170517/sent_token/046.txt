@@ -1,1 +1,0 @@
-In Q2, for example, we delivered a high-performance, hardware-secure module that protects sensitive information and data processing within SoCs

@@ -1,1 +1,0 @@
-Customers today rely on Synopsys for more than 95% of their FinFET designs

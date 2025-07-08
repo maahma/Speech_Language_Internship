@@ -1,1 +1,0 @@
-And in certain cases, our design wins that we've had were slowing down

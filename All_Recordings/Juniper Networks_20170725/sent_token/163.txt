@@ -1,1 +1,0 @@
-In some cases, they believe in the big iron that sits at the edge of their data centers, for example, and secures traffic going in and out of those data centers

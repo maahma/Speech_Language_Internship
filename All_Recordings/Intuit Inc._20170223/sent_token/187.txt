@@ -1,1 +1,0 @@
-These are machine learning capabilities that do things like helping somebody in TurboTax understand quickly whether they should just go with the standardized deduction or do itemized deductions

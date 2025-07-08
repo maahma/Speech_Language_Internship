@@ -1,1 +1,0 @@
-As you might recall, during the ERP implementation, we did not take price increases that related to currency translation we otherwise would have

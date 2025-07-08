@@ -1,1 +1,0 @@
-The F5 solution leveraged a full stack of traffic management and security offerings including dynamic service chains and a highly scalable SSL deployment

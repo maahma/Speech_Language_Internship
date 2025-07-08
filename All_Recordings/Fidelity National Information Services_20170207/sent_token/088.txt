@@ -1,1 +1,0 @@
-The IFS and GFS segments were not affected by this

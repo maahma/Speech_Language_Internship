@@ -1,1 +1,0 @@
-As Martin mentioned, we’ve made some significant market share gains in the foundry and logic space as our customers are migrating to smaller geometries and implementing more challenging architectures

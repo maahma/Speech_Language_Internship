@@ -1,1 +1,0 @@
-For example, we've interconnected the CenturyLink and Level 3 networks and are now beginning efforts to integrate them as a single unified network

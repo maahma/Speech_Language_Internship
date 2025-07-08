@@ -1,1 +1,0 @@
-But re-striping had some initial effect on this, for sure, but we don’t think it’s the primary driver when we look at the numbers

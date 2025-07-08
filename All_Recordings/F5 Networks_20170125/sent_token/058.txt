@@ -1,1 +1,0 @@
-We also plan to deliver our unique application connector solution in Q2. Our application connector enables customer applications to seamlessly access multiple public cloud infrastructures directly from private clouds in on-premise and/or co-lo data centers

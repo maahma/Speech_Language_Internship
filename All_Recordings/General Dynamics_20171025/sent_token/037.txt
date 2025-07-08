@@ -1,1 +1,0 @@
-The additional testing required for the specific fuel consumption and center of gravity test points have ensured proper performance and safety margins in both aircraft

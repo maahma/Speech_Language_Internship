@@ -1,1 +1,0 @@
-Autonomous Database, which is coming out in a little while here, that’s going to be an enormous driver for customers to actually move there important workloads to the cloud

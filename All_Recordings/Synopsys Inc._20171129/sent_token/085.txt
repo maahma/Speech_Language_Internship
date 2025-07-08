@@ -1,1 +1,0 @@
-Well, RISC-V is sort of in its beginnings, but it is also one processor among many being built right now

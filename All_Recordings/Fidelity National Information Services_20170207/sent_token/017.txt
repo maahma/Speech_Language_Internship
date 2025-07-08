@@ -1,1 +1,0 @@
-As we've discussed previously, we expect the remainder of cards to be EMV-enabled in a natural reissuance cycle as they expire

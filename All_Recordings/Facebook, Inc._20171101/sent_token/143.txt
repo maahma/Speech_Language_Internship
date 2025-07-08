@@ -1,1 +1,0 @@
-I'm very optimistic that a lot of this stuff will be able to be supported long term, but you're certainly right that not all of it will be able to be supported by ad models alone

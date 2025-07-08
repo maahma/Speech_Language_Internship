@@ -1,1 +1,0 @@
-And then the buildout is a little bit less because there’s abasing starting block

@@ -1,1 +1,0 @@
-From an autonomous vehicle perspective, miles driven is certainly a factor, but it's not the only factor, because what is the quality of the miles driven? Right now, to our knowledge, we're the only one testing our autonomous vehicles in Downtown San Francisco, which is a pretty dense urban environment with a lot more, I'll say, opportunities to learn from different situations

@@ -1,1 +1,0 @@
-Clearly, neither Mosaic nor Vale is happy with the reported results for an operation which historically has delivered significantly better performance

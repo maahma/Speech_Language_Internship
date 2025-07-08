@@ -1,1 +1,0 @@
-We’re actually holding over 10 more points on the PaaS IaaS right now because we’ve had a lot of orders and we are deploying them and we will only start recognizing them as they deploy

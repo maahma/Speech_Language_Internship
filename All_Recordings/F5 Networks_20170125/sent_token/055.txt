@@ -1,1 +1,0 @@
-We also announced today that we have added security and incident response team services for all F5 customers to help them more quickly identify and neutralize threats and to help protect their critical business operations

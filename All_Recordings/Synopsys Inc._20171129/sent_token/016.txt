@@ -1,1 +1,0 @@
-The need to manipulate massive amounts of data, apply AI through machine learning, while guaranteeing security is unstoppable

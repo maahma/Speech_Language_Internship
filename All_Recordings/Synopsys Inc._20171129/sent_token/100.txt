@@ -1,1 +1,0 @@
-There are quite a number of lurking dangers in that and there is a large catalogue of known vulnerabilities, and when people integrate this Open Source code material and they don’t pay attention to at least the vulnerabilities that already known, I think that’s closely delinquent when thinking about building secured software

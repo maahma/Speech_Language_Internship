@@ -1,1 +1,0 @@
-The largest ever FinFET design was implemented with the Synopsys platform, as was the largest networking processor in the world

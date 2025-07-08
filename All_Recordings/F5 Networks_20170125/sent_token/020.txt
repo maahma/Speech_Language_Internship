@@ -1,1 +1,0 @@
-We also spoke about customers emerging desires to have consistent security policies across traditional on-premise data centers as well as private and public clouds, as the movement of application workloads to cloud architecture accelerates

@@ -1,1 +1,0 @@
-OpenStack and OpenShift is kind of a mix often OpenShift will run on top of OpenStack, but some of the largest deals that I mentioned are over telco deals that were just OpenStack

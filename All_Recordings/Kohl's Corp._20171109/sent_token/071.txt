@@ -1,1 +1,0 @@
-These include moves like building out our fulfillment infrastructure, moving much of our technology to the cloud and launching new applications to make the customer experience easier

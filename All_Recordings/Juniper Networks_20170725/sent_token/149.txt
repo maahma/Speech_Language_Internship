@@ -1,1 +1,0 @@
-New mode is around enabling customers to migrate to public clouds or to hybrid cloud offerings without compromising their data, their users, their workloads

@@ -1,1 +1,0 @@
-Actually, the first two groups because in order for emulation and other hardware isolation methods to be useful, it is really in the proximity of the intersection of hardware and software which means it's the high-end chips that invariably drive a lot of software or it is the systems companies that integrate multiple chips around building apps or building entire product

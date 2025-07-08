@@ -1,1 +1,0 @@
-One of those big top four was OpenShift running on OpenStack just kind of looking down

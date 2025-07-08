@@ -1,1 +1,0 @@
-This hybrid approach improves time to mitigation in scenarios where website and application availability are crucial to customer interactions

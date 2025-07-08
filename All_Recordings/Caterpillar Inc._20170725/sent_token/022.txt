@@ -1,1 +1,0 @@
-As we ramp up production, we remain focused on lean principles, and we are working diligently to bring production up quickly but also efficiently

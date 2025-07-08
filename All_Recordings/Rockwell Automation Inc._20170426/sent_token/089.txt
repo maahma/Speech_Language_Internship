@@ -1,1 +1,0 @@
-Just to clarify, support for the PLC-5 will go on for many years, so you won't be able to buy a new one forever, but we'll continue to support the PLC-5 for a long, long time

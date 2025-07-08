@@ -1,1 +1,0 @@
-In our 10-K interest rates sensitivity analysis, we assume that as benchmark rates increase, our personal savings rate increases with a deposit data of 1. However, if you look over the last couple of years, the prime rates has increased by a 100 basis points, while our own personal savings rate has only increased by 25 basis point

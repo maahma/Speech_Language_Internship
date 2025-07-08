@@ -1,1 +1,0 @@
-Unlike the applications business where customers move to SaaS subscriptions, stop buying upfront licenses and shelve application support, BYOL customers can leverage their years of investment in Oracle database and technology software and bring those licenses to the Oracle cloud infrastructure instead of cancelling their licenses and support and moving to rent new licenses

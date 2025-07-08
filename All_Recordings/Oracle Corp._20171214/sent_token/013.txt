@@ -1,1 +1,0 @@
-As traditional hosting services become a smaller part of total PaaS and IaaS, the underlying growth of PaaS and next-gen IaaS will be more visible

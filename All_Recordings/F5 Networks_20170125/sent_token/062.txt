@@ -1,1 +1,0 @@
-We have been beta testing Velcro in several micro services environments and we are excited by early indications that it will enable an entirely new category of F5 solutions with our new application services process
