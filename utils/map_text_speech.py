@@ -1,7 +1,7 @@
 import os
 import csv
 
-reco_dir = os.path.join("..", "All_Recordings")
+reco_dir = os.path.join("/mnt/parscratch/users/ac4ma/All_Recordings")
 
 
 for company in os.listdir(reco_dir):
