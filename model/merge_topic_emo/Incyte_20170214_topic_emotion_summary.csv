@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Neutral,3
+-1,Outlier,Positive (Low/Mid arousal),2
+0,"ongoing expense, cash stock, total revenue, cash expense, upfront cash, significant portion, previous slide, left hand, new indications, extensive product","Excited (Positive, High arousal)",1
+0,"ongoing expense, cash stock, total revenue, cash expense, upfront cash, significant portion, previous slide, left hand, new indications, extensive product",Negative (Low/Med arousal),10
+0,"ongoing expense, cash stock, total revenue, cash expense, upfront cash, significant portion, previous slide, left hand, new indications, extensive product",Neutral,24
+0,"ongoing expense, cash stock, total revenue, cash expense, upfront cash, significant portion, previous slide, left hand, new indications, extensive product",Positive (Low/Mid arousal),11
+1,"net product, net adjustment, net sales, , , , , , , ","Excited (Positive, High arousal)",2
+1,"net product, net adjustment, net sales, , , , , , , ",Negative (Low/Med arousal),6
+1,"net product, net adjustment, net sales, , , , , , , ",Neutral,7

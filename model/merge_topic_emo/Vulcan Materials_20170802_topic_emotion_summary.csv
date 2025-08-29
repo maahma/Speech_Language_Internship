@@ -1,0 +1,29 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",17
+-1,Outlier,Negative (Low/Med arousal),33
+-1,Outlier,Neutral,64
+-1,Outlier,Positive (Low/Mid arousal),13
+0,"private side, private market, local highway, big margin, additional state, big increase, large projects, public side, , ","Excited (Positive, High arousal)",9
+0,"private side, private market, local highway, big margin, additional state, big increase, large projects, public side, , ",Negative (Low/Med arousal),4
+0,"private side, private market, local highway, big margin, additional state, big increase, large projects, public side, , ",Neutral,14
+0,"private side, private market, local highway, big margin, additional state, big increase, large projects, public side, , ",Positive (Low/Mid arousal),1
+1,"long term, solid market, premier position, bigger backlogs, better backlogs, great job, , , , ","Excited (Positive, High arousal)",5
+1,"long term, solid market, premier position, bigger backlogs, better backlogs, great job, , , , ",Negative (Low/Med arousal),6
+1,"long term, solid market, premier position, bigger backlogs, better backlogs, great job, , , , ",Neutral,13
+1,"long term, solid market, premier position, bigger backlogs, better backlogs, great job, , , , ",Positive (Low/Mid arousal),4
+2,"large projects, massive projects, complex designs, dry days, better mix, major supplier, , , , ",Negative (Low/Med arousal),8
+2,"large projects, massive projects, complex designs, dry days, better mix, major supplier, , , , ",Neutral,12
+3,"public transportation, public construction, big highway, real issue, private construction, flip side, new state, positive territory, construction pipeline, big differences",Negative (Low/Med arousal),7
+3,"public transportation, public construction, big highway, real issue, private construction, flip side, new state, positive territory, construction pipeline, big differences",Neutral,7
+3,"public transportation, public construction, big highway, real issue, private construction, flip side, new state, positive territory, construction pipeline, big differences",Positive (Low/Mid arousal),2
+4,"strong sign, good market, fundamental demand, , , , , , , ","Excited (Positive, High arousal)",7
+4,"strong sign, good market, fundamental demand, , , , , , , ",Negative (Low/Med arousal),4
+4,"strong sign, good market, fundamental demand, , , , , , , ",Neutral,4
+4,"strong sign, good market, fundamental demand, , , , , , , ",Positive (Low/Mid arousal),1
+5,"aggregate shipments, specific circumstances, rough weather, reportable accidents, normalized basis, geographic mix, , , , ","Excited (Positive, High arousal)",1
+5,"aggregate shipments, specific circumstances, rough weather, reportable accidents, normalized basis, geographic mix, , , , ",Negative (Low/Med arousal),3
+5,"aggregate shipments, specific circumstances, rough weather, reportable accidents, normalized basis, geographic mix, , , , ",Neutral,8
+5,"aggregate shipments, specific circumstances, rough weather, reportable accidents, normalized basis, geographic mix, , , , ",Positive (Low/Mid arousal),2
+6,", , , , , , , , , ","Excited (Positive, High arousal)",9
+6,", , , , , , , , , ",Negative (Low/Med arousal),1
+6,", , , , , , , , , ",Neutral,3

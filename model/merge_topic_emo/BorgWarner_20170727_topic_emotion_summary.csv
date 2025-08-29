@@ -1,0 +1,13 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),5
+-1,Outlier,Neutral,17
+-1,Outlier,Positive (Low/Mid arousal),2
+0,"incremental margins, light vehicle, organic sales, diluted share, comparable basis, incremental margin, higher sales, corporate costs, net cash, organic basis","Excited (Positive, High arousal)",1
+0,"incremental margins, light vehicle, organic sales, diluted share, comparable basis, incremental margin, higher sales, corporate costs, net cash, organic basis",Negative (Low/Med arousal),15
+0,"incremental margins, light vehicle, organic sales, diluted share, comparable basis, incremental margin, higher sales, corporate costs, net cash, organic basis",Neutral,28
+0,"incremental margins, light vehicle, organic sales, diluted share, comparable basis, incremental margin, higher sales, corporate costs, net cash, organic basis",Positive (Low/Mid arousal),9
+1,"commercial vehicle, new product, largest customers, impending electrification, , , , , , ","Excited (Positive, High arousal)",2
+1,"commercial vehicle, new product, largest customers, impending electrification, , , , , , ",Negative (Low/Med arousal),1
+1,"commercial vehicle, new product, largest customers, impending electrification, , , , , , ",Neutral,7
+1,"commercial vehicle, new product, largest customers, impending electrification, , , , , , ",Positive (Low/Mid arousal),2

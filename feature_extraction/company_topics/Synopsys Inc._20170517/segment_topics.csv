@@ -1,0 +1,182 @@
+filename,topic_id,topic_keywords
+001.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+002.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+003.txt,-1,Outlier
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,-1,Outlier
+007.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+008.txt,-1,Outlier
+009.txt,-1,Outlier
+010.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+011.txt,-1,Outlier
+012.txt,-1,Outlier
+013.txt,-1,Outlier
+014.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+015.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+016.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+017.txt,-1,Outlier
+018.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+019.txt,-1,Outlier
+020.txt,-1,Outlier
+021.txt,-1,Outlier
+022.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+023.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+024.txt,-1,Outlier
+025.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+026.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+027.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+028.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+029.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+030.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+031.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+032.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+033.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+034.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+035.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+036.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+037.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+038.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+039.txt,-1,Outlier
+040.txt,-1,Outlier
+041.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+042.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+043.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+044.txt,-1,Outlier
+045.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+046.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+047.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+048.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+049.txt,-1,Outlier
+050.txt,-1,Outlier
+051.txt,-1,Outlier
+052.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+053.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+054.txt,-1,Outlier
+055.txt,-1,Outlier
+056.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+057.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+058.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+059.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+060.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+061.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+062.txt,-1,Outlier
+063.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+064.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+065.txt,-1,Outlier
+066.txt,-1,Outlier
+067.txt,-1,Outlier
+068.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+069.txt,-1,Outlier
+070.txt,-1,Outlier
+071.txt,-1,Outlier
+072.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+073.txt,-1,Outlier
+074.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+075.txt,-1,Outlier
+076.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+077.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+078.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+079.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+080.txt,-1,Outlier
+081.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+082.txt,-1,Outlier
+083.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+084.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+085.txt,-1,Outlier
+086.txt,-1,Outlier
+087.txt,-1,Outlier
+088.txt,-1,Outlier
+089.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+090.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+091.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+092.txt,-1,Outlier
+093.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+094.txt,-1,Outlier
+095.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+096.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+097.txt,-1,Outlier
+098.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+099.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+100.txt,-1,Outlier
+101.txt,-1,Outlier
+102.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+103.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+104.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+105.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+106.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+107.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+108.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+109.txt,-1,Outlier
+110.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+111.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+112.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+113.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+114.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+115.txt,-1,Outlier
+116.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+117.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+118.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+119.txt,-1,Outlier
+120.txt,-1,Outlier
+121.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+122.txt,-1,Outlier
+123.txt,-1,Outlier
+124.txt,-1,Outlier
+125.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+126.txt,-1,Outlier
+127.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+128.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+129.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+130.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+131.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+132.txt,-1,Outlier
+133.txt,-1,Outlier
+134.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+135.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+136.txt,-1,Outlier
+137.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+138.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+139.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+140.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+141.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+142.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+143.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+144.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+145.txt,-1,Outlier
+146.txt,-1,Outlier
+147.txt,-1,Outlier
+148.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+149.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+150.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+151.txt,-1,Outlier
+152.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+153.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+154.txt,-1,Outlier
+155.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+156.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+157.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+158.txt,-1,Outlier
+159.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+160.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+161.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+162.txt,-1,Outlier
+163.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+164.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+165.txt,-1,Outlier
+166.txt,-1,Outlier
+167.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+168.txt,-1,Outlier
+169.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+170.txt,2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands"
+171.txt,-1,Outlier
+172.txt,-1,Outlier
+173.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+174.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+175.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+176.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+177.txt,-1,Outlier
+178.txt,-1,Outlier
+179.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "
+180.txt,0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies"
+181.txt,1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , "

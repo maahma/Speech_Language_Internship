@@ -1,0 +1,25 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",20
+-1,Outlier,Negative (Low/Med arousal),6
+-1,Outlier,"Nervous (Negative, High arousal)",14
+-1,Outlier,Neutral,42
+0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement","Excited (Positive, High arousal)",9
+0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement",Negative (Low/Med arousal),7
+0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement","Nervous (Negative, High arousal)",10
+0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement",Neutral,30
+1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy","Excited (Positive, High arousal)",2
+1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy",Negative (Low/Med arousal),5
+1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy","Nervous (Negative, High arousal)",10
+1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy",Neutral,13
+2,"political instability, key markets, improved product, economic conditions, , , , , , ","Excited (Positive, High arousal)",7
+2,"political instability, key markets, improved product, economic conditions, , , , , , ",Negative (Low/Med arousal),1
+2,"political instability, key markets, improved product, economic conditions, , , , , , ","Nervous (Negative, High arousal)",5
+2,"political instability, key markets, improved product, economic conditions, , , , , , ",Neutral,12
+3,", , , , , , , , , ","Excited (Positive, High arousal)",10
+3,", , , , , , , , , ",Negative (Low/Med arousal),1
+3,", , , , , , , , , ","Nervous (Negative, High arousal)",1
+3,", , , , , , , , , ",Neutral,10
+4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach","Excited (Positive, High arousal)",6
+4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach",Negative (Low/Med arousal),1
+4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach","Nervous (Negative, High arousal)",3
+4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach",Neutral,11

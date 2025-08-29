@@ -1,0 +1,328 @@
+filename,topic_id,topic_keywords
+001.txt,2,"easy comparisons, , , , , , , , , "
+002.txt,2,"easy comparisons, , , , , , , , , "
+003.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,-1,Outlier
+007.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+008.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+009.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+010.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+011.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+012.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+013.txt,-1,Outlier
+014.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+015.txt,-1,Outlier
+016.txt,-1,Outlier
+017.txt,-1,Outlier
+018.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+019.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+020.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+021.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+022.txt,-1,Outlier
+023.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+024.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+025.txt,-1,Outlier
+026.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+027.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+028.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+029.txt,-1,Outlier
+030.txt,-1,Outlier
+031.txt,-1,Outlier
+032.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+033.txt,-1,Outlier
+034.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+035.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+036.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+037.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+038.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+039.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+040.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+041.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+042.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+043.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+044.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+045.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+046.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+047.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+048.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+049.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+050.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+051.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+052.txt,-1,Outlier
+053.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+054.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+055.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+056.txt,-1,Outlier
+057.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+058.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+059.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+060.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+061.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+062.txt,-1,Outlier
+063.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+064.txt,-1,Outlier
+065.txt,-1,Outlier
+066.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+067.txt,-1,Outlier
+068.txt,-1,Outlier
+069.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+070.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+071.txt,-1,Outlier
+072.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+073.txt,-1,Outlier
+074.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+075.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+076.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+077.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+078.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+079.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+080.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+081.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+082.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+083.txt,-1,Outlier
+084.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+085.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+086.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+087.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+088.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+089.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+090.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+091.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+092.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+093.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+094.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+095.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+096.txt,2,"easy comparisons, , , , , , , , , "
+097.txt,2,"easy comparisons, , , , , , , , , "
+098.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+099.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+100.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+101.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+102.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+103.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+104.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+105.txt,2,"easy comparisons, , , , , , , , , "
+106.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+107.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+108.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+109.txt,-1,Outlier
+110.txt,-1,Outlier
+111.txt,2,"easy comparisons, , , , , , , , , "
+112.txt,-1,Outlier
+113.txt,2,"easy comparisons, , , , , , , , , "
+114.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+115.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+116.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+117.txt,-1,Outlier
+118.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+119.txt,-1,Outlier
+120.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+121.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+122.txt,-1,Outlier
+123.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+124.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+125.txt,-1,Outlier
+126.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+127.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+128.txt,-1,Outlier
+129.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+130.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+131.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+132.txt,-1,Outlier
+133.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+134.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+135.txt,-1,Outlier
+136.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+137.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+138.txt,2,"easy comparisons, , , , , , , , , "
+139.txt,2,"easy comparisons, , , , , , , , , "
+140.txt,2,"easy comparisons, , , , , , , , , "
+141.txt,2,"easy comparisons, , , , , , , , , "
+142.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+143.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+144.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+145.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+146.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+147.txt,-1,Outlier
+148.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+149.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+150.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+151.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+152.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+153.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+154.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+155.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+156.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+157.txt,-1,Outlier
+158.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+159.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+160.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+161.txt,2,"easy comparisons, , , , , , , , , "
+162.txt,2,"easy comparisons, , , , , , , , , "
+163.txt,2,"easy comparisons, , , , , , , , , "
+164.txt,2,"easy comparisons, , , , , , , , , "
+165.txt,-1,Outlier
+166.txt,-1,Outlier
+167.txt,-1,Outlier
+168.txt,2,"easy comparisons, , , , , , , , , "
+169.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+170.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+171.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+172.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+173.txt,-1,Outlier
+174.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+175.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+176.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+177.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+178.txt,-1,Outlier
+179.txt,-1,Outlier
+180.txt,-1,Outlier
+181.txt,-1,Outlier
+182.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+183.txt,2,"easy comparisons, , , , , , , , , "
+184.txt,2,"easy comparisons, , , , , , , , , "
+185.txt,2,"easy comparisons, , , , , , , , , "
+186.txt,2,"easy comparisons, , , , , , , , , "
+187.txt,2,"easy comparisons, , , , , , , , , "
+188.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+189.txt,-1,Outlier
+190.txt,-1,Outlier
+191.txt,2,"easy comparisons, , , , , , , , , "
+192.txt,-1,Outlier
+193.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+194.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+195.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+196.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+197.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+198.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+199.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+200.txt,-1,Outlier
+201.txt,-1,Outlier
+202.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+203.txt,-1,Outlier
+204.txt,-1,Outlier
+205.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+206.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+207.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+208.txt,-1,Outlier
+209.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+210.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+211.txt,-1,Outlier
+212.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+213.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+214.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+215.txt,2,"easy comparisons, , , , , , , , , "
+216.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+217.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+218.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+219.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+220.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+221.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+222.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+223.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+224.txt,2,"easy comparisons, , , , , , , , , "
+225.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+226.txt,-1,Outlier
+227.txt,-1,Outlier
+228.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+229.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+230.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+231.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+232.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+233.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+234.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+235.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+236.txt,-1,Outlier
+237.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+238.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+239.txt,2,"easy comparisons, , , , , , , , , "
+240.txt,2,"easy comparisons, , , , , , , , , "
+241.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+242.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+243.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+244.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+245.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+246.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+247.txt,2,"easy comparisons, , , , , , , , , "
+248.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+249.txt,-1,Outlier
+250.txt,-1,Outlier
+251.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+252.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+253.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+254.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+255.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+256.txt,-1,Outlier
+257.txt,-1,Outlier
+258.txt,-1,Outlier
+259.txt,-1,Outlier
+260.txt,-1,Outlier
+261.txt,-1,Outlier
+262.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+263.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+264.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+265.txt,-1,Outlier
+266.txt,2,"easy comparisons, , , , , , , , , "
+267.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+268.txt,-1,Outlier
+269.txt,-1,Outlier
+270.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+271.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+272.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+273.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+274.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+275.txt,-1,Outlier
+276.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+277.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+278.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+279.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+280.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+281.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+282.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+283.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+284.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+285.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+286.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+287.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+288.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+289.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+290.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+291.txt,-1,Outlier
+292.txt,-1,Outlier
+293.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+294.txt,0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume"
+295.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+296.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+297.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+298.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+299.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+300.txt,-1,Outlier
+301.txt,5,"ongoing achievement, encouraging result, broad growth, , , , , , , "
+302.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+303.txt,3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , "
+304.txt,-1,Outlier
+305.txt,-1,Outlier
+306.txt,-1,Outlier
+307.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+308.txt,-1,Outlier
+309.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+310.txt,-1,Outlier
+311.txt,2,"easy comparisons, , , , , , , , , "
+312.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+313.txt,-1,Outlier
+314.txt,2,"easy comparisons, , , , , , , , , "
+315.txt,2,"easy comparisons, , , , , , , , , "
+316.txt,2,"easy comparisons, , , , , , , , , "
+317.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+318.txt,2,"easy comparisons, , , , , , , , , "
+319.txt,2,"easy comparisons, , , , , , , , , "
+320.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+321.txt,1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, "
+322.txt,4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries"
+323.txt,2,"easy comparisons, , , , , , , , , "
+324.txt,-1,Outlier
+325.txt,2,"easy comparisons, , , , , , , , , "
+326.txt,2,"easy comparisons, , , , , , , , , "
+327.txt,-1,Outlier

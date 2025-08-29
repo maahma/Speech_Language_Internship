@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),9
+-1,Outlier,Neutral,15
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"free cash, discrete tax, recent comparison, higher tax, original guidance, higher number, average rate, , , ",Negative (Low/Med arousal),9
+0,"free cash, discrete tax, recent comparison, higher tax, original guidance, higher number, average rate, , , ",Neutral,24
+0,"free cash, discrete tax, recent comparison, higher tax, original guidance, higher number, average rate, , , ",Positive (Low/Mid arousal),2
+1,"free cash, long term, sustainable growth, focused investment, competitive advantages, competitive advantage, , , , ","Excited (Positive, High arousal)",2
+1,"free cash, long term, sustainable growth, focused investment, competitive advantages, competitive advantage, , , , ",Negative (Low/Med arousal),3
+1,"free cash, long term, sustainable growth, focused investment, competitive advantages, competitive advantage, , , , ",Neutral,11
+1,"free cash, long term, sustainable growth, focused investment, competitive advantages, competitive advantage, , , , ",Positive (Low/Mid arousal),5

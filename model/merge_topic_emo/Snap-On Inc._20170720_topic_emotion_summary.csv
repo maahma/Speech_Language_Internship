@@ -1,0 +1,29 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",18
+-1,Outlier,Negative (Low/Med arousal),15
+-1,Outlier,Neutral,40
+-1,Outlier,Positive (Low/Mid arousal),5
+0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume","Excited (Positive, High arousal)",7
+0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume",Negative (Low/Med arousal),6
+0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume",Neutral,42
+0,"single digit, organic sales, critical industries, automotive repair, broad gains, undercar equipment, organic growth, independent repair, varying increases, strong volume",Positive (Low/Mid arousal),9
+1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, ","Excited (Positive, High arousal)",4
+1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, ",Negative (Low/Med arousal),17
+1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, ",Neutral,39
+1,"new product, big orders, monthly events, significant changes, recent periods, big events, different thing, abundant market, whole bunch, ",Positive (Low/Mid arousal),2
+2,"easy comparisons, , , , , , , , , ","Excited (Positive, High arousal)",11
+2,"easy comparisons, , , , , , , , , ",Negative (Low/Med arousal),8
+2,"easy comparisons, , , , , , , , , ",Neutral,15
+2,"easy comparisons, , , , , , , , , ",Positive (Low/Mid arousal),3
+3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , ","Excited (Positive, High arousal)",2
+3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , ",Negative (Low/Med arousal),10
+3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , ",Neutral,21
+3,"new product, different experience, robust market, strong franchise, initial venue, better computer, , , , ",Positive (Low/Mid arousal),1
+4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries","Excited (Positive, High arousal)",2
+4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries",Negative (Low/Med arousal),11
+4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries",Neutral,16
+4,"double digits, weaker tool, tertiary effect, slim design, full range, considerable time, primary driver, initial effect, new products, critical industries",Positive (Low/Mid arousal),1
+5,"ongoing achievement, encouraging result, broad growth, , , , , , , ","Excited (Positive, High arousal)",6
+5,"ongoing achievement, encouraging result, broad growth, , , , , , , ",Negative (Low/Med arousal),2
+5,"ongoing achievement, encouraging result, broad growth, , , , , , , ",Neutral,12
+5,"ongoing achievement, encouraging result, broad growth, , , , , , , ",Positive (Low/Mid arousal),2

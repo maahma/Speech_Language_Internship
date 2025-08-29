@@ -1,0 +1,136 @@
+filename,topic_id,topic_keywords
+001.txt,-1,Outlier
+002.txt,-1,Outlier
+003.txt,-1,Outlier
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+007.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+008.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+009.txt,-1,Outlier
+010.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+011.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+012.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+013.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+014.txt,-1,Outlier
+015.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+016.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+017.txt,-1,Outlier
+018.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+019.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+020.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+021.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+022.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+023.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+024.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+025.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+026.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+027.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+028.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+029.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+030.txt,-1,Outlier
+031.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+032.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+033.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+034.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+035.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+036.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+037.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+038.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+039.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+040.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+041.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+042.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+043.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+044.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+045.txt,-1,Outlier
+046.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+047.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+048.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+049.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+050.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+051.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+052.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+053.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+054.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+055.txt,-1,Outlier
+056.txt,-1,Outlier
+057.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+058.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+059.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+060.txt,-1,Outlier
+061.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+062.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+063.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+064.txt,-1,Outlier
+065.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+066.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+067.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+068.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+069.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+070.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+071.txt,-1,Outlier
+072.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+073.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+074.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+075.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+076.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+077.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+078.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+079.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+080.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+081.txt,1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp"
+082.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+083.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+084.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+085.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+086.txt,-1,Outlier
+087.txt,-1,Outlier
+088.txt,-1,Outlier
+089.txt,-1,Outlier
+090.txt,-1,Outlier
+091.txt,-1,Outlier
+092.txt,-1,Outlier
+093.txt,-1,Outlier
+094.txt,-1,Outlier
+095.txt,-1,Outlier
+096.txt,-1,Outlier
+097.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+098.txt,-1,Outlier
+099.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+100.txt,-1,Outlier
+101.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+102.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+103.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+104.txt,-1,Outlier
+105.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+106.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+107.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+108.txt,-1,Outlier
+109.txt,-1,Outlier
+110.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+111.txt,2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels"
+112.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+113.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+114.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+115.txt,-1,Outlier
+116.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+117.txt,-1,Outlier
+118.txt,-1,Outlier
+119.txt,-1,Outlier
+120.txt,-1,Outlier
+121.txt,-1,Outlier
+122.txt,-1,Outlier
+123.txt,-1,Outlier
+124.txt,-1,Outlier
+125.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"
+126.txt,-1,Outlier
+127.txt,-1,Outlier
+128.txt,-1,Outlier
+129.txt,-1,Outlier
+130.txt,-1,Outlier
+131.txt,-1,Outlier
+132.txt,-1,Outlier
+133.txt,-1,Outlier
+134.txt,-1,Outlier
+135.txt,0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion"

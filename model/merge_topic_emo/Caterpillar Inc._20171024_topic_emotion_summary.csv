@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",3
+-1,Outlier,Negative (Low/Med arousal),4
+-1,Outlier,Neutral,2
+-1,Outlier,Positive (Low/Mid arousal),2
+0,"higher sales, adjusted profit, higher end, new equipment, favorable price, previous outlook, strong demand, improved price, industrial applications, higher estimate","Excited (Positive, High arousal)",13
+0,"higher sales, adjusted profit, higher end, new equipment, favorable price, previous outlook, strong demand, improved price, industrial applications, higher estimate",Negative (Low/Med arousal),23
+0,"higher sales, adjusted profit, higher end, new equipment, favorable price, previous outlook, strong demand, improved price, industrial applications, higher estimate",Neutral,37
+0,"higher sales, adjusted profit, higher end, new equipment, favorable price, previous outlook, strong demand, improved price, industrial applications, higher estimate",Positive (Low/Mid arousal),12
+1,"favorable change, favorable dealer, historical levels, favorable changes, significant reductions, net change, retail demand, significant inventory, favorable sales, higher production","Excited (Positive, High arousal)",1
+1,"favorable change, favorable dealer, historical levels, favorable changes, significant reductions, net change, retail demand, significant inventory, favorable sales, higher production",Negative (Low/Med arousal),4
+1,"favorable change, favorable dealer, historical levels, favorable changes, significant reductions, net change, retail demand, significant inventory, favorable sales, higher production",Neutral,8
+2,"significant increase, key areas, higher steel, flexible cost, higher material, higher production, favorable impact, profitable growth, , ","Excited (Positive, High arousal)",1
+2,"significant increase, key areas, higher steel, flexible cost, higher material, higher production, favorable impact, profitable growth, , ",Negative (Low/Med arousal),1
+2,"significant increase, key areas, higher steel, flexible cost, higher material, higher production, favorable impact, profitable growth, , ",Neutral,8
+2,"significant increase, key areas, higher steel, flexible cost, higher material, higher production, favorable impact, profitable growth, , ",Positive (Low/Mid arousal),2

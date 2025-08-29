@@ -1,0 +1,7 @@
+topic_id,topic_keywords,emotion_label,count
+0,"free cash, solid waste, high end, core price, diluted share, whole lot, several issues, significant drop, strong operating, strong pricing","Excited (Positive, High arousal)",27
+0,"free cash, solid waste, high end, core price, diluted share, whole lot, several issues, significant drop, strong operating, strong pricing",Negative (Low/Med arousal),37
+0,"free cash, solid waste, high end, core price, diluted share, whole lot, several issues, significant drop, strong operating, strong pricing",Neutral,63
+0,"free cash, solid waste, high end, core price, diluted share, whole lot, several issues, significant drop, strong operating, strong pricing",Positive (Low/Mid arousal),14
+1,"external customers, sophisticated reporting, whole list, big data, internal customers, important part, big technology, advanced analytics, big job, low margin",Negative (Low/Med arousal),6
+1,"external customers, sophisticated reporting, whole list, big data, internal customers, important part, big technology, advanced analytics, big job, low margin",Neutral,11

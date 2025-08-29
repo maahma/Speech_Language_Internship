@@ -1,0 +1,22 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",14
+-1,Outlier,Negative (Low/Med arousal),13
+-1,Outlier,Neutral,35
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"commerce unit, external development, real food, retail pricing, right direction, strategic transition, personalized nutrition, many reasons, longer term, normal promotion","Excited (Positive, High arousal)",3
+0,"commerce unit, external development, real food, retail pricing, right direction, strategic transition, personalized nutrition, many reasons, longer term, normal promotion",Negative (Low/Med arousal),10
+0,"commerce unit, external development, real food, retail pricing, right direction, strategic transition, personalized nutrition, many reasons, longer term, normal promotion",Neutral,13
+1,"back half, strong innovation, successful launch, solid results, several meal, savory crackers, strategic partnership, pure play, original shapes, larger chocolate","Excited (Positive, High arousal)",5
+1,"back half, strong innovation, successful launch, solid results, several meal, savory crackers, strategic partnership, pure play, original shapes, larger chocolate",Negative (Low/Med arousal),7
+1,"back half, strong innovation, successful launch, solid results, several meal, savory crackers, strategic partnership, pure play, original shapes, larger chocolate",Neutral,10
+1,"back half, strong innovation, successful launch, solid results, several meal, savory crackers, strategic partnership, pure play, original shapes, larger chocolate",Positive (Low/Mid arousal),2
+2,"great job, good add, constant watch, different things, additional actions, top talent, , , , ","Excited (Positive, High arousal)",8
+2,"great job, good add, constant watch, different things, additional actions, top talent, , , , ",Negative (Low/Med arousal),1
+2,"great job, good add, constant watch, different things, additional actions, top talent, , , , ",Neutral,12
+2,"great job, good add, constant watch, different things, additional actions, top talent, , , , ",Positive (Low/Mid arousal),1
+3,"private label, broth business, center store, robust analytics, sharper focus, larger impact, private labels, promotional approach, positive performance, fresh categories","Excited (Positive, High arousal)",4
+3,"private label, broth business, center store, robust analytics, sharper focus, larger impact, private labels, promotional approach, positive performance, fresh categories",Negative (Low/Med arousal),6
+3,"private label, broth business, center store, robust analytics, sharper focus, larger impact, private labels, promotional approach, positive performance, fresh categories",Neutral,11
+4,"low yields, appropriate steps, immediate issues, seasonal inventory, key customer, , , , , ","Excited (Positive, High arousal)",3
+4,"low yields, appropriate steps, immediate issues, seasonal inventory, key customer, , , , , ",Negative (Low/Med arousal),5
+4,"low yields, appropriate steps, immediate issues, seasonal inventory, key customer, , , , , ",Neutral,7

@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",10
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,Neutral,19
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"new standard, free cash, excess tax, lower media, less capital, extra tax, effective tax, additional manufacturing, continued investment, corporate structure","Excited (Positive, High arousal)",3
+0,"new standard, free cash, excess tax, lower media, less capital, extra tax, effective tax, additional manufacturing, continued investment, corporate structure",Negative (Low/Med arousal),4
+0,"new standard, free cash, excess tax, lower media, less capital, extra tax, effective tax, additional manufacturing, continued investment, corporate structure",Neutral,14
+0,"new standard, free cash, excess tax, lower media, less capital, extra tax, effective tax, additional manufacturing, continued investment, corporate structure",Positive (Low/Mid arousal),3
+1,"international doctors, promotional activity, clear aligner, foreign exchange, strong demand, total number, total doctors, international markets, new products, ortho utilization",Negative (Low/Med arousal),8
+1,"international doctors, promotional activity, clear aligner, foreign exchange, strong demand, total number, total doctors, international markets, new products, ortho utilization",Neutral,11
+1,"international doctors, promotional activity, clear aligner, foreign exchange, strong demand, total number, total doctors, international markets, new products, ortho utilization",Positive (Low/Mid arousal),3
+2,"good volume, gross margin, strong shipments, unfilled backlog, strong revenue, several months, new orders, new territories, latter stages, geographic expansion","Excited (Positive, High arousal)",1
+2,"good volume, gross margin, strong shipments, unfilled backlog, strong revenue, several months, new orders, new territories, latter stages, geographic expansion",Negative (Low/Med arousal),5
+2,"good volume, gross margin, strong shipments, unfilled backlog, strong revenue, several months, new orders, new territories, latter stages, geographic expansion",Neutral,11
+2,"good volume, gross margin, strong shipments, unfilled backlog, strong revenue, several months, new orders, new territories, latter stages, geographic expansion",Positive (Low/Mid arousal),2

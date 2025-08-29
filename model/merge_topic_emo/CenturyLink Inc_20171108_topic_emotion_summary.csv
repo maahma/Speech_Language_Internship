@@ -1,0 +1,15 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",15
+-1,Outlier,Negative (Low/Med arousal),18
+-1,Outlier,Neutral,25
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"great capability, excellent integration, digital transformation, , , , , , , ","Excited (Positive, High arousal)",5
+0,"great capability, excellent integration, digital transformation, , , , , , , ",Negative (Low/Med arousal),4
+0,"great capability, excellent integration, digital transformation, , , , , , , ",Neutral,12
+1,"specific things, higher profitability, extraordinary customer, differentiated customer, combined business, better products, better growth, better price, better discount, free cash","Excited (Positive, High arousal)",4
+1,"specific things, higher profitability, extraordinary customer, differentiated customer, combined business, better products, better growth, better price, better discount, free cash",Negative (Low/Med arousal),5
+1,"specific things, higher profitability, extraordinary customer, differentiated customer, combined business, better products, better growth, better price, better discount, free cash",Neutral,10
+1,"specific things, higher profitability, extraordinary customer, differentiated customer, combined business, better products, better growth, better price, better discount, free cash",Positive (Low/Mid arousal),2
+2,"unified network, small locations, profitable growth, positive outcome, global marketplace, competitive capabilities, , , , ","Excited (Positive, High arousal)",2
+2,"unified network, small locations, profitable growth, positive outcome, global marketplace, competitive capabilities, , , , ",Negative (Low/Med arousal),4
+2,"unified network, small locations, profitable growth, positive outcome, global marketplace, competitive capabilities, , , , ",Neutral,7

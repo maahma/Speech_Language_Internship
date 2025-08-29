@@ -1,0 +1,9 @@
+topic_id,topic_keywords,emotion_label,count
+0,"net sales, retail takeaway, back part, retail sales, strong growth, nice growth, crunchy cookie, everyday business, higher levels, big piece","Excited (Positive, High arousal)",43
+0,"net sales, retail takeaway, back part, retail sales, strong growth, nice growth, crunchy cookie, everyday business, higher levels, big piece",Negative (Low/Med arousal),52
+0,"net sales, retail takeaway, back part, retail sales, strong growth, nice growth, crunchy cookie, everyday business, higher levels, big piece",Neutral,103
+0,"net sales, retail takeaway, back part, retail sales, strong growth, nice growth, crunchy cookie, everyday business, higher levels, big piece",Positive (Low/Mid arousal),2
+1,"great question, , , , , , , , , ","Excited (Positive, High arousal)",9
+1,"great question, , , , , , , , , ",Negative (Low/Med arousal),2
+1,"great question, , , , , , , , , ",Neutral,8
+1,"great question, , , , , , , , , ",Positive (Low/Mid arousal),1

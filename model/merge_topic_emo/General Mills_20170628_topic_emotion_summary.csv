@@ -1,0 +1,15 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Negative (Low/Med arousal),2
+-1,Outlier,Neutral,3
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"adjusted tax, net sales, total company, free cash, strong margin, right zone, significant gap, significant progress, quarterly core, key brands","Excited (Positive, High arousal)",3
+0,"adjusted tax, net sales, total company, free cash, strong margin, right zone, significant gap, significant progress, quarterly core, key brands",Negative (Low/Med arousal),12
+0,"adjusted tax, net sales, total company, free cash, strong margin, right zone, significant gap, significant progress, quarterly core, key brands",Neutral,21
+0,"adjusted tax, net sales, total company, free cash, strong margin, right zone, significant gap, significant progress, quarterly core, key brands",Positive (Low/Mid arousal),11
+1,"total segment, diluted earnings, diluted shares, net sales, recent innovation, net reduction, lower input, lower sales, continued momentum, certain items",Negative (Low/Med arousal),9
+1,"total segment, diluted earnings, diluted shares, net sales, recent innovation, net reduction, lower input, lower sales, continued momentum, certain items",Neutral,13
+1,"total segment, diluted earnings, diluted shares, net sales, recent innovation, net reduction, lower input, lower sales, continued momentum, certain items",Positive (Low/Mid arousal),2
+2,"net sales, retail segment, organic sales, measured channels, frozen dough, hot snacks, double digit, net price, extra month, fiscal calendar",Negative (Low/Med arousal),2
+2,"net sales, retail segment, organic sales, measured channels, frozen dough, hot snacks, double digit, net price, extra month, fiscal calendar",Neutral,12
+2,"net sales, retail segment, organic sales, measured channels, frozen dough, hot snacks, double digit, net price, extra month, fiscal calendar",Positive (Low/Mid arousal),4

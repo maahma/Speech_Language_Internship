@@ -1,0 +1,21 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",8
+-1,Outlier,Negative (Low/Med arousal),10
+-1,Outlier,Neutral,18
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"drill expectations, significant well, higher proppant, new well, technical limit, wider injection, well results, original well, total number, technical limits","Excited (Positive, High arousal)",4
+0,"drill expectations, significant well, higher proppant, new well, technical limit, wider injection, well results, original well, total number, technical limits",Negative (Low/Med arousal),7
+0,"drill expectations, significant well, higher proppant, new well, technical limit, wider injection, well results, original well, total number, technical limits",Neutral,17
+0,"drill expectations, significant well, higher proppant, new well, technical limit, wider injection, well results, original well, total number, technical limits",Positive (Low/Mid arousal),4
+1,"net production, cubic feet, significant cash, central processing, high number, full field, future phases, extreme winter, heavy lift, new well",Negative (Low/Med arousal),10
+1,"net production, cubic feet, significant cash, central processing, high number, full field, future phases, extreme winter, heavy lift, new well",Neutral,10
+1,"net production, cubic feet, significant cash, central processing, high number, full field, future phases, extreme winter, heavy lift, new well",Positive (Low/Mid arousal),1
+2,"early production, important role, general guidance, current strip, big transition, free cash, , , , ","Excited (Positive, High arousal)",5
+2,"early production, important role, general guidance, current strip, big transition, free cash, , , , ",Negative (Low/Med arousal),4
+2,"early production, important role, general guidance, current strip, big transition, free cash, , , , ",Neutral,2
+2,"early production, important role, general guidance, current strip, big transition, free cash, , , , ",Positive (Low/Mid arousal),5
+3,"net production, ultimate recovery, top end, outstanding results, negative impact, previous estimate, , , , ",Negative (Low/Med arousal),6
+3,"net production, ultimate recovery, top end, outstanding results, negative impact, previous estimate, , , , ",Neutral,4
+3,"net production, ultimate recovery, top end, outstanding results, negative impact, previous estimate, , , , ",Positive (Low/Mid arousal),2
+4,"upper cretaceous, well test, high quality, wider resource, seismic analysis, recoverable reserves, proactive steps, weak oil, eastern part, next well",Negative (Low/Med arousal),3
+4,"upper cretaceous, well test, high quality, wider resource, seismic analysis, recoverable reserves, proactive steps, weak oil, eastern part, next well",Neutral,8

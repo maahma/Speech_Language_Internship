@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",25
+-1,Outlier,Negative (Low/Med arousal),24
+-1,Outlier,Neutral,38
+0,"solar projects, natural gas, new energy, solar project, thermal plant, renewable projects, solar complex, renewable acquisitions, regulated contracts, prior guidance","Excited (Positive, High arousal)",12
+0,"solar projects, natural gas, new energy, solar project, thermal plant, renewable projects, solar complex, renewable acquisitions, regulated contracts, prior guidance",Negative (Low/Med arousal),8
+0,"solar projects, natural gas, new energy, solar project, thermal plant, renewable projects, solar complex, renewable acquisitions, regulated contracts, prior guidance","Nervous (Negative, High arousal)",1
+0,"solar projects, natural gas, new energy, solar project, thermal plant, renewable projects, solar complex, renewable acquisitions, regulated contracts, prior guidance",Neutral,30
+0,"solar projects, natural gas, new energy, solar project, thermal plant, renewable projects, solar complex, renewable acquisitions, regulated contracts, prior guidance",Positive (Low/Mid arousal),1
+1,"timely basis, recent investments, specific examples, significant synergies, significant change, right decision, newer technologies, new opportunities, good prices, financial objectives","Excited (Positive, High arousal)",11
+1,"timely basis, recent investments, specific examples, significant synergies, significant change, right decision, newer technologies, new opportunities, good prices, financial objectives",Negative (Low/Med arousal),8
+1,"timely basis, recent investments, specific examples, significant synergies, significant change, right decision, newer technologies, new opportunities, good prices, financial objectives",Neutral,25
+2,"private money, prior authorization, annual cost, additional savings, , , , , , ",Negative (Low/Med arousal),4
+2,"private money, prior authorization, annual cost, additional savings, , , , , , ",Neutral,10
+3,"great question, financial review, , , , , , , , ","Excited (Positive, High arousal)",5
+3,"great question, financial review, , , , , , , , ",Negative (Low/Med arousal),2
+3,"great question, financial review, , , , , , , , ",Neutral,5

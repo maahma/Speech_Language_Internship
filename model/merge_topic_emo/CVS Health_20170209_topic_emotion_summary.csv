@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),10
+-1,Outlier,Neutral,14
+-1,Outlier,Positive (Low/Mid arousal),6
+0,"front store, new business, great example, unexpected network, strategic acquisitions, substantial cash, strong results, strong cash, retail business, significant cash","Excited (Positive, High arousal)",7
+0,"front store, new business, great example, unexpected network, strategic acquisitions, substantial cash, strong results, strong cash, retail business, significant cash",Negative (Low/Med arousal),15
+0,"front store, new business, great example, unexpected network, strategic acquisitions, substantial cash, strong results, strong cash, retail business, significant cash",Neutral,42
+0,"front store, new business, great example, unexpected network, strategic acquisitions, substantial cash, strong results, strong cash, retail business, significant cash",Positive (Low/Mid arousal),19
+1,"catastrophic coverage, therapeutic class, therapeutic drug, significant growth, real savings, overall reimbursement, small percentage, numerous evaluations, overall plan, overall healthcare","Excited (Positive, High arousal)",1
+1,"catastrophic coverage, therapeutic class, therapeutic drug, significant growth, real savings, overall reimbursement, small percentage, numerous evaluations, overall plan, overall healthcare",Negative (Low/Med arousal),27
+1,"catastrophic coverage, therapeutic class, therapeutic drug, significant growth, real savings, overall reimbursement, small percentage, numerous evaluations, overall plan, overall healthcare",Neutral,35
+1,"catastrophic coverage, therapeutic class, therapeutic drug, significant growth, real savings, overall reimbursement, small percentage, numerous evaluations, overall plan, overall healthcare",Positive (Low/Mid arousal),6
+2,"great question, complicated answer, , , , , , , , ","Excited (Positive, High arousal)",10
+2,"great question, complicated answer, , , , , , , , ",Negative (Low/Med arousal),3
+2,"great question, complicated answer, , , , , , , , ",Neutral,14
+2,"great question, complicated answer, , , , , , , , ",Positive (Low/Mid arousal),8

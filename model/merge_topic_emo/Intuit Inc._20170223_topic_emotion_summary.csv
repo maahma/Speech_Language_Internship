@@ -1,0 +1,20 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",7
+-1,Outlier,Negative (Low/Med arousal),13
+-1,Outlier,Neutral,30
+-1,Outlier,Positive (Low/Mid arousal),5
+0,"competitive tax, early days, main drivers, slow start, total number, free category, good lifeline, far season, future monetization, alternative method","Excited (Positive, High arousal)",14
+0,"competitive tax, early days, main drivers, slow start, total number, free category, good lifeline, far season, future monetization, alternative method",Negative (Low/Med arousal),20
+0,"competitive tax, early days, main drivers, slow start, total number, free category, good lifeline, far season, future monetization, alternative method",Neutral,39
+0,"competitive tax, early days, main drivers, slow start, total number, free category, good lifeline, far season, future monetization, alternative method",Positive (Low/Mid arousal),3
+1,"online ecosystem, assisted method, profitable growth, prior periods, several innovations, select markets, lower rate, potential customers, many times, notable pickup","Excited (Positive, High arousal)",8
+1,"online ecosystem, assisted method, profitable growth, prior periods, several innovations, select markets, lower rate, potential customers, many times, notable pickup",Negative (Low/Med arousal),18
+1,"online ecosystem, assisted method, profitable growth, prior periods, several innovations, select markets, lower rate, potential customers, many times, notable pickup",Neutral,21
+1,"online ecosystem, assisted method, profitable growth, prior periods, several innovations, select markets, lower rate, potential customers, many times, notable pickup",Positive (Low/Mid arousal),3
+2,"good weekend, financial details, consistent set, , , , , , , ","Excited (Positive, High arousal)",13
+2,"good weekend, financial details, consistent set, , , , , , , ",Negative (Low/Med arousal),8
+2,"good weekend, financial details, consistent set, , , , , , , ",Neutral,13
+2,"good weekend, financial details, consistent set, , , , , , , ",Positive (Low/Mid arousal),2
+3,"free products, firm believers, free offer, delightful end, best offering, free offerings, slow start, , , ","Excited (Positive, High arousal)",3
+3,"free products, firm believers, free offer, delightful end, best offering, free offerings, slow start, , , ",Negative (Low/Med arousal),2
+3,"free products, firm believers, free offer, delightful end, best offering, free offerings, slow start, , , ",Neutral,7

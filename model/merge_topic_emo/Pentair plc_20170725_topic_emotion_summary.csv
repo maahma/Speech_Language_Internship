@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",6
+-1,Outlier,Negative (Low/Med arousal),7
+-1,Outlier,Neutral,7
+0,"top line, adjusted core, material inflation, high end, normal seasonality, industrial side, stronger balance, strong margin, ongoing softness, muted spending","Excited (Positive, High arousal)",25
+0,"top line, adjusted core, material inflation, high end, normal seasonality, industrial side, stronger balance, strong margin, ongoing softness, muted spending",Negative (Low/Med arousal),26
+0,"top line, adjusted core, material inflation, high end, normal seasonality, industrial side, stronger balance, strong margin, ongoing softness, muted spending",Neutral,54
+0,"top line, adjusted core, material inflation, high end, normal seasonality, industrial side, stronger balance, strong margin, ongoing softness, muted spending",Positive (Low/Mid arousal),1
+1,", , , , , , , , , ","Excited (Positive, High arousal)",6
+1,", , , , , , , , , ",Negative (Low/Med arousal),2
+1,", , , , , , , , , ",Neutral,9

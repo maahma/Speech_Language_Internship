@@ -1,0 +1,237 @@
+filename,topic_id,topic_keywords
+001.txt,3,", , , , , , , , , "
+002.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+003.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+004.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+005.txt,-1,Outlier
+006.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+007.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+008.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+009.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+010.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+011.txt,-1,Outlier
+012.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+013.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+014.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+015.txt,-1,Outlier
+016.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+017.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+018.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+019.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+020.txt,-1,Outlier
+021.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+022.txt,-1,Outlier
+023.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+024.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+025.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+026.txt,-1,Outlier
+027.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+028.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+029.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+030.txt,-1,Outlier
+031.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+032.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+033.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+034.txt,-1,Outlier
+035.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+036.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+037.txt,-1,Outlier
+038.txt,-1,Outlier
+039.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+040.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+041.txt,-1,Outlier
+042.txt,-1,Outlier
+043.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+044.txt,-1,Outlier
+045.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+046.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+047.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+048.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+049.txt,-1,Outlier
+050.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+051.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+052.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+053.txt,-1,Outlier
+054.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+055.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+056.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+057.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+058.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+059.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+060.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+061.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+062.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+063.txt,3,", , , , , , , , , "
+064.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+065.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+066.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+067.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+068.txt,-1,Outlier
+069.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+070.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+071.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+072.txt,3,", , , , , , , , , "
+073.txt,3,", , , , , , , , , "
+074.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+075.txt,-1,Outlier
+076.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+077.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+078.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+079.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+080.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+081.txt,-1,Outlier
+082.txt,-1,Outlier
+083.txt,-1,Outlier
+084.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+085.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+086.txt,-1,Outlier
+087.txt,-1,Outlier
+088.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+089.txt,-1,Outlier
+090.txt,3,", , , , , , , , , "
+091.txt,-1,Outlier
+092.txt,-1,Outlier
+093.txt,3,", , , , , , , , , "
+094.txt,-1,Outlier
+095.txt,-1,Outlier
+096.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+097.txt,-1,Outlier
+098.txt,-1,Outlier
+099.txt,-1,Outlier
+100.txt,-1,Outlier
+101.txt,-1,Outlier
+102.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+103.txt,-1,Outlier
+104.txt,3,", , , , , , , , , "
+105.txt,-1,Outlier
+106.txt,-1,Outlier
+107.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+108.txt,3,", , , , , , , , , "
+109.txt,-1,Outlier
+110.txt,-1,Outlier
+111.txt,-1,Outlier
+112.txt,-1,Outlier
+113.txt,-1,Outlier
+114.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+115.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+116.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+117.txt,-1,Outlier
+118.txt,-1,Outlier
+119.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+120.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+121.txt,-1,Outlier
+122.txt,-1,Outlier
+123.txt,-1,Outlier
+124.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+125.txt,-1,Outlier
+126.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+127.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+128.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+129.txt,3,", , , , , , , , , "
+130.txt,3,", , , , , , , , , "
+131.txt,-1,Outlier
+132.txt,-1,Outlier
+133.txt,-1,Outlier
+134.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+135.txt,-1,Outlier
+136.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+137.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+138.txt,3,", , , , , , , , , "
+139.txt,3,", , , , , , , , , "
+140.txt,-1,Outlier
+141.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+142.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+143.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+144.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+145.txt,3,", , , , , , , , , "
+146.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+147.txt,3,", , , , , , , , , "
+148.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+149.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+150.txt,-1,Outlier
+151.txt,-1,Outlier
+152.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+153.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+154.txt,-1,Outlier
+155.txt,-1,Outlier
+156.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+157.txt,-1,Outlier
+158.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+159.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+160.txt,-1,Outlier
+161.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+162.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+163.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+164.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+165.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+166.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+167.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+168.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+169.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+170.txt,-1,Outlier
+171.txt,-1,Outlier
+172.txt,-1,Outlier
+173.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+174.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+175.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+176.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+177.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+178.txt,3,", , , , , , , , , "
+179.txt,3,", , , , , , , , , "
+180.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+181.txt,-1,Outlier
+182.txt,-1,Outlier
+183.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+184.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+185.txt,-1,Outlier
+186.txt,4,"small pack, organic growth, organic revenue, smaller pack, simple sense, keen focus, retail price, immediate consumption, high level, disciplined approach"
+187.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+188.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+189.txt,-1,Outlier
+190.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+191.txt,-1,Outlier
+192.txt,-1,Outlier
+193.txt,-1,Outlier
+194.txt,-1,Outlier
+195.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+196.txt,-1,Outlier
+197.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+198.txt,-1,Outlier
+199.txt,-1,Outlier
+200.txt,-1,Outlier
+201.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+202.txt,-1,Outlier
+203.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+204.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+205.txt,3,", , , , , , , , , "
+206.txt,3,", , , , , , , , , "
+207.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+208.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+209.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+210.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+211.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+212.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+213.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+214.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+215.txt,-1,Outlier
+216.txt,-1,Outlier
+217.txt,-1,Outlier
+218.txt,-1,Outlier
+219.txt,-1,Outlier
+220.txt,3,", , , , , , , , , "
+221.txt,-1,Outlier
+222.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+223.txt,3,", , , , , , , , , "
+224.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+225.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+226.txt,1,"strong performance, soft drinks, new products, better results, single digits, slight repositioning, small number, total beverage, strategic priorities, consistent strategy"
+227.txt,-1,Outlier
+228.txt,-1,Outlier
+229.txt,-1,Outlier
+230.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+231.txt,2,"political instability, key markets, improved product, economic conditions, , , , , , "
+232.txt,3,", , , , , , , , , "
+233.txt,3,", , , , , , , , , "
+234.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+235.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"
+236.txt,0,"new operating, strong position, right actions, smart risks, future growth, ongoing basis, new marketing, many fronts, commerce type, digital engagement"

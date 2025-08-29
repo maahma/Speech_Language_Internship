@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,Negative (Low/Med arousal),1
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"formulary coverage, long term, strong growth, international business, marketed products, top product, strong prescription, positive outlook, generic pressure, main point","Excited (Positive, High arousal)",23
+0,"formulary coverage, long term, strong growth, international business, marketed products, top product, strong prescription, positive outlook, generic pressure, main point",Negative (Low/Med arousal),34
+0,"formulary coverage, long term, strong growth, international business, marketed products, top product, strong prescription, positive outlook, generic pressure, main point",Neutral,47
+0,"formulary coverage, long term, strong growth, international business, marketed products, top product, strong prescription, positive outlook, generic pressure, main point",Positive (Low/Mid arousal),17
+1,"new patients, chronic migraine, good sign, aesthetic procedure, new label, proper context, new patient, large pool, long runway, monthly basis","Excited (Positive, High arousal)",3
+1,"new patients, chronic migraine, good sign, aesthetic procedure, new label, proper context, new patient, large pool, long runway, monthly basis",Negative (Low/Med arousal),18
+1,"new patients, chronic migraine, good sign, aesthetic procedure, new label, proper context, new patient, large pool, long runway, monthly basis",Neutral,20
+1,"new patients, chronic migraine, good sign, aesthetic procedure, new label, proper context, new patient, large pool, long runway, monthly basis",Positive (Low/Mid arousal),9

@@ -1,0 +1,15 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),8
+-1,Outlier,Neutral,11
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"strategic progress, solid progress, segmenting market, overall cost, great example, favorable impact, entire ecosystem, best view, disruptive innovation, amazing results","Excited (Positive, High arousal)",6
+0,"strategic progress, solid progress, segmenting market, overall cost, great example, favorable impact, entire ecosystem, best view, disruptive innovation, amazing results",Negative (Low/Med arousal),4
+0,"strategic progress, solid progress, segmenting market, overall cost, great example, favorable impact, entire ecosystem, best view, disruptive innovation, amazing results",Neutral,9
+0,"strategic progress, solid progress, segmenting market, overall cost, great example, favorable impact, entire ecosystem, best view, disruptive innovation, amazing results",Positive (Low/Mid arousal),4
+1,"strong performance, total revenue, small increase, significant component, real renaissance, net revenue, graphic supplies, multiple dimensions, long time, key competitors",Negative (Low/Med arousal),4
+1,"strong performance, total revenue, small increase, significant component, real renaissance, net revenue, graphic supplies, multiple dimensions, long time, key competitors",Neutral,14
+1,"strong performance, total revenue, small increase, significant component, real renaissance, net revenue, graphic supplies, multiple dimensions, long time, key competitors",Positive (Low/Mid arousal),3
+2,"visual hacking, regulatory approval, electronic privacy, commercial notebooks, customary closing, best innovation, profitable share, , , ",Negative (Low/Med arousal),4
+2,"visual hacking, regulatory approval, electronic privacy, commercial notebooks, customary closing, best innovation, profitable share, , , ",Neutral,12
+2,"visual hacking, regulatory approval, electronic privacy, commercial notebooks, customary closing, best innovation, profitable share, , , ",Positive (Low/Mid arousal),3

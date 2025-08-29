@@ -1,8 +1,11 @@
+# NOT USING THIS DELETE IT 
+
 from sentence_transformers import SentenceTransformer
 import os
 import numpy as np
 import pandas as pd
 import logging
+import csv
 
 logging.basicConfig(
     level=logging.INFO,
@@ -32,14 +35,10 @@ for company in sorted(os.listdir(RECO_DIR)):
         input_path = os.path.join(text_dir, text_file)
 
         with open(input_path, 'r', encoding='utf-8') as f:
-            sentence = f.read().strip()
-            if sentence:
-                sentences.append(sentence)
-
-    if not sentences:
-        continue
-    
+            sentence = f.read().replace('\n', ' ').strip()
+            sentences.append(sentence)
+        
     sentence_embeddings = model.encode(sentences)
 
     pd.DataFrame(sentence_embeddings).to_csv(os.path.join(company_out_dir, 'sbert_embeddings.csv'), index=False)
-    pd.DataFrame({'sentence': sentences}).to_csv(os.path.join(company_out_dir, 'sentences.csv'), index=False)
+    pd.DataFrame({'sentence': sentences}).to_csv(os.path.join(company_out_dir, 'sentences.csv'), index=False, quoting=csv.QUOTE_ALL)

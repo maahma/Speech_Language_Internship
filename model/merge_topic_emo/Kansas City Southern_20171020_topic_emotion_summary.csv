@@ -1,0 +1,18 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",15
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,"Nervous (Negative, High arousal)",1
+-1,Outlier,Neutral,36
+0,"major population, refined products, significant volumes, new terminals, little market, larger step, joint venture, critical markets, cheap equipment, ","Excited (Positive, High arousal)",6
+0,"major population, refined products, significant volumes, new terminals, little market, larger step, joint venture, critical markets, cheap equipment, ",Negative (Low/Med arousal),7
+0,"major population, refined products, significant volumes, new terminals, little market, larger step, joint venture, critical markets, cheap equipment, ",Neutral,11
+1,"great question, good space, , , , , , , , ","Excited (Positive, High arousal)",10
+1,"great question, good space, , , , , , , , ",Negative (Low/Med arousal),4
+1,"great question, good space, , , , , , , , ","Nervous (Negative, High arousal)",1
+1,"great question, good space, , , , , , , , ",Neutral,7
+2,"frac sand, crude oil, heavy demand, total energy, refined product, particular plants, difficult comp, longer length, solid performance, refined products","Excited (Positive, High arousal)",1
+2,"frac sand, crude oil, heavy demand, total energy, refined product, particular plants, difficult comp, longer length, solid performance, refined products",Negative (Low/Med arousal),8
+2,"frac sand, crude oil, heavy demand, total energy, refined product, particular plants, difficult comp, longer length, solid performance, refined products",Neutral,6
+3,"new retailers, solid pricing, intermodal pricing, retail perspective, intermodal business, , , , , ","Excited (Positive, High arousal)",3
+3,"new retailers, solid pricing, intermodal pricing, retail perspective, intermodal business, , , , , ",Negative (Low/Med arousal),3
+3,"new retailers, solid pricing, intermodal pricing, retail perspective, intermodal business, , , , , ",Neutral,5

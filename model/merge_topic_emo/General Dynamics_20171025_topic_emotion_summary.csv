@@ -1,0 +1,9 @@
+topic_id,topic_keywords,emotion_label,count
+0,"nautical miles, sequential basis, full rate, international programs, biggest driver, good contract, next couple, strategic opportunities, additional testing, nautical mile","Excited (Positive, High arousal)",37
+0,"nautical miles, sequential basis, full rate, international programs, biggest driver, good contract, next couple, strategic opportunities, additional testing, nautical mile",Negative (Low/Med arousal),56
+0,"nautical miles, sequential basis, full rate, international programs, biggest driver, good contract, next couple, strategic opportunities, additional testing, nautical mile",Neutral,140
+0,"nautical miles, sequential basis, full rate, international programs, biggest driver, good contract, next couple, strategic opportunities, additional testing, nautical mile",Positive (Low/Mid arousal),21
+1,"bad case, , , , , , , , , ","Excited (Positive, High arousal)",6
+1,"bad case, , , , , , , , , ",Negative (Low/Med arousal),5
+1,"bad case, , , , , , , , , ",Neutral,5
+1,"bad case, , , , , , , , , ",Positive (Low/Mid arousal),2

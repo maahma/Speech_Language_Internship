@@ -1,0 +1,20 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",5
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,Neutral,22
+-1,Outlier,Positive (Low/Mid arousal),16
+0,"lower end, high end, higher declines, negative margin, single digits, total revenues, total revenue, lower equipment, new product, weaker signings","Excited (Positive, High arousal)",1
+0,"lower end, high end, higher declines, negative margin, single digits, total revenues, total revenue, lower equipment, new product, weaker signings",Negative (Low/Med arousal),15
+0,"lower end, high end, higher declines, negative margin, single digits, total revenues, total revenue, lower equipment, new product, weaker signings",Neutral,16
+0,"lower end, high end, higher declines, negative margin, single digits, total revenues, total revenue, lower equipment, new product, weaker signings",Positive (Low/Mid arousal),5
+1,"wide program, taxable service, strategic cost, smaller size, significant part, rigorous process, greater dispatch, greater machine, greater customer, functional spend",Negative (Low/Med arousal),6
+1,"wide program, taxable service, strategic cost, smaller size, significant part, rigorous process, greater dispatch, greater machine, greater customer, functional spend",Neutral,13
+1,"wide program, taxable service, strategic cost, smaller size, significant part, rigorous process, greater dispatch, greater machine, greater customer, functional spend",Positive (Low/Mid arousal),1
+2,"important element, gross savings, free cash, lower equipment, , , , , , ","Excited (Positive, High arousal)",4
+2,"important element, gross savings, free cash, lower equipment, , , , , , ",Negative (Low/Med arousal),4
+2,"important element, gross savings, free cash, lower equipment, , , , , , ",Neutral,8
+2,"important element, gross savings, free cash, lower equipment, , , , , , ",Positive (Low/Mid arousal),4
+3,"strong margins, negative impact, top line, senior note, significant amount, prepared remarks, operational strides, operational progress, moderate impact, good setup","Excited (Positive, High arousal)",3
+3,"strong margins, negative impact, top line, senior note, significant amount, prepared remarks, operational strides, operational progress, moderate impact, good setup",Negative (Low/Med arousal),7
+3,"strong margins, negative impact, top line, senior note, significant amount, prepared remarks, operational strides, operational progress, moderate impact, good setup",Neutral,8
+3,"strong margins, negative impact, top line, senior note, significant amount, prepared remarks, operational strides, operational progress, moderate impact, good setup",Positive (Low/Mid arousal),1

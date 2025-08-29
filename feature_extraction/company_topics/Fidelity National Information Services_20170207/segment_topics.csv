@@ -1,0 +1,149 @@
+filename,topic_id,topic_keywords
+001.txt,1,"commercial services, , , , , , , , , "
+002.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+003.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+004.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+005.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+006.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+007.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+008.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+009.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+010.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+011.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+012.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+013.txt,-1,Outlier
+014.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+015.txt,-1,Outlier
+016.txt,-1,Outlier
+017.txt,-1,Outlier
+018.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+019.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+020.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+021.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+022.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+023.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+024.txt,-1,Outlier
+025.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+026.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+027.txt,-1,Outlier
+028.txt,-1,Outlier
+029.txt,-1,Outlier
+030.txt,-1,Outlier
+031.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+032.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+033.txt,-1,Outlier
+034.txt,-1,Outlier
+035.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+036.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+037.txt,-1,Outlier
+038.txt,-1,Outlier
+039.txt,-1,Outlier
+040.txt,-1,Outlier
+041.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+042.txt,-1,Outlier
+043.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+044.txt,-1,Outlier
+045.txt,-1,Outlier
+046.txt,-1,Outlier
+047.txt,-1,Outlier
+048.txt,-1,Outlier
+049.txt,-1,Outlier
+050.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+051.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+052.txt,-1,Outlier
+053.txt,-1,Outlier
+054.txt,-1,Outlier
+055.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+056.txt,-1,Outlier
+057.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+058.txt,-1,Outlier
+059.txt,-1,Outlier
+060.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+061.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+062.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+063.txt,-1,Outlier
+064.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+065.txt,-1,Outlier
+066.txt,-1,Outlier
+067.txt,-1,Outlier
+068.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+069.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+070.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+071.txt,-1,Outlier
+072.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+073.txt,1,"commercial services, , , , , , , , , "
+074.txt,-1,Outlier
+075.txt,-1,Outlier
+076.txt,-1,Outlier
+077.txt,-1,Outlier
+078.txt,-1,Outlier
+079.txt,-1,Outlier
+080.txt,-1,Outlier
+081.txt,1,"commercial services, , , , , , , , , "
+082.txt,1,"commercial services, , , , , , , , , "
+083.txt,1,"commercial services, , , , , , , , , "
+084.txt,1,"commercial services, , , , , , , , , "
+085.txt,1,"commercial services, , , , , , , , , "
+086.txt,1,"commercial services, , , , , , , , , "
+087.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+088.txt,-1,Outlier
+089.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+090.txt,-1,Outlier
+091.txt,1,"commercial services, , , , , , , , , "
+092.txt,1,"commercial services, , , , , , , , , "
+093.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+094.txt,1,"commercial services, , , , , , , , , "
+095.txt,1,"commercial services, , , , , , , , , "
+096.txt,-1,Outlier
+097.txt,-1,Outlier
+098.txt,-1,Outlier
+099.txt,1,"commercial services, , , , , , , , , "
+100.txt,-1,Outlier
+101.txt,-1,Outlier
+102.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+103.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+104.txt,-1,Outlier
+105.txt,-1,Outlier
+106.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+107.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+108.txt,-1,Outlier
+109.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+110.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+111.txt,-1,Outlier
+112.txt,-1,Outlier
+113.txt,-1,Outlier
+114.txt,-1,Outlier
+115.txt,-1,Outlier
+116.txt,-1,Outlier
+117.txt,-1,Outlier
+118.txt,-1,Outlier
+119.txt,-1,Outlier
+120.txt,1,"commercial services, , , , , , , , , "
+121.txt,-1,Outlier
+122.txt,-1,Outlier
+123.txt,-1,Outlier
+124.txt,-1,Outlier
+125.txt,-1,Outlier
+126.txt,-1,Outlier
+127.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+128.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+129.txt,-1,Outlier
+130.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+131.txt,-1,Outlier
+132.txt,-1,Outlier
+133.txt,1,"commercial services, , , , , , , , , "
+134.txt,1,"commercial services, , , , , , , , , "
+135.txt,-1,Outlier
+136.txt,-1,Outlier
+137.txt,-1,Outlier
+138.txt,-1,Outlier
+139.txt,1,"commercial services, , , , , , , , , "
+140.txt,1,"commercial services, , , , , , , , , "
+141.txt,-1,Outlier
+142.txt,1,"commercial services, , , , , , , , , "
+143.txt,-1,Outlier
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,0,"organic revenue, organic basis, organic growth, corporate liquidity, lower end, strong sales, strategic assets, significant margin, top line, ongoing cost"
+147.txt,1,"commercial services, , , , , , , , , "
+148.txt,-1,Outlier

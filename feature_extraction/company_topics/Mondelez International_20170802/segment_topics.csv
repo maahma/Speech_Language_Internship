@@ -1,0 +1,184 @@
+filename,topic_id,topic_keywords
+001.txt,-1,Outlier
+002.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+003.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+007.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+008.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+009.txt,4,"real drivers, easier compares, , , , , , , , "
+010.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+011.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+012.txt,-1,Outlier
+013.txt,-1,Outlier
+014.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+015.txt,-1,Outlier
+016.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+017.txt,-1,Outlier
+018.txt,-1,Outlier
+019.txt,-1,Outlier
+020.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+021.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+022.txt,-1,Outlier
+023.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+024.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+025.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+026.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+027.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+028.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+029.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+030.txt,-1,Outlier
+031.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+032.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+033.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+034.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+035.txt,4,"real drivers, easier compares, , , , , , , , "
+036.txt,-1,Outlier
+037.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+038.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+039.txt,-1,Outlier
+040.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+041.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+042.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+043.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+044.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+045.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+046.txt,-1,Outlier
+047.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+048.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+049.txt,-1,Outlier
+050.txt,-1,Outlier
+051.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+052.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+053.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+054.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+055.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+056.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+057.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+058.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+059.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+060.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+061.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+062.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+063.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+064.txt,-1,Outlier
+065.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+066.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+067.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+068.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+069.txt,-1,Outlier
+070.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+071.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+072.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+073.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+074.txt,-1,Outlier
+075.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+076.txt,-1,Outlier
+077.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+078.txt,-1,Outlier
+079.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+080.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+081.txt,-1,Outlier
+082.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+083.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+084.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+085.txt,-1,Outlier
+086.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+087.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+088.txt,-1,Outlier
+089.txt,-1,Outlier
+090.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+091.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+092.txt,-1,Outlier
+093.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+094.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+095.txt,-1,Outlier
+096.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+097.txt,-1,Outlier
+098.txt,-1,Outlier
+099.txt,-1,Outlier
+100.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+101.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+102.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+103.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+104.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+105.txt,-1,Outlier
+106.txt,-1,Outlier
+107.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+108.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+109.txt,-1,Outlier
+110.txt,-1,Outlier
+111.txt,-1,Outlier
+112.txt,4,"real drivers, easier compares, , , , , , , , "
+113.txt,4,"real drivers, easier compares, , , , , , , , "
+114.txt,4,"real drivers, easier compares, , , , , , , , "
+115.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+116.txt,4,"real drivers, easier compares, , , , , , , , "
+117.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+118.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+119.txt,4,"real drivers, easier compares, , , , , , , , "
+120.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+121.txt,-1,Outlier
+122.txt,4,"real drivers, easier compares, , , , , , , , "
+123.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+124.txt,4,"real drivers, easier compares, , , , , , , , "
+125.txt,-1,Outlier
+126.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+127.txt,4,"real drivers, easier compares, , , , , , , , "
+128.txt,-1,Outlier
+129.txt,-1,Outlier
+130.txt,4,"real drivers, easier compares, , , , , , , , "
+131.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+132.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+133.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+134.txt,4,"real drivers, easier compares, , , , , , , , "
+135.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+136.txt,-1,Outlier
+137.txt,-1,Outlier
+138.txt,-1,Outlier
+139.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+140.txt,-1,Outlier
+141.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+142.txt,-1,Outlier
+143.txt,2,"net revenue, negative impact, unprecedented malware, annual basis, , , , , , "
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,-1,Outlier
+147.txt,-1,Outlier
+148.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+149.txt,-1,Outlier
+150.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+151.txt,5,"gross margins, gross margin, overhead management, unfavorable mix, overhead costs, key enabler, higher input, key element, better pricing, net productivity"
+152.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+153.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+154.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+155.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+156.txt,3,"solid results, strong results, solid trends, soft category, small decline, significant change, overall category, economic weakness, economic conditions, "
+157.txt,-1,Outlier
+158.txt,-1,Outlier
+159.txt,-1,Outlier
+160.txt,-1,Outlier
+161.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+162.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+163.txt,-1,Outlier
+164.txt,-1,Outlier
+165.txt,-1,Outlier
+166.txt,4,"real drivers, easier compares, , , , , , , , "
+167.txt,-1,Outlier
+168.txt,-1,Outlier
+169.txt,-1,Outlier
+170.txt,-1,Outlier
+171.txt,-1,Outlier
+172.txt,4,"real drivers, easier compares, , , , , , , , "
+173.txt,-1,Outlier
+174.txt,-1,Outlier
+175.txt,-1,Outlier
+176.txt,-1,Outlier
+177.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+178.txt,-1,Outlier
+179.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+180.txt,1,"white space, stronger peak, solid vol, solid share, solid performance, solid operating, solid growth, new product, healthy velocity, difficult price"
+181.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+182.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "
+183.txt,0,"good progress, multiple quarters, incremental capacity, full portfolio, financial results, , , , , "

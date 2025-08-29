@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",7
+-1,Outlier,Negative (Low/Med arousal),9
+-1,Outlier,Neutral,16
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers","Excited (Positive, High arousal)",1
+0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers",Negative (Low/Med arousal),24
+0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers",Neutral,33
+0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers",Positive (Low/Mid arousal),5
+1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , ","Excited (Positive, High arousal)",5
+1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , ",Negative (Low/Med arousal),10
+1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , ",Neutral,18
+1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , ",Positive (Low/Mid arousal),6
+2,"electric side, normal weather, , , , , , , , ","Excited (Positive, High arousal)",14
+2,"electric side, normal weather, , , , , , , , ",Negative (Low/Med arousal),1
+2,"electric side, normal weather, , , , , , , , ",Neutral,9
+2,"electric side, normal weather, , , , , , , , ",Positive (Low/Mid arousal),1

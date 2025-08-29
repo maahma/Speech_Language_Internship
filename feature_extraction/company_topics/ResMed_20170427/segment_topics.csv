@@ -1,0 +1,253 @@
+filename,topic_id,topic_keywords
+001.txt,3,", , , , , , , , , "
+002.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+003.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+004.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+005.txt,-1,Outlier
+006.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+007.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+008.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+009.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+010.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+011.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+012.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+013.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+014.txt,-1,Outlier
+015.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+016.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+017.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+018.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+019.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+020.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+021.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+022.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+023.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+024.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+025.txt,-1,Outlier
+026.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+027.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+028.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+029.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+030.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+031.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+032.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+033.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+034.txt,-1,Outlier
+035.txt,-1,Outlier
+036.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+037.txt,-1,Outlier
+038.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+039.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+040.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+041.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+042.txt,-1,Outlier
+043.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+044.txt,-1,Outlier
+045.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+046.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+047.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+048.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+049.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+050.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+051.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+052.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+053.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+054.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+055.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+056.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+057.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+058.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+059.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+060.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+061.txt,-1,Outlier
+062.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+063.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+064.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+065.txt,-1,Outlier
+066.txt,-1,Outlier
+067.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+068.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+069.txt,-1,Outlier
+070.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+071.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+072.txt,-1,Outlier
+073.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+074.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+075.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+076.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+077.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+078.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+079.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+080.txt,-1,Outlier
+081.txt,-1,Outlier
+082.txt,-1,Outlier
+083.txt,-1,Outlier
+084.txt,-1,Outlier
+085.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+086.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+087.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+088.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+089.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+090.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+091.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+092.txt,-1,Outlier
+093.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+094.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+095.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+096.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+097.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+098.txt,-1,Outlier
+099.txt,3,", , , , , , , , , "
+100.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+101.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+102.txt,-1,Outlier
+103.txt,-1,Outlier
+104.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+105.txt,-1,Outlier
+106.txt,-1,Outlier
+107.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+108.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+109.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+110.txt,-1,Outlier
+111.txt,-1,Outlier
+112.txt,-1,Outlier
+113.txt,3,", , , , , , , , , "
+114.txt,3,", , , , , , , , , "
+115.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+116.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+117.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+118.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+119.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+120.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+121.txt,-1,Outlier
+122.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+123.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+124.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+125.txt,-1,Outlier
+126.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+127.txt,-1,Outlier
+128.txt,-1,Outlier
+129.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+130.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+131.txt,-1,Outlier
+132.txt,-1,Outlier
+133.txt,-1,Outlier
+134.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+135.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+136.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+137.txt,-1,Outlier
+138.txt,-1,Outlier
+139.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+140.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+141.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+142.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+143.txt,-1,Outlier
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+147.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+148.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+149.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+150.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+151.txt,-1,Outlier
+152.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+153.txt,3,", , , , , , , , , "
+154.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+155.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+156.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+157.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+158.txt,-1,Outlier
+159.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+160.txt,-1,Outlier
+161.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+162.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+163.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+164.txt,-1,Outlier
+165.txt,5,"significant improvement, specified subgroup, primary investigators, primary endpoint, cardiovascular outcomes, , , , , "
+166.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+167.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+168.txt,-1,Outlier
+169.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+170.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+171.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+172.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+173.txt,-1,Outlier
+174.txt,3,", , , , , , , , , "
+175.txt,3,", , , , , , , , , "
+176.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+177.txt,-1,Outlier
+178.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+179.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+180.txt,-1,Outlier
+181.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+182.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+183.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+184.txt,3,", , , , , , , , , "
+185.txt,3,", , , , , , , , , "
+186.txt,3,", , , , , , , , , "
+187.txt,3,", , , , , , , , , "
+188.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+189.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+190.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+191.txt,-1,Outlier
+192.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+193.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+194.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+195.txt,-1,Outlier
+196.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+197.txt,3,", , , , , , , , , "
+198.txt,3,", , , , , , , , , "
+199.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+200.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+201.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+202.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+203.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+204.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+205.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+206.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+207.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+208.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+209.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+210.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+211.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+212.txt,-1,Outlier
+213.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+214.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+215.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+216.txt,3,", , , , , , , , , "
+217.txt,3,", , , , , , , , , "
+218.txt,-1,Outlier
+219.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+220.txt,-1,Outlier
+221.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+222.txt,-1,Outlier
+223.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+224.txt,-1,Outlier
+225.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+226.txt,2,"smallest travel, long time, best masks, amazing innovation, small niche, , , , , "
+227.txt,-1,Outlier
+228.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+229.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+230.txt,-1,Outlier
+231.txt,-1,Outlier
+232.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+233.txt,-1,Outlier
+234.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+235.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+236.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+237.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+238.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+239.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+240.txt,-1,Outlier
+241.txt,-1,Outlier
+242.txt,4,"fit range, best device, strong demand, positive feedback, new range, full face, nasal category, solid growth, invasive ventilators, "
+243.txt,-1,Outlier
+244.txt,-1,Outlier
+245.txt,-1,Outlier
+246.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+247.txt,-1,Outlier
+248.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+249.txt,-1,Outlier
+250.txt,1,"sleep apnea, connected care, digital health, central sleep, chronic disease, sick care, patient engagement, patient adherence, ongoing upgrades, regular basis"
+251.txt,0,"regional highlights, single digits, huge opportunity, strong share, financial results, long term, whole industry, new mask, new news, overall category"
+252.txt,-1,Outlier

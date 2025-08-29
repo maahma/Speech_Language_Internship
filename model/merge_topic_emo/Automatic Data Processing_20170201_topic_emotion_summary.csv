@@ -1,0 +1,20 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",5
+-1,Outlier,Negative (Low/Med arousal),10
+-1,Outlier,Neutral,20
+-1,Outlier,Positive (Low/Mid arousal),3
+0,"new business, better workforce, strategic acquisition, steady company, robust dataset, tight labor, potential change, major impact, fantastic question, innovative talent","Excited (Positive, High arousal)",8
+0,"new business, better workforce, strategic acquisition, steady company, robust dataset, tight labor, potential change, major impact, fantastic question, innovative talent",Negative (Low/Med arousal),7
+0,"new business, better workforce, strategic acquisition, steady company, robust dataset, tight labor, potential change, major impact, fantastic question, innovative talent",Neutral,29
+0,"new business, better workforce, strategic acquisition, steady company, robust dataset, tight labor, potential change, major impact, fantastic question, innovative talent",Positive (Low/Mid arousal),10
+1,"new business, historical data, strange way, small business, prior period, right strategy, organic revenue, historical growth, diluted earnings, constant dollar","Excited (Positive, High arousal)",4
+1,"new business, historical data, strange way, small business, prior period, right strategy, organic revenue, historical growth, diluted earnings, constant dollar",Negative (Low/Med arousal),8
+1,"new business, historical data, strange way, small business, prior period, right strategy, organic revenue, historical growth, diluted earnings, constant dollar",Neutral,14
+1,"new business, historical data, strange way, small business, prior period, right strategy, organic revenue, historical growth, diluted earnings, constant dollar",Positive (Low/Mid arousal),8
+2,"difficult grow, lower inflation, slower growth, new business, strong position, small businesses, slow decision, moot point, much difficulty, slight slowing","Excited (Positive, High arousal)",1
+2,"difficult grow, lower inflation, slower growth, new business, strong position, small businesses, slow decision, moot point, much difficulty, slight slowing",Negative (Low/Med arousal),12
+2,"difficult grow, lower inflation, slower growth, new business, strong position, small businesses, slow decision, moot point, much difficulty, slight slowing",Neutral,11
+2,"difficult grow, lower inflation, slower growth, new business, strong position, small businesses, slow decision, moot point, much difficulty, slight slowing",Positive (Low/Mid arousal),2
+3,"short term, uncertain times, related hesitancy, inevitable pickup, historical track, economic activity, current uncertainty, , , ","Excited (Positive, High arousal)",5
+3,"short term, uncertain times, related hesitancy, inevitable pickup, historical track, economic activity, current uncertainty, , , ",Neutral,9
+3,"short term, uncertain times, related hesitancy, inevitable pickup, historical track, economic activity, current uncertainty, , , ",Positive (Low/Mid arousal),2

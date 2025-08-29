@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",3
+-1,Outlier,Negative (Low/Med arousal),6
+-1,Outlier,Neutral,24
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps",Negative (Low/Med arousal),12
+0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps",Neutral,11
+0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps",Positive (Low/Mid arousal),2
+1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit","Excited (Positive, High arousal)",3
+1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit",Negative (Low/Med arousal),3
+1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit",Neutral,8
+1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit",Positive (Low/Mid arousal),6
+2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , ","Excited (Positive, High arousal)",2
+2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , ",Negative (Low/Med arousal),2
+2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , ",Neutral,7
+2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , ",Positive (Low/Mid arousal),3

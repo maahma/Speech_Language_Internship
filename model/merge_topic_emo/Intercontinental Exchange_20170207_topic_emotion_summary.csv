@@ -1,0 +1,14 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",9
+-1,Outlier,Negative (Low/Med arousal),4
+-1,Outlier,Neutral,13
+-1,Outlier,Positive (Low/Mid arousal),2
+0,"open interest, overall data, new products, natural gas, net impact, disciplined process, free cash, good indicator, solid contributor, various acquisitions","Excited (Positive, High arousal)",12
+0,"open interest, overall data, new products, natural gas, net impact, disciplined process, free cash, good indicator, solid contributor, various acquisitions",Negative (Low/Med arousal),24
+0,"open interest, overall data, new products, natural gas, net impact, disciplined process, free cash, good indicator, solid contributor, various acquisitions","Nervous (Negative, High arousal)",1
+0,"open interest, overall data, new products, natural gas, net impact, disciplined process, free cash, good indicator, solid contributor, various acquisitions",Neutral,42
+0,"open interest, overall data, new products, natural gas, net impact, disciplined process, free cash, good indicator, solid contributor, various acquisitions",Positive (Low/Mid arousal),3
+1,"significant decline, tax profit, current spot, , , , , , , ","Excited (Positive, High arousal)",2
+1,"significant decline, tax profit, current spot, , , , , , , ",Negative (Low/Med arousal),1
+1,"significant decline, tax profit, current spot, , , , , , , ",Neutral,12
+1,"significant decline, tax profit, current spot, , , , , , , ",Positive (Low/Mid arousal),2

@@ -1,0 +1,191 @@
+filename,topic_id,topic_keywords
+001.txt,3,", , , , , , , , , "
+002.txt,3,", , , , , , , , , "
+003.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+004.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+005.txt,-1,Outlier
+006.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+007.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+008.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+009.txt,-1,Outlier
+010.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+011.txt,-1,Outlier
+012.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+013.txt,-1,Outlier
+014.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+015.txt,-1,Outlier
+016.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+017.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+018.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+019.txt,-1,Outlier
+020.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+021.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+022.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+023.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+024.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+025.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+026.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+027.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+028.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+029.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+030.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+031.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+032.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+033.txt,-1,Outlier
+034.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+035.txt,-1,Outlier
+036.txt,-1,Outlier
+037.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+038.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+039.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+040.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+041.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+042.txt,-1,Outlier
+043.txt,-1,Outlier
+044.txt,-1,Outlier
+045.txt,-1,Outlier
+046.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+047.txt,-1,Outlier
+048.txt,3,", , , , , , , , , "
+049.txt,3,", , , , , , , , , "
+050.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+051.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+052.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+053.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+054.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+055.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+056.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+057.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+058.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+059.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+060.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+061.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+062.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+063.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+064.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+065.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+066.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+067.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+068.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+069.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+070.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+071.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+072.txt,-1,Outlier
+073.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+074.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+075.txt,-1,Outlier
+076.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+077.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+078.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+079.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+080.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+081.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+082.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+083.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+084.txt,-1,Outlier
+085.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+086.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+087.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+088.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+089.txt,-1,Outlier
+090.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+091.txt,-1,Outlier
+092.txt,-1,Outlier
+093.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+094.txt,-1,Outlier
+095.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+096.txt,-1,Outlier
+097.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+098.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+099.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+100.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+101.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+102.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+103.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+104.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+105.txt,-1,Outlier
+106.txt,-1,Outlier
+107.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+108.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+109.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+110.txt,-1,Outlier
+111.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+112.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+113.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+114.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+115.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+116.txt,3,", , , , , , , , , "
+117.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+118.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+119.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+120.txt,-1,Outlier
+121.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+122.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+123.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+124.txt,-1,Outlier
+125.txt,3,", , , , , , , , , "
+126.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+127.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+128.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+129.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+130.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+131.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+132.txt,3,", , , , , , , , , "
+133.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+134.txt,-1,Outlier
+135.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+136.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+137.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+138.txt,-1,Outlier
+139.txt,-1,Outlier
+140.txt,-1,Outlier
+141.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+142.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+143.txt,-1,Outlier
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,-1,Outlier
+147.txt,-1,Outlier
+148.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+149.txt,-1,Outlier
+150.txt,4,"unique graphics, shorter run, regulatory requirements, regulatory compliance, new product, high performance, customized solutions, competitive markets, , "
+151.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+152.txt,-1,Outlier
+153.txt,-1,Outlier
+154.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+155.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+156.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+157.txt,-1,Outlier
+158.txt,-1,Outlier
+159.txt,-1,Outlier
+160.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+161.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+162.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+163.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+164.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+165.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+166.txt,3,", , , , , , , , , "
+167.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+168.txt,3,", , , , , , , , , "
+169.txt,-1,Outlier
+170.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+171.txt,-1,Outlier
+172.txt,-1,Outlier
+173.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+174.txt,-1,Outlier
+175.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+176.txt,3,", , , , , , , , , "
+177.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "
+178.txt,-1,Outlier
+179.txt,-1,Outlier
+180.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+181.txt,3,", , , , , , , , , "
+182.txt,-1,Outlier
+183.txt,-1,Outlier
+184.txt,-1,Outlier
+185.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+186.txt,0,"corrugated packaging, higher input, favorable impact, legal settlement, corrugated segment, ongoing productivity, solid results, stable results, strong productivity, strong fit"
+187.txt,-1,Outlier
+188.txt,-1,Outlier
+189.txt,1,"strategic plan, strong cash, productive partnership, pro forma, meaningful capital, free cash, balanced capital, , , "
+190.txt,2,"substantial potential, outstanding position, attractive returns, geographic presence, , , , , , "

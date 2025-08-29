@@ -1,0 +1,10 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,Neutral,6
+-1,Outlier,Positive (Low/Mid arousal),3
+0,"unfavorable mix, tracked channels, strong merchandising, professional products, single digits, weaker volume, strong momentum, strong growth, strategic choice, slight gain",Negative (Low/Med arousal),5
+0,"unfavorable mix, tracked channels, strong merchandising, professional products, single digits, weaker volume, strong momentum, strong growth, strategic choice, slight gain",Neutral,14
+0,"unfavorable mix, tracked channels, strong merchandising, professional products, single digits, weaker volume, strong momentum, strong growth, strategic choice, slight gain",Positive (Low/Mid arousal),5
+1,"financial measures, financial results, supplemental information, prepared remarks, important factors, ongoing results, free cash, economic profit, , ","Excited (Positive, High arousal)",2
+1,"financial measures, financial results, supplemental information, prepared remarks, important factors, ongoing results, free cash, economic profit, , ",Negative (Low/Med arousal),4
+1,"financial measures, financial results, supplemental information, prepared remarks, important factors, ongoing results, free cash, economic profit, , ",Neutral,7
+1,"financial measures, financial results, supplemental information, prepared remarks, important factors, ongoing results, free cash, economic profit, , ",Positive (Low/Mid arousal),2

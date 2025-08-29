@@ -1,0 +1,98 @@
+filename,topic_id,topic_keywords
+001.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+002.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+003.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+007.txt,-1,Outlier
+008.txt,-1,Outlier
+009.txt,-1,Outlier
+010.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+011.txt,-1,Outlier
+012.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+013.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+014.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+015.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+016.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+017.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+018.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+019.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+020.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+021.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+022.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+023.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+024.txt,-1,Outlier
+025.txt,-1,Outlier
+026.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+027.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+028.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+029.txt,-1,Outlier
+030.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+031.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+032.txt,-1,Outlier
+033.txt,-1,Outlier
+034.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+035.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+036.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+037.txt,-1,Outlier
+038.txt,-1,Outlier
+039.txt,-1,Outlier
+040.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+041.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+042.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+043.txt,-1,Outlier
+044.txt,-1,Outlier
+045.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+046.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+047.txt,-1,Outlier
+048.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+049.txt,-1,Outlier
+050.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+051.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+052.txt,-1,Outlier
+053.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+054.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+055.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+056.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+057.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+058.txt,-1,Outlier
+059.txt,-1,Outlier
+060.txt,-1,Outlier
+061.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+062.txt,-1,Outlier
+063.txt,-1,Outlier
+064.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+065.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+066.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+067.txt,-1,Outlier
+068.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+069.txt,-1,Outlier
+070.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+071.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+072.txt,-1,Outlier
+073.txt,-1,Outlier
+074.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+075.txt,-1,Outlier
+076.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+077.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+078.txt,-1,Outlier
+079.txt,-1,Outlier
+080.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+081.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+082.txt,-1,Outlier
+083.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+084.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+085.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+086.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+087.txt,-1,Outlier
+088.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+089.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+090.txt,-1,Outlier
+091.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+092.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+093.txt,0,"unique position, strategic gateway, square feet, significant milestone, rich campuses, reliable voice, numerous use, key capacity, joint offerings, joint offering"
+094.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+095.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+096.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"
+097.txt,1,"financial services, new wins, top tier, rapid growth, strong returns, notable outperformance, higher utilization, direct sales, digital business, commercial banking"

@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),10
+-1,Outlier,Neutral,15
+-1,Outlier,Positive (Low/Mid arousal),10
+0,"net interest, adjusted revenue, proprietary billings, adjusted operating, adjusted basis, regulated markets, ongoing impact, new accounts, lower tax, lower rate","Excited (Positive, High arousal)",1
+0,"net interest, adjusted revenue, proprietary billings, adjusted operating, adjusted basis, regulated markets, ongoing impact, new accounts, lower tax, lower rate",Negative (Low/Med arousal),14
+0,"net interest, adjusted revenue, proprietary billings, adjusted operating, adjusted basis, regulated markets, ongoing impact, new accounts, lower tax, lower rate",Neutral,23
+0,"net interest, adjusted revenue, proprietary billings, adjusted operating, adjusted basis, regulated markets, ongoing impact, new accounts, lower tax, lower rate",Positive (Low/Mid arousal),7
+1,"regulatory environment, long term, solid progress, historical practice, sustainable revenue, steady operating, steady revenue, significant amounts, strong capital, tremendous capital","Excited (Positive, High arousal)",3
+1,"regulatory environment, long term, solid progress, historical practice, sustainable revenue, steady operating, steady revenue, significant amounts, strong capital, tremendous capital",Negative (Low/Med arousal),6
+1,"regulatory environment, long term, solid progress, historical practice, sustainable revenue, steady operating, steady revenue, significant amounts, strong capital, tremendous capital",Neutral,18
+1,"regulatory environment, long term, solid progress, historical practice, sustainable revenue, steady operating, steady revenue, significant amounts, strong capital, tremendous capital",Positive (Low/Mid arousal),6
+2,"new customer, steady growth, several months, recent revenue, strong credit, customized products, proprietary customers, new benefits, larger merchant, greater share","Excited (Positive, High arousal)",2
+2,"new customer, steady growth, several months, recent revenue, strong credit, customized products, proprietary customers, new benefits, larger merchant, greater share",Negative (Low/Med arousal),3
+2,"new customer, steady growth, several months, recent revenue, strong credit, customized products, proprietary customers, new benefits, larger merchant, greater share",Neutral,7
+2,"new customer, steady growth, several months, recent revenue, strong credit, customized products, proprietary customers, new benefits, larger merchant, greater share",Positive (Low/Mid arousal),1

@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",9
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,"Nervous (Negative, High arousal)",1
+-1,Outlier,Neutral,10
+0,"joint ventures, wholesale side, positive operating, flatter yield, current levels, higher cash, net interest, next rate, normal growth, regulatory expectations","Excited (Positive, High arousal)",18
+0,"joint ventures, wholesale side, positive operating, flatter yield, current levels, higher cash, net interest, next rate, normal growth, regulatory expectations",Negative (Low/Med arousal),14
+0,"joint ventures, wholesale side, positive operating, flatter yield, current levels, higher cash, net interest, next rate, normal growth, regulatory expectations",Neutral,19
+1,"notable items, interest income, interest expense, strong growth, higher compensation, net income, average loans, total loan, retail leases, strong dealer","Excited (Positive, High arousal)",4
+1,"notable items, interest income, interest expense, strong growth, higher compensation, net income, average loans, total loan, retail leases, strong dealer",Negative (Low/Med arousal),9
+1,"notable items, interest income, interest expense, strong growth, higher compensation, net income, average loans, total loan, retail leases, strong dealer",Neutral,13

@@ -1,0 +1,21 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",6
+-1,Outlier,Negative (Low/Med arousal),19
+-1,Outlier,Neutral,36
+-1,Outlier,Positive (Low/Mid arousal),8
+0,"latter part, critical issue, , , , , , , , ","Excited (Positive, High arousal)",4
+0,"latter part, critical issue, , , , , , , , ",Negative (Low/Med arousal),6
+0,"latter part, critical issue, , , , , , , , ",Neutral,21
+0,"latter part, critical issue, , , , , , , , ",Positive (Low/Mid arousal),16
+1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans","Excited (Positive, High arousal)",5
+1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans",Negative (Low/Med arousal),8
+1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans",Neutral,17
+1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans",Positive (Low/Mid arousal),8
+2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system","Excited (Positive, High arousal)",3
+2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system",Negative (Low/Med arousal),12
+2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system",Neutral,20
+2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system",Positive (Low/Mid arousal),2
+3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , ","Excited (Positive, High arousal)",2
+3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , ",Negative (Low/Med arousal),7
+3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , ",Neutral,6
+3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , ",Positive (Low/Mid arousal),4

@@ -1,0 +1,9 @@
+topic_id,topic_keywords,emotion_label,count
+0,"retail channel, theatrical release, great confidence, commercial teams, strong growth, modest investments, great growth, great trends, retail strategy, early days","Excited (Positive, High arousal)",32
+0,"retail channel, theatrical release, great confidence, commercial teams, strong growth, modest investments, great growth, great trends, retail strategy, early days",Negative (Low/Med arousal),52
+0,"retail channel, theatrical release, great confidence, commercial teams, strong growth, modest investments, great growth, great trends, retail strategy, early days",Neutral,108
+0,"retail channel, theatrical release, great confidence, commercial teams, strong growth, modest investments, great growth, great trends, retail strategy, early days",Positive (Low/Mid arousal),15
+1,"fluid situation, , , , , , , , , ","Excited (Positive, High arousal)",6
+1,"fluid situation, , , , , , , , , ",Negative (Low/Med arousal),3
+1,"fluid situation, , , , , , , , , ",Neutral,5
+1,"fluid situation, , , , , , , , , ",Positive (Low/Mid arousal),1

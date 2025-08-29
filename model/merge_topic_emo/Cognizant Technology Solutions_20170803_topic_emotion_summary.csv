@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",3
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,Neutral,28
+-1,Outlier,Positive (Low/Mid arousal),11
+0,"entire practice, strong growth, strong demand, service line, regional banks, strong performance, overall performance, larger scale, future growth, large enterprise","Excited (Positive, High arousal)",5
+0,"entire practice, strong growth, strong demand, service line, regional banks, strong performance, overall performance, larger scale, future growth, large enterprise",Negative (Low/Med arousal),4
+0,"entire practice, strong growth, strong demand, service line, regional banks, strong performance, overall performance, larger scale, future growth, large enterprise",Neutral,16
+0,"entire practice, strong growth, strong demand, service line, regional banks, strong performance, overall performance, larger scale, future growth, large enterprise",Positive (Low/Mid arousal),2
+1,"specific solutions, repeatable industry, advanced analytics, digital scale, digital commerce, traditional phone, right content, right person, right time, new experiences",Negative (Low/Med arousal),7
+1,"specific solutions, repeatable industry, advanced analytics, digital scale, digital commerce, traditional phone, right content, right person, right time, new experiences",Neutral,13
+1,"specific solutions, repeatable industry, advanced analytics, digital scale, digital commerce, traditional phone, right content, right person, right time, new experiences",Positive (Low/Mid arousal),4

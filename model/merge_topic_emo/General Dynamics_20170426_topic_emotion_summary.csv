@@ -1,0 +1,8 @@
+topic_id,topic_keywords,emotion_label,count
+0,"good start, strong operating, total backlog, new revenue, green aircraft, net earnings, sequential basis, new business, positive operating, sequential result","Excited (Positive, High arousal)",39
+0,"good start, strong operating, total backlog, new revenue, green aircraft, net earnings, sequential basis, new business, positive operating, sequential result",Negative (Low/Med arousal),45
+0,"good start, strong operating, total backlog, new revenue, green aircraft, net earnings, sequential basis, new business, positive operating, sequential result",Neutral,85
+0,"good start, strong operating, total backlog, new revenue, green aircraft, net earnings, sequential basis, new business, positive operating, sequential result",Positive (Low/Mid arousal),3
+1,"nice ramp, , , , , , , , , ","Excited (Positive, High arousal)",3
+1,"nice ramp, , , , , , , , , ",Negative (Low/Med arousal),4
+1,"nice ramp, , , , , , , , , ",Neutral,8

@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),15
+-1,Outlier,Neutral,29
+-1,Outlier,Positive (Low/Mid arousal),19
+0,"higher programming, theatrical revenue, successful renewals, strong revenue, real discipline, strong performances, programming operating, positive contribution, financial performance, continued success","Excited (Positive, High arousal)",1
+0,"higher programming, theatrical revenue, successful renewals, strong revenue, real discipline, strong performances, programming operating, positive contribution, financial performance, continued success",Negative (Low/Med arousal),8
+0,"higher programming, theatrical revenue, successful renewals, strong revenue, real discipline, strong performances, programming operating, positive contribution, financial performance, continued success",Neutral,12
+0,"higher programming, theatrical revenue, successful renewals, strong revenue, real discipline, strong performances, programming operating, positive contribution, financial performance, continued success",Positive (Low/Mid arousal),5
+1,"residential customers, terrific results, total video, strong performance, positive benefits, meaningful strides, lowest levels, key driver, higher customer, healthy customer",Negative (Low/Med arousal),4
+1,"residential customers, terrific results, total video, strong performance, positive benefits, meaningful strides, lowest levels, key driver, higher customer, healthy customer",Neutral,6
+1,"residential customers, terrific results, total video, strong performance, positive benefits, meaningful strides, lowest levels, key driver, higher customer, healthy customer",Positive (Low/Mid arousal),3

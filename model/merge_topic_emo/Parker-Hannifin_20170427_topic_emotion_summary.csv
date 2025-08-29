@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),12
+-1,Outlier,Neutral,33
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"organic growth, organic sales, high level, adjusted basis, top quartile, overall segment, steady progress, financial objectives, new guidance, good number","Excited (Positive, High arousal)",2
+0,"organic growth, organic sales, high level, adjusted basis, top quartile, overall segment, steady progress, financial objectives, new guidance, good number",Negative (Low/Med arousal),11
+0,"organic growth, organic sales, high level, adjusted basis, top quartile, overall segment, steady progress, financial objectives, new guidance, good number",Neutral,20
+0,"organic growth, organic sales, high level, adjusted basis, top quartile, overall segment, steady progress, financial objectives, new guidance, good number",Positive (Low/Mid arousal),5
+1,"cultural fit, whole revenue, strong leadership, operational performance, improved safety, new capability, hard work, bigger area, better experience, best filtration","Excited (Positive, High arousal)",5
+1,"cultural fit, whole revenue, strong leadership, operational performance, improved safety, new capability, hard work, bigger area, better experience, best filtration",Negative (Low/Med arousal),8
+1,"cultural fit, whole revenue, strong leadership, operational performance, improved safety, new capability, hard work, bigger area, better experience, best filtration",Neutral,10
+1,"cultural fit, whole revenue, strong leadership, operational performance, improved safety, new capability, hard work, bigger area, better experience, best filtration",Positive (Low/Mid arousal),2
+2,"much board, best approach, , , , , , , , ","Excited (Positive, High arousal)",1
+2,"much board, best approach, , , , , , , , ",Negative (Low/Med arousal),3
+2,"much board, best approach, , , , , , , , ",Neutral,12
+2,"much board, best approach, , , , , , , , ",Positive (Low/Mid arousal),3

@@ -1,0 +1,15 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",12
+-1,Outlier,Negative (Low/Med arousal),9
+-1,Outlier,Neutral,21
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion","Excited (Positive, High arousal)",1
+0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion",Negative (Low/Med arousal),14
+0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion",Neutral,25
+0,"medical claims, repeating items, total impact, special items, previous slide, effective tax, upper end, underlined plans, normalized level, significant portion",Positive (Low/Mid arousal),12
+1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp",Negative (Low/Med arousal),7
+1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp",Neutral,12
+1,"domestic containerboard, industrial packaging, higher prices, fewer shipping, solid results, normal erosion, global pulp, higher containerboard, lower prices, lower pulp",Positive (Low/Mid arousal),1
+2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels",Negative (Low/Med arousal),4
+2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels",Neutral,8
+2,"wide range, standalone business, solid fleet, significant product, nice mix, great start, long runway, incremental fluff, higher growth, different levels",Positive (Low/Mid arousal),2

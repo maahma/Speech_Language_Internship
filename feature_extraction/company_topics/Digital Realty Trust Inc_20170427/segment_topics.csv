@@ -1,0 +1,227 @@
+filename,topic_id,topic_keywords
+001.txt,1,", , , , , , , , , "
+002.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+003.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+004.txt,3,"strong quarters, , , , , , , , , "
+005.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+006.txt,-1,Outlier
+007.txt,3,"strong quarters, , , , , , , , , "
+008.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+009.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+010.txt,-1,Outlier
+011.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+012.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+013.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+014.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+015.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+016.txt,-1,Outlier
+017.txt,1,", , , , , , , , , "
+018.txt,-1,Outlier
+019.txt,-1,Outlier
+020.txt,-1,Outlier
+021.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+022.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+023.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+024.txt,-1,Outlier
+025.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+026.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+027.txt,-1,Outlier
+028.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+029.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+030.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+031.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+032.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+033.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+034.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+035.txt,-1,Outlier
+036.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+037.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+038.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+039.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+040.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+041.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+042.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+043.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+044.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+045.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+046.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+047.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+048.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+049.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+050.txt,3,"strong quarters, , , , , , , , , "
+051.txt,3,"strong quarters, , , , , , , , , "
+052.txt,1,", , , , , , , , , "
+053.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+054.txt,-1,Outlier
+055.txt,-1,Outlier
+056.txt,-1,Outlier
+057.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+058.txt,-1,Outlier
+059.txt,-1,Outlier
+060.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+061.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+062.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+063.txt,-1,Outlier
+064.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+065.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+066.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+067.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+068.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+069.txt,-1,Outlier
+070.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+071.txt,3,"strong quarters, , , , , , , , , "
+072.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+073.txt,1,", , , , , , , , , "
+074.txt,1,", , , , , , , , , "
+075.txt,1,", , , , , , , , , "
+076.txt,1,", , , , , , , , , "
+077.txt,3,"strong quarters, , , , , , , , , "
+078.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+079.txt,-1,Outlier
+080.txt,-1,Outlier
+081.txt,1,", , , , , , , , , "
+082.txt,3,"strong quarters, , , , , , , , , "
+083.txt,1,", , , , , , , , , "
+084.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+085.txt,1,", , , , , , , , , "
+086.txt,3,"strong quarters, , , , , , , , , "
+087.txt,3,"strong quarters, , , , , , , , , "
+088.txt,-1,Outlier
+089.txt,3,"strong quarters, , , , , , , , , "
+090.txt,3,"strong quarters, , , , , , , , , "
+091.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+092.txt,-1,Outlier
+093.txt,1,", , , , , , , , , "
+094.txt,-1,Outlier
+095.txt,-1,Outlier
+096.txt,-1,Outlier
+097.txt,3,"strong quarters, , , , , , , , , "
+098.txt,1,", , , , , , , , , "
+099.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+100.txt,-1,Outlier
+101.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+102.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+103.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+104.txt,3,"strong quarters, , , , , , , , , "
+105.txt,3,"strong quarters, , , , , , , , , "
+106.txt,1,", , , , , , , , , "
+107.txt,1,", , , , , , , , , "
+108.txt,-1,Outlier
+109.txt,3,"strong quarters, , , , , , , , , "
+110.txt,-1,Outlier
+111.txt,3,"strong quarters, , , , , , , , , "
+112.txt,-1,Outlier
+113.txt,-1,Outlier
+114.txt,-1,Outlier
+115.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+116.txt,3,"strong quarters, , , , , , , , , "
+117.txt,3,"strong quarters, , , , , , , , , "
+118.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+119.txt,3,"strong quarters, , , , , , , , , "
+120.txt,-1,Outlier
+121.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+122.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+123.txt,-1,Outlier
+124.txt,-1,Outlier
+125.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+126.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+127.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+128.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+129.txt,3,"strong quarters, , , , , , , , , "
+130.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+131.txt,1,", , , , , , , , , "
+132.txt,1,", , , , , , , , , "
+133.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+134.txt,-1,Outlier
+135.txt,3,"strong quarters, , , , , , , , , "
+136.txt,-1,Outlier
+137.txt,1,", , , , , , , , , "
+138.txt,-1,Outlier
+139.txt,-1,Outlier
+140.txt,1,", , , , , , , , , "
+141.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+142.txt,2,"leasing spreads, new leases, forward equity, unique move, overall portfolio, positive mark, special situations, steady progress, current backlog, negative cash"
+143.txt,3,"strong quarters, , , , , , , , , "
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,-1,Outlier
+147.txt,1,", , , , , , , , , "
+148.txt,1,", , , , , , , , , "
+149.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+150.txt,1,", , , , , , , , , "
+151.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+152.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+153.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+154.txt,-1,Outlier
+155.txt,-1,Outlier
+156.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+157.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+158.txt,-1,Outlier
+159.txt,1,", , , , , , , , , "
+160.txt,-1,Outlier
+161.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+162.txt,-1,Outlier
+163.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+164.txt,-1,Outlier
+165.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+166.txt,-1,Outlier
+167.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+168.txt,-1,Outlier
+169.txt,1,", , , , , , , , , "
+170.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+171.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+172.txt,1,", , , , , , , , , "
+173.txt,1,", , , , , , , , , "
+174.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+175.txt,-1,Outlier
+176.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+177.txt,-1,Outlier
+178.txt,1,", , , , , , , , , "
+179.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+180.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+181.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+182.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+183.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+184.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+185.txt,-1,Outlier
+186.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+187.txt,-1,Outlier
+188.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+189.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+190.txt,-1,Outlier
+191.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+192.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+193.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+194.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+195.txt,-1,Outlier
+196.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+197.txt,-1,Outlier
+198.txt,-1,Outlier
+199.txt,1,", , , , , , , , , "
+200.txt,1,", , , , , , , , , "
+201.txt,1,", , , , , , , , , "
+202.txt,-1,Outlier
+203.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+204.txt,-1,Outlier
+205.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+206.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+207.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+208.txt,-1,Outlier
+209.txt,-1,Outlier
+210.txt,-1,Outlier
+211.txt,-1,Outlier
+212.txt,1,", , , , , , , , , "
+213.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+214.txt,5,"next stop, urban infill, smaller wins, major leases, larger scale, long time, large anchor, large signing, dominant presence, digital relationship"
+215.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+216.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+217.txt,-1,Outlier
+218.txt,4,"highest signings, colo interconnection, average lag, historical average, , , , , , "
+219.txt,-1,Outlier
+220.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+221.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+222.txt,-1,Outlier
+223.txt,-1,Outlier
+224.txt,-1,Outlier
+225.txt,0,"top cloud, general ledger, multiple markets, geographic regions, digital economy, vibrant customers, whole bunch, specialized cloud, small scale, single tenant"
+226.txt,-1,Outlier

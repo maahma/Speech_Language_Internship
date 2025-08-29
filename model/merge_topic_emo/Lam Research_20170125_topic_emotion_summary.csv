@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Negative (Low/Med arousal),1
+-1,Outlier,Neutral,8
+0,"deferred revenue, gross margin, foundry logic, whole lot, senior notes, overall business, convertible notes, volatile memory, reasonable number, multiple factors","Excited (Positive, High arousal)",7
+0,"deferred revenue, gross margin, foundry logic, whole lot, senior notes, overall business, convertible notes, volatile memory, reasonable number, multiple factors",Negative (Low/Med arousal),18
+0,"deferred revenue, gross margin, foundry logic, whole lot, senior notes, overall business, convertible notes, volatile memory, reasonable number, multiple factors",Neutral,56
+0,"deferred revenue, gross margin, foundry logic, whole lot, senior notes, overall business, convertible notes, volatile memory, reasonable number, multiple factors",Positive (Low/Mid arousal),6
+1,"prepared remarks, practical reality, much uncertainty, definitive law, definitive conversation, close attention, , , , ","Excited (Positive, High arousal)",2
+1,"prepared remarks, practical reality, much uncertainty, definitive law, definitive conversation, close attention, , , , ",Neutral,11
+1,"prepared remarks, practical reality, much uncertainty, definitive law, definitive conversation, close attention, , , , ",Positive (Low/Mid arousal),1

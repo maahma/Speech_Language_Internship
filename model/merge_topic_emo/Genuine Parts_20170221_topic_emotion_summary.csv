@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Negative (Low/Med arousal),1
+-1,Outlier,Neutral,2
+0,"comparable sales, total sales, strategic acquisitions, double digit, new stores, improved results, net income, quarterly performance, lower fuel, retail sales","Excited (Positive, High arousal)",5
+0,"comparable sales, total sales, strategic acquisitions, double digit, new stores, improved results, net income, quarterly performance, lower fuel, retail sales",Negative (Low/Med arousal),30
+0,"comparable sales, total sales, strategic acquisitions, double digit, new stores, improved results, net income, quarterly performance, lower fuel, retail sales",Neutral,65
+0,"comparable sales, total sales, strategic acquisitions, double digit, new stores, improved results, net income, quarterly performance, lower fuel, retail sales",Positive (Low/Mid arousal),11
+1,", , , , , , , , , ","Excited (Positive, High arousal)",8
+1,", , , , , , , , , ",Neutral,13
+1,", , , , , , , , , ",Positive (Low/Mid arousal),5

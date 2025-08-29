@@ -1,0 +1,14 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Negative (Low/Med arousal),1
+-1,Outlier,Neutral,8
+0,"various things, medical loss, operational efficiencies, mixed bag, successful projects, significant opportunities, retroactive adjustment, overall amount, premium tax, net income","Excited (Positive, High arousal)",7
+0,"various things, medical loss, operational efficiencies, mixed bag, successful projects, significant opportunities, retroactive adjustment, overall amount, premium tax, net income",Negative (Low/Med arousal),33
+0,"various things, medical loss, operational efficiencies, mixed bag, successful projects, significant opportunities, retroactive adjustment, overall amount, premium tax, net income",Neutral,52
+0,"various things, medical loss, operational efficiencies, mixed bag, successful projects, significant opportunities, retroactive adjustment, overall amount, premium tax, net income",Positive (Low/Mid arousal),17
+1,"obvious item, exact membership, , , , , , , , ","Excited (Positive, High arousal)",2
+1,"obvious item, exact membership, , , , , , , , ",Negative (Low/Med arousal),3
+1,"obvious item, exact membership, , , , , , , , ",Neutral,7
+1,"obvious item, exact membership, , , , , , , , ",Positive (Low/Mid arousal),1
+2,", , , , , , , , , ","Excited (Positive, High arousal)",10
+2,", , , , , , , , , ",Neutral,1

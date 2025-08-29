@@ -1,0 +1,20 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",19
+-1,Outlier,Negative (Low/Med arousal),15
+-1,Outlier,Neutral,38
+-1,Outlier,Positive (Low/Mid arousal),8
+0,"hybrid cloud, pure play, rapid pace, multiyear cloud, main markets, large example, new metrics, future flexibility, hybrid approach, holistic approach","Excited (Positive, High arousal)",3
+0,"hybrid cloud, pure play, rapid pace, multiyear cloud, main markets, large example, new metrics, future flexibility, hybrid approach, holistic approach",Negative (Low/Med arousal),16
+0,"hybrid cloud, pure play, rapid pace, multiyear cloud, main markets, large example, new metrics, future flexibility, hybrid approach, holistic approach",Neutral,10
+0,"hybrid cloud, pure play, rapid pace, multiyear cloud, main markets, large example, new metrics, future flexibility, hybrid approach, holistic approach",Positive (Low/Mid arousal),1
+1,"short term, deferred revenue, top line, back half, rapid shift, forward basis, hybrid fashion, full story, perpetual license, ","Excited (Positive, High arousal)",2
+1,"short term, deferred revenue, top line, back half, rapid shift, forward basis, hybrid fashion, full story, perpetual license, ",Negative (Low/Med arousal),8
+1,"short term, deferred revenue, top line, back half, rapid shift, forward basis, hybrid fashion, full story, perpetual license, ",Neutral,17
+1,"short term, deferred revenue, top line, back half, rapid shift, forward basis, hybrid fashion, full story, perpetual license, ",Positive (Low/Mid arousal),2
+2,"several quarters, good progress, back half, , , , , , , ","Excited (Positive, High arousal)",7
+2,"several quarters, good progress, back half, , , , , , , ",Negative (Low/Med arousal),3
+2,"several quarters, good progress, back half, , , , , , , ",Neutral,12
+2,"several quarters, good progress, back half, , , , , , , ",Positive (Low/Mid arousal),1
+3,"solid growth, significant growth, primary strategy, international markets, balanced manner, , , , , ","Excited (Positive, High arousal)",2
+3,"solid growth, significant growth, primary strategy, international markets, balanced manner, , , , , ",Negative (Low/Med arousal),2
+3,"solid growth, significant growth, primary strategy, international markets, balanced manner, , , , , ",Neutral,8

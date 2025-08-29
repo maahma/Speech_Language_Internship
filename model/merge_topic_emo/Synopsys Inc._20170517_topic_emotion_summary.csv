@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),21
+-1,Outlier,Neutral,34
+-1,Outlier,Positive (Low/Mid arousal),10
+0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies",Negative (Low/Med arousal),20
+0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies",Neutral,34
+0,"long time, financial market, virtual prototyping, overall picture, ongoing basis, wide adoption, stable outlook, multiple chips, new memory, many companies",Positive (Low/Mid arousal),10
+1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , ","Excited (Positive, High arousal)",10
+1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , ",Negative (Low/Med arousal),3
+1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , ",Neutral,9
+1,"strong outlook, healthy business, good growth, excellent results, big effort, big issue, complex chips, leading edge, , ",Positive (Low/Mid arousal),6
+2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands","Excited (Positive, High arousal)",2
+2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands",Negative (Low/Med arousal),3
+2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands",Neutral,16
+2,"stringent level, specific form, next day, much project, key reason, continuous complexity, continued complexity, automotive safety, certain set, automotive demands",Positive (Low/Mid arousal),1

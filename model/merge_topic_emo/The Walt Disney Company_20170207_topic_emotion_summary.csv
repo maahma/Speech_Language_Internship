@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",3
+-1,Outlier,Negative (Low/Med arousal),4
+-1,Outlier,Neutral,25
+-1,Outlier,Positive (Low/Mid arousal),7
+0,"strong sales, lesser extent, difficult comparison, creative fronts, lower results, , , , , ","Excited (Positive, High arousal)",4
+0,"strong sales, lesser extent, difficult comparison, creative fronts, lower results, , , , , ",Negative (Low/Med arousal),5
+0,"strong sales, lesser extent, difficult comparison, creative fronts, lower results, , , , , ",Neutral,13
+0,"strong sales, lesser extent, difficult comparison, creative fronts, lower results, , , , , ",Positive (Low/Mid arousal),3
+1,"lower programming, lower subscribers, lower ad, higher pricing, higher affiliation, higher affiliate, higher ad, foreign exchange, fiscal calendar, contractual rate","Excited (Positive, High arousal)",1
+1,"lower programming, lower subscribers, lower ad, higher pricing, higher affiliation, higher affiliate, higher ad, foreign exchange, fiscal calendar, contractual rate",Negative (Low/Med arousal),3
+1,"lower programming, lower subscribers, lower ad, higher pricing, higher affiliation, higher affiliate, higher ad, foreign exchange, fiscal calendar, contractual rate",Neutral,13
+1,"lower programming, lower subscribers, lower ad, higher pricing, higher affiliation, higher affiliate, higher ad, foreign exchange, fiscal calendar, contractual rate",Positive (Low/Mid arousal),2
+2,"international parks, domestic parks, unfavorable impacts, international businesses, highest margin, higher admissions, healthy spending, , , ","Excited (Positive, High arousal)",1
+2,"international parks, domestic parks, unfavorable impacts, international businesses, highest margin, higher admissions, healthy spending, , , ",Negative (Low/Med arousal),7
+2,"international parks, domestic parks, unfavorable impacts, international businesses, highest margin, higher admissions, healthy spending, , , ",Neutral,4
+2,"international parks, domestic parks, unfavorable impacts, international businesses, highest margin, higher admissions, healthy spending, , , ",Positive (Low/Mid arousal),2

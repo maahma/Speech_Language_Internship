@@ -1,0 +1,13 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),16
+-1,Outlier,Neutral,18
+-1,Outlier,Positive (Low/Mid arousal),6
+0,"long term, diluted share, prepared remarks, net earnings, total debt, 53rd week, troubled multiemployer, single digits, total sales, retail product","Excited (Positive, High arousal)",1
+0,"long term, diluted share, prepared remarks, net earnings, total debt, 53rd week, troubled multiemployer, single digits, total sales, retail product",Negative (Low/Med arousal),13
+0,"long term, diluted share, prepared remarks, net earnings, total debt, 53rd week, troubled multiemployer, single digits, total sales, retail product",Neutral,26
+0,"long term, diluted share, prepared remarks, net earnings, total debt, 53rd week, troubled multiemployer, single digits, total sales, retail product",Positive (Low/Mid arousal),18
+1,"large group, incremental fuel, great things, broader base, big way, identical supermarket, , , , ","Excited (Positive, High arousal)",2
+1,"large group, incremental fuel, great things, broader base, big way, identical supermarket, , , , ",Negative (Low/Med arousal),6
+1,"large group, incremental fuel, great things, broader base, big way, identical supermarket, , , , ",Neutral,7
+1,"large group, incremental fuel, great things, broader base, big way, identical supermarket, , , , ",Positive (Low/Mid arousal),1

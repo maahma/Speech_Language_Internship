@@ -1,0 +1,20 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",7
+-1,Outlier,Negative (Low/Med arousal),16
+-1,Outlier,Neutral,34
+-1,Outlier,Positive (Low/Mid arousal),4
+0,"reportable segments, new business, longer term, vast market, quarterly performance, reportable segment, net synergy, good progress, functional business, critical priorities","Excited (Positive, High arousal)",19
+0,"reportable segments, new business, longer term, vast market, quarterly performance, reportable segment, net synergy, good progress, functional business, critical priorities",Negative (Low/Med arousal),15
+0,"reportable segments, new business, longer term, vast market, quarterly performance, reportable segment, net synergy, good progress, functional business, critical priorities",Neutral,39
+0,"reportable segments, new business, longer term, vast market, quarterly performance, reportable segment, net synergy, good progress, functional business, critical priorities",Positive (Low/Mid arousal),6
+1,"adjusted revenue, adjusted basis, adjusted tax, fair value, high end, top end, certain tax, effective rate, recurring charges, previous guidance","Excited (Positive, High arousal)",7
+1,"adjusted revenue, adjusted basis, adjusted tax, fair value, high end, top end, certain tax, effective rate, recurring charges, previous guidance",Negative (Low/Med arousal),4
+1,"adjusted revenue, adjusted basis, adjusted tax, fair value, high end, top end, certain tax, effective rate, recurring charges, previous guidance",Neutral,17
+1,"adjusted revenue, adjusted basis, adjusted tax, fair value, high end, top end, certain tax, effective rate, recurring charges, previous guidance",Positive (Low/Mid arousal),5
+2,"adjusted revenue, sequential basis, total contract, neutral basis, new business, right way, strong contract, teen revenue, prior quarters, new clients","Excited (Positive, High arousal)",3
+2,"adjusted revenue, sequential basis, total contract, neutral basis, new business, right way, strong contract, teen revenue, prior quarters, new clients",Negative (Low/Med arousal),7
+2,"adjusted revenue, sequential basis, total contract, neutral basis, new business, right way, strong contract, teen revenue, prior quarters, new clients",Neutral,18
+2,"adjusted revenue, sequential basis, total contract, neutral basis, new business, right way, strong contract, teen revenue, prior quarters, new clients",Positive (Low/Mid arousal),3
+3,"free cash, combined basis, gross contribution, strongest cash, significant acquisition, smaller community, strong research, key driver, lightest profit, financial performance","Excited (Positive, High arousal)",2
+3,"free cash, combined basis, gross contribution, strongest cash, significant acquisition, smaller community, strong research, key driver, lightest profit, financial performance",Negative (Low/Med arousal),8
+3,"free cash, combined basis, gross contribution, strongest cash, significant acquisition, smaller community, strong research, key driver, lightest profit, financial performance",Neutral,8

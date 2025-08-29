@@ -1,0 +1,276 @@
+filename,topic_id,topic_keywords
+001.txt,-1,Outlier
+002.txt,-1,Outlier
+003.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+004.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+005.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+006.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+007.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+008.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+009.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+010.txt,-1,Outlier
+011.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+012.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+013.txt,-1,Outlier
+014.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+015.txt,-1,Outlier
+016.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+017.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+018.txt,-1,Outlier
+019.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+020.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+021.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+022.txt,-1,Outlier
+023.txt,-1,Outlier
+024.txt,-1,Outlier
+025.txt,-1,Outlier
+026.txt,5,"overall context, ongoing asset, , , , , , , , "
+027.txt,-1,Outlier
+028.txt,-1,Outlier
+029.txt,-1,Outlier
+030.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+031.txt,5,"overall context, ongoing asset, , , , , , , , "
+032.txt,-1,Outlier
+033.txt,5,"overall context, ongoing asset, , , , , , , , "
+034.txt,-1,Outlier
+035.txt,-1,Outlier
+036.txt,-1,Outlier
+037.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+038.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+039.txt,-1,Outlier
+040.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+041.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+042.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+043.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+044.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+045.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+046.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+047.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+048.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+049.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+050.txt,-1,Outlier
+051.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+052.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+053.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+054.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+055.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+056.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+057.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+058.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+059.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+060.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+061.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+062.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+063.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+064.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+065.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+066.txt,-1,Outlier
+067.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+068.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+069.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+070.txt,-1,Outlier
+071.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+072.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+073.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+074.txt,6,"postpaid phone, top priority, net losses, distinct trajectories, postpaid customers, , , , , "
+075.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+076.txt,-1,Outlier
+077.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+078.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+079.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+080.txt,-1,Outlier
+081.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+082.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+083.txt,-1,Outlier
+084.txt,-1,Outlier
+085.txt,-1,Outlier
+086.txt,-1,Outlier
+087.txt,-1,Outlier
+088.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+089.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+090.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+091.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+092.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+093.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+094.txt,-1,Outlier
+095.txt,-1,Outlier
+096.txt,-1,Outlier
+097.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+098.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+099.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+100.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+101.txt,-1,Outlier
+102.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+103.txt,5,"overall context, ongoing asset, , , , , , , , "
+104.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+105.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+106.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+107.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+108.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+109.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+110.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+111.txt,-1,Outlier
+112.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+113.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+114.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+115.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+116.txt,-1,Outlier
+117.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+118.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+119.txt,-1,Outlier
+120.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+121.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+122.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+123.txt,8,"little surprise, , , , , , , , , "
+124.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+125.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+126.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+127.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+128.txt,-1,Outlier
+129.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+130.txt,-1,Outlier
+131.txt,-1,Outlier
+132.txt,-1,Outlier
+133.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+134.txt,-1,Outlier
+135.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+136.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+137.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+138.txt,-1,Outlier
+139.txt,-1,Outlier
+140.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+141.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+142.txt,8,"little surprise, , , , , , , , , "
+143.txt,5,"overall context, ongoing asset, , , , , , , , "
+144.txt,-1,Outlier
+145.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+146.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+147.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+148.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+149.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+150.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+151.txt,-1,Outlier
+152.txt,-1,Outlier
+153.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+154.txt,-1,Outlier
+155.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+156.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+157.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+158.txt,-1,Outlier
+159.txt,5,"overall context, ongoing asset, , , , , , , , "
+160.txt,-1,Outlier
+161.txt,8,"little surprise, , , , , , , , , "
+162.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+163.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+164.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+165.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+166.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+167.txt,5,"overall context, ongoing asset, , , , , , , , "
+168.txt,5,"overall context, ongoing asset, , , , , , , , "
+169.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+170.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+171.txt,-1,Outlier
+172.txt,4,"small cells, strategic agreement, smart cities, small business, single use, optical fiber, adequate supply, , , "
+173.txt,5,"overall context, ongoing asset, , , , , , , , "
+174.txt,5,"overall context, ongoing asset, , , , , , , , "
+175.txt,8,"little surprise, , , , , , , , , "
+176.txt,-1,Outlier
+177.txt,8,"little surprise, , , , , , , , , "
+178.txt,5,"overall context, ongoing asset, , , , , , , , "
+179.txt,5,"overall context, ongoing asset, , , , , , , , "
+180.txt,5,"overall context, ongoing asset, , , , , , , , "
+181.txt,5,"overall context, ongoing asset, , , , , , , , "
+182.txt,5,"overall context, ongoing asset, , , , , , , , "
+183.txt,-1,Outlier
+184.txt,-1,Outlier
+185.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+186.txt,-1,Outlier
+187.txt,-1,Outlier
+188.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+189.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+190.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+191.txt,8,"little surprise, , , , , , , , , "
+192.txt,-1,Outlier
+193.txt,-1,Outlier
+194.txt,-1,Outlier
+195.txt,-1,Outlier
+196.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+197.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+198.txt,-1,Outlier
+199.txt,-1,Outlier
+200.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+201.txt,-1,Outlier
+202.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+203.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+204.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+205.txt,-1,Outlier
+206.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+207.txt,-1,Outlier
+208.txt,-1,Outlier
+209.txt,8,"little surprise, , , , , , , , , "
+210.txt,-1,Outlier
+211.txt,8,"little surprise, , , , , , , , , "
+212.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+213.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+214.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+215.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+216.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+217.txt,7,"small cells, wireless pilots, new technologies, technological developments, significant opportunity, significant opportunities, broader question, current spectrum, band spectrum, wireless network"
+218.txt,-1,Outlier
+219.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+220.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+221.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+222.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+223.txt,-1,Outlier
+224.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+225.txt,8,"little surprise, , , , , , , , , "
+226.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+227.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+228.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+229.txt,-1,Outlier
+230.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+231.txt,-1,Outlier
+232.txt,-1,Outlier
+233.txt,-1,Outlier
+234.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+235.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+236.txt,-1,Outlier
+237.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+238.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+239.txt,-1,Outlier
+240.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+241.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+242.txt,0,"wireless service, wireless revenues, big thing, organic basis, back half, wireless trajectory, wireless number, primary driver, right levels, total revenue"
+243.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+244.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+245.txt,8,"little surprise, , , , , , , , , "
+246.txt,-1,Outlier
+247.txt,-1,Outlier
+248.txt,8,"little surprise, , , , , , , , , "
+249.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+250.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+251.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+252.txt,-1,Outlier
+253.txt,-1,Outlier
+254.txt,-1,Outlier
+255.txt,8,"little surprise, , , , , , , , , "
+256.txt,-1,Outlier
+257.txt,-1,Outlier
+258.txt,-1,Outlier
+259.txt,-1,Outlier
+260.txt,-1,Outlier
+261.txt,-1,Outlier
+262.txt,-1,Outlier
+263.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+264.txt,2,"unlimited offering, high quality, unlimited world, unlimited offer, single line, wireless plans, retail phone, important thing, important point, entire business"
+265.txt,-1,Outlier
+266.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+267.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+268.txt,-1,Outlier
+269.txt,-1,Outlier
+270.txt,5,"overall context, ongoing asset, , , , , , , , "
+271.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+272.txt,-1,Outlier
+273.txt,1,"new products, competitive environment, connected world, next generation, new businesses, operational performance, organizational agility, strong networks, wireless data, new ecosystems"
+274.txt,3,"right thing, tremendous opportunity, right direction, right acquisition, organic fashion, better trajectory, long run, key focus, great assets, good price"
+275.txt,-1,Outlier

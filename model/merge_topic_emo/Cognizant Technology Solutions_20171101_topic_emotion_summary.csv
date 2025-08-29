@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",1
+-1,Outlier,Negative (Low/Med arousal),2
+-1,Outlier,Neutral,2
+0,"digital business, intellectual property, digital operations, patient populations, front end, digital economy, digital experiences, artificial intelligence, different kind, prepared remarks","Excited (Positive, High arousal)",3
+0,"digital business, intellectual property, digital operations, patient populations, front end, digital economy, digital experiences, artificial intelligence, different kind, prepared remarks",Negative (Low/Med arousal),23
+0,"digital business, intellectual property, digital operations, patient populations, front end, digital economy, digital experiences, artificial intelligence, different kind, prepared remarks",Neutral,44
+0,"digital business, intellectual property, digital operations, patient populations, front end, digital economy, digital experiences, artificial intelligence, different kind, prepared remarks",Positive (Low/Mid arousal),10
+1,"digital revenue, double digit, financial services, significant player, entire portfolio, higher margin, low end, financial results, digital aspects, digital plans","Excited (Positive, High arousal)",8
+1,"digital revenue, double digit, financial services, significant player, entire portfolio, higher margin, low end, financial results, digital aspects, digital plans",Negative (Low/Med arousal),3
+1,"digital revenue, double digit, financial services, significant player, entire portfolio, higher margin, low end, financial results, digital aspects, digital plans",Neutral,12
+1,"digital revenue, double digit, financial services, significant player, entire portfolio, higher margin, low end, financial results, digital aspects, digital plans",Positive (Low/Mid arousal),10

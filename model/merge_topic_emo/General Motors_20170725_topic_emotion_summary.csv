@@ -1,0 +1,10 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",12
+-1,Outlier,Negative (Low/Med arousal),11
+-1,Outlier,Neutral,21
+0,"retail sales, average transaction, tougher business, strategic plan, total sales, significant moves, softer industry, retail market, relentless focus, overall industry","Excited (Positive, High arousal)",15
+0,"retail sales, average transaction, tougher business, strategic plan, total sales, significant moves, softer industry, retail market, relentless focus, overall industry",Negative (Low/Med arousal),17
+0,"retail sales, average transaction, tougher business, strategic plan, total sales, significant moves, softer industry, retail market, relentless focus, overall industry",Neutral,30
+1,"autonomous vehicles, electric vehicles, personal mobility, final validation, electric vehicle, autonomous vehicle, transformative technologies, mass production, next winter, right investments","Excited (Positive, High arousal)",10
+1,"autonomous vehicles, electric vehicles, personal mobility, final validation, electric vehicle, autonomous vehicle, transformative technologies, mass production, next winter, right investments",Negative (Low/Med arousal),13
+1,"autonomous vehicles, electric vehicles, personal mobility, final validation, electric vehicle, autonomous vehicle, transformative technologies, mass production, next winter, right investments",Neutral,21

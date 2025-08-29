@@ -1,0 +1,167 @@
+filename,topic_id,topic_keywords
+001.txt,2,"electric side, normal weather, , , , , , , , "
+002.txt,2,"electric side, normal weather, , , , , , , , "
+003.txt,-1,Outlier
+004.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+005.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+006.txt,2,"electric side, normal weather, , , , , , , , "
+007.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+008.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+009.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+010.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+011.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+012.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+013.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+014.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+015.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+016.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+017.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+018.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+019.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+020.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+021.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+022.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+023.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+024.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+025.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+026.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+027.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+028.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+029.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+030.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+031.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+032.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+033.txt,-1,Outlier
+034.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+035.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+036.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+037.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+038.txt,-1,Outlier
+039.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+040.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+041.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+042.txt,-1,Outlier
+043.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+044.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+045.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+046.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+047.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+048.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+049.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+050.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+051.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+052.txt,-1,Outlier
+053.txt,2,"electric side, normal weather, , , , , , , , "
+054.txt,-1,Outlier
+055.txt,2,"electric side, normal weather, , , , , , , , "
+056.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+057.txt,-1,Outlier
+058.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+059.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+060.txt,-1,Outlier
+061.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+062.txt,-1,Outlier
+063.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+064.txt,2,"electric side, normal weather, , , , , , , , "
+065.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+066.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+067.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+068.txt,-1,Outlier
+069.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+070.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+071.txt,2,"electric side, normal weather, , , , , , , , "
+072.txt,-1,Outlier
+073.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+074.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+075.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+076.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+077.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+078.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+079.txt,2,"electric side, normal weather, , , , , , , , "
+080.txt,-1,Outlier
+081.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+082.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+083.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+084.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+085.txt,2,"electric side, normal weather, , , , , , , , "
+086.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+087.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+088.txt,2,"electric side, normal weather, , , , , , , , "
+089.txt,2,"electric side, normal weather, , , , , , , , "
+090.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+091.txt,2,"electric side, normal weather, , , , , , , , "
+092.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+093.txt,-1,Outlier
+094.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+095.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+096.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+097.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+098.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+099.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+100.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+101.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+102.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+103.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+104.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+105.txt,-1,Outlier
+106.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+107.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+108.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+109.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+110.txt,-1,Outlier
+111.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+112.txt,-1,Outlier
+113.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+114.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+115.txt,2,"electric side, normal weather, , , , , , , , "
+116.txt,-1,Outlier
+117.txt,-1,Outlier
+118.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+119.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+120.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+121.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+122.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+123.txt,-1,Outlier
+124.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+125.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+126.txt,2,"electric side, normal weather, , , , , , , , "
+127.txt,2,"electric side, normal weather, , , , , , , , "
+128.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+129.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+130.txt,-1,Outlier
+131.txt,2,"electric side, normal weather, , , , , , , , "
+132.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+133.txt,2,"electric side, normal weather, , , , , , , , "
+134.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+135.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+136.txt,-1,Outlier
+137.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+138.txt,-1,Outlier
+139.txt,-1,Outlier
+140.txt,2,"electric side, normal weather, , , , , , , , "
+141.txt,2,"electric side, normal weather, , , , , , , , "
+142.txt,2,"electric side, normal weather, , , , , , , , "
+143.txt,2,"electric side, normal weather, , , , , , , , "
+144.txt,-1,Outlier
+145.txt,-1,Outlier
+146.txt,-1,Outlier
+147.txt,-1,Outlier
+148.txt,-1,Outlier
+149.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+150.txt,1,"long term, annual growth, upper end, quarterly cash, quarterly dividend, bottom end, actual earnings, , , "
+151.txt,-1,Outlier
+152.txt,2,"electric side, normal weather, , , , , , , , "
+153.txt,-1,Outlier
+154.txt,-1,Outlier
+155.txt,2,"electric side, normal weather, , , , , , , , "
+156.txt,-1,Outlier
+157.txt,-1,Outlier
+158.txt,-1,Outlier
+159.txt,-1,Outlier
+160.txt,-1,Outlier
+161.txt,0,"natural gas, definitive action, largest customers, prescribed process, additional information, regulatory process, net savings, industrial customers, electric pricing, electric customers"
+162.txt,-1,Outlier
+163.txt,2,"electric side, normal weather, , , , , , , , "
+164.txt,2,"electric side, normal weather, , , , , , , , "
+165.txt,-1,Outlier
+166.txt,-1,Outlier

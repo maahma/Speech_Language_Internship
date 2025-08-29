@@ -1,0 +1,8 @@
+topic_id,topic_keywords,emotion_label,count
+0,"private brands, national brands, exclusive brand, warm weather, private brand, strong performance, competitive store, lower inventory, digital business, exclusive brands","Excited (Positive, High arousal)",73
+0,"private brands, national brands, exclusive brand, warm weather, private brand, strong performance, competitive store, lower inventory, digital business, exclusive brands",Negative (Low/Med arousal),66
+0,"private brands, national brands, exclusive brand, warm weather, private brand, strong performance, competitive store, lower inventory, digital business, exclusive brands","Nervous (Negative, High arousal)",2
+0,"private brands, national brands, exclusive brand, warm weather, private brand, strong performance, competitive store, lower inventory, digital business, exclusive brands",Neutral,119
+1,"gross margin, competitive activity, higher shipping, , , , , , , ","Excited (Positive, High arousal)",1
+1,"gross margin, competitive activity, higher shipping, , , , , , , ",Negative (Low/Med arousal),2
+1,"gross margin, competitive activity, higher shipping, , , , , , , ",Neutral,9

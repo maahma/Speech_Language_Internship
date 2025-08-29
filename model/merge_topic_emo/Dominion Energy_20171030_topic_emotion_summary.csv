@@ -1,0 +1,7 @@
+topic_id,topic_keywords,emotion_label,count
+0,"new data, middle part, electric transmission, residential customers, various stages, next decade, ongoing pipeline, regulatory approval, incremental projects, ideal commodity","Excited (Positive, High arousal)",14
+0,"new data, middle part, electric transmission, residential customers, various stages, next decade, ongoing pipeline, regulatory approval, incremental projects, ideal commodity",Negative (Low/Med arousal),13
+0,"new data, middle part, electric transmission, residential customers, various stages, next decade, ongoing pipeline, regulatory approval, incremental projects, ideal commodity","Nervous (Negative, High arousal)",11
+0,"new data, middle part, electric transmission, residential customers, various stages, next decade, ongoing pipeline, regulatory approval, incremental projects, ideal commodity",Neutral,56
+1,", , , , , , , , , ","Excited (Positive, High arousal)",9
+1,", , , , , , , , , ",Neutral,3

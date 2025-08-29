@@ -1,0 +1,11 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",6
+-1,Outlier,Negative (Low/Med arousal),16
+-1,Outlier,Neutral,30
+-1,Outlier,Positive (Low/Mid arousal),8
+0,"digital orders, new stores, digital volume, , , , , , , ",Negative (Low/Med arousal),13
+0,"digital orders, new stores, digital volume, , , , , , , ",Neutral,16
+1,"new brands, ultimate goal, specialized teams, specific categories, remote areas, new process, least today, key role, entire supply, higher level","Excited (Positive, High arousal)",8
+1,"new brands, ultimate goal, specialized teams, specific categories, remote areas, new process, least today, key role, entire supply, higher level",Negative (Low/Med arousal),2
+1,"new brands, ultimate goal, specialized teams, specific categories, remote areas, new process, least today, key role, entire supply, higher level",Neutral,12
+1,"new brands, ultimate goal, specialized teams, specific categories, remote areas, new process, least today, key role, entire supply, higher level",Positive (Low/Mid arousal),3

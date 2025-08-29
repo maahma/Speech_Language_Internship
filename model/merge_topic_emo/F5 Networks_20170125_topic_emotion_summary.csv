@@ -1,0 +1,8 @@
+topic_id,topic_keywords,emotion_label,count
+0,"public cloud, new products, micro services, double digit, good progress, excellent sales, additional products, strong growth, vast array, subsecond attack","Excited (Positive, High arousal)",25
+0,"public cloud, new products, micro services, double digit, good progress, excellent sales, additional products, strong growth, vast array, subsecond attack",Negative (Low/Med arousal),45
+0,"public cloud, new products, micro services, double digit, good progress, excellent sales, additional products, strong growth, vast array, subsecond attack",Neutral,62
+0,"public cloud, new products, micro services, double digit, good progress, excellent sales, additional products, strong growth, vast array, subsecond attack",Positive (Low/Mid arousal),9
+1,", , , , , , , , , ","Excited (Positive, High arousal)",4
+1,", , , , , , , , , ",Neutral,9
+1,", , , , , , , , , ",Positive (Low/Mid arousal),3

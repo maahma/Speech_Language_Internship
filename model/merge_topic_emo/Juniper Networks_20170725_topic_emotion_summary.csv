@@ -1,0 +1,9 @@
+topic_id,topic_keywords,emotion_label,count
+0,"wide area, new modes, gross margins, high end, good momentum, federal government, cloud customers, cloud providers, new mode, strong start","Excited (Positive, High arousal)",26
+0,"wide area, new modes, gross margins, high end, good momentum, federal government, cloud customers, cloud providers, new mode, strong start",Negative (Low/Med arousal),57
+0,"wide area, new modes, gross margins, high end, good momentum, federal government, cloud customers, cloud providers, new mode, strong start",Neutral,99
+0,"wide area, new modes, gross margins, high end, good momentum, federal government, cloud customers, cloud providers, new mode, strong start",Positive (Low/Mid arousal),28
+1,"good questions, , , , , , , , , ","Excited (Positive, High arousal)",7
+1,"good questions, , , , , , , , , ",Negative (Low/Med arousal),1
+1,"good questions, , , , , , , , , ",Neutral,7
+1,"good questions, , , , , , , , , ",Positive (Low/Mid arousal),1

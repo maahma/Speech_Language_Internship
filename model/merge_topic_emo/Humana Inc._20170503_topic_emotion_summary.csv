@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",7
+-1,Outlier,Negative (Low/Med arousal),8
+-1,Outlier,Neutral,9
+-1,Outlier,Positive (Low/Mid arousal),5
+0,"long term, tax margin, medical cost, low end, competitive landscape, adjusted earnings, tax range, tax target, small levels, solid results","Excited (Positive, High arousal)",6
+0,"long term, tax margin, medical cost, low end, competitive landscape, adjusted earnings, tax range, tax target, small levels, solid results",Negative (Low/Med arousal),18
+0,"long term, tax margin, medical cost, low end, competitive landscape, adjusted earnings, tax range, tax target, small levels, solid results",Neutral,46
+0,"long term, tax margin, medical cost, low end, competitive landscape, adjusted earnings, tax range, tax target, small levels, solid results",Positive (Low/Mid arousal),4
+1,"steep claims, overall growth, big number, admin ratio, , , , , , ","Excited (Positive, High arousal)",1
+1,"steep claims, overall growth, big number, admin ratio, , , , , , ",Negative (Low/Med arousal),2
+1,"steep claims, overall growth, big number, admin ratio, , , , , , ",Neutral,8

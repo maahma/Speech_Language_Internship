@@ -1,0 +1,144 @@
+filename,topic_id,topic_keywords
+001.txt,2,"consistent terms, , , , , , , , , "
+002.txt,2,"consistent terms, , , , , , , , , "
+003.txt,-1,Outlier
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+007.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+008.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+009.txt,-1,Outlier
+010.txt,-1,Outlier
+011.txt,-1,Outlier
+012.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+013.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+014.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+015.txt,-1,Outlier
+016.txt,-1,Outlier
+017.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+018.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+019.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+020.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+021.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+022.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+023.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+024.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+025.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+026.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+027.txt,-1,Outlier
+028.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+029.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+030.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+031.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+032.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+033.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+034.txt,-1,Outlier
+035.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+036.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+037.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+038.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+039.txt,-1,Outlier
+040.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+041.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+042.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+043.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+044.txt,-1,Outlier
+045.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+046.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+047.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+048.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+049.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+050.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+051.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+052.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+053.txt,-1,Outlier
+054.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+055.txt,-1,Outlier
+056.txt,-1,Outlier
+057.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+058.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+059.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+060.txt,-1,Outlier
+061.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+062.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+063.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+064.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+065.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+066.txt,2,"consistent terms, , , , , , , , , "
+067.txt,2,"consistent terms, , , , , , , , , "
+068.txt,2,"consistent terms, , , , , , , , , "
+069.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+070.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+071.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+072.txt,-1,Outlier
+073.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+074.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+075.txt,-1,Outlier
+076.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+077.txt,-1,Outlier
+078.txt,2,"consistent terms, , , , , , , , , "
+079.txt,2,"consistent terms, , , , , , , , , "
+080.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+081.txt,-1,Outlier
+082.txt,3,"unfavorable program, strong margin, favorable program, higher volume, earlier timing, back half, international awards, total company, , "
+083.txt,-1,Outlier
+084.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+085.txt,2,"consistent terms, , , , , , , , , "
+086.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+087.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+088.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+089.txt,-1,Outlier
+090.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+091.txt,-1,Outlier
+092.txt,1,"net sales, early warning, higher sales, total bookings, total book, key bookings, , , , "
+093.txt,2,"consistent terms, , , , , , , , , "
+094.txt,2,"consistent terms, , , , , , , , , "
+095.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+096.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+097.txt,2,"consistent terms, , , , , , , , , "
+098.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+099.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+100.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+101.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+102.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+103.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+104.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+105.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+106.txt,2,"consistent terms, , , , , , , , , "
+107.txt,2,"consistent terms, , , , , , , , , "
+108.txt,-1,Outlier
+109.txt,-1,Outlier
+110.txt,-1,Outlier
+111.txt,-1,Outlier
+112.txt,-1,Outlier
+113.txt,2,"consistent terms, , , , , , , , , "
+114.txt,2,"consistent terms, , , , , , , , , "
+115.txt,-1,Outlier
+116.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+117.txt,-1,Outlier
+118.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+119.txt,-1,Outlier
+120.txt,-1,Outlier
+121.txt,-1,Outlier
+122.txt,-1,Outlier
+123.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+124.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+125.txt,2,"consistent terms, , , , , , , , , "
+126.txt,2,"consistent terms, , , , , , , , , "
+127.txt,2,"consistent terms, , , , , , , , , "
+128.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+129.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+130.txt,2,"consistent terms, , , , , , , , , "
+131.txt,2,"consistent terms, , , , , , , , , "
+132.txt,2,"consistent terms, , , , , , , , , "
+133.txt,-1,Outlier
+134.txt,-1,Outlier
+135.txt,-1,Outlier
+136.txt,-1,Outlier
+137.txt,-1,Outlier
+138.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+139.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+140.txt,0,"free cash, early retirement, effective tax, common stock, prior guidance, whole provision, operating income, prior expectations, strong balance, strong cash"
+141.txt,-1,Outlier
+142.txt,-1,Outlier
+143.txt,-1,Outlier

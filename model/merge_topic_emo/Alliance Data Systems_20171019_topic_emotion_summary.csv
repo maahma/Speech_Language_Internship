@@ -1,0 +1,13 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),14
+-1,Outlier,Neutral,17
+-1,Outlier,Positive (Low/Mid arousal),4
+0,"gross loss, gross yield, lower loss, annual guidance, slight benefit, lower tax, negative impact, promising turnaround, effective tax, ","Excited (Positive, High arousal)",3
+0,"gross loss, gross yield, lower loss, annual guidance, slight benefit, lower tax, negative impact, promising turnaround, effective tax, ",Negative (Low/Med arousal),11
+0,"gross loss, gross yield, lower loss, annual guidance, slight benefit, lower tax, negative impact, promising turnaround, effective tax, ",Neutral,31
+0,"gross loss, gross yield, lower loss, annual guidance, slight benefit, lower tax, negative impact, promising turnaround, effective tax, ",Positive (Low/Mid arousal),3
+1,"cathartic process, biggest thing, , , , , , , , ","Excited (Positive, High arousal)",5
+1,"cathartic process, biggest thing, , , , , , , , ",Negative (Low/Med arousal),2
+1,"cathartic process, biggest thing, , , , , , , , ",Neutral,9
+1,"cathartic process, biggest thing, , , , , , , , ",Positive (Low/Mid arousal),2

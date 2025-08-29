@@ -1,0 +1,19 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",8
+-1,Outlier,Negative (Low/Med arousal),8
+-1,Outlier,Neutral,19
+-1,Outlier,Positive (Low/Mid arousal),17
+0,"organic growth, single digits, strong growth, prior estimate, double digits, geographic areas, solid growth, strong start, right side, notable strength",Negative (Low/Med arousal),10
+0,"organic growth, single digits, strong growth, prior estimate, double digits, geographic areas, solid growth, strong start, right side, notable strength",Neutral,30
+0,"organic growth, single digits, strong growth, prior estimate, double digits, geographic areas, solid growth, strong start, right side, notable strength",Positive (Low/Mid arousal),8
+1,"strategic investments, excess tax, total footprint, productive sites, significant items, noticeable part, initial guidance, better clarity, additional footprint, ","Excited (Positive, High arousal)",1
+1,"strategic investments, excess tax, total footprint, productive sites, significant items, noticeable part, initial guidance, better clarity, additional footprint, ",Negative (Low/Med arousal),13
+1,"strategic investments, excess tax, total footprint, productive sites, significant items, noticeable part, initial guidance, better clarity, additional footprint, ",Neutral,17
+1,"strategic investments, excess tax, total footprint, productive sites, significant items, noticeable part, initial guidance, better clarity, additional footprint, ",Positive (Low/Mid arousal),9
+2,"strategic investments, tax earnings, strategic businesses, operational performance, diluted shares, higher pension, net impact, organic growth, , ",Negative (Low/Med arousal),8
+2,"strategic investments, tax earnings, strategic businesses, operational performance, diluted shares, higher pension, net impact, organic growth, , ",Neutral,15
+2,"strategic investments, tax earnings, strategic businesses, operational performance, diluted shares, higher pension, net impact, organic growth, , ",Positive (Low/Mid arousal),4
+3,"material basis, exact timing, consistent strength, , , , , , , ","Excited (Positive, High arousal)",2
+3,"material basis, exact timing, consistent strength, , , , , , , ",Negative (Low/Med arousal),3
+3,"material basis, exact timing, consistent strength, , , , , , , ",Neutral,5
+3,"material basis, exact timing, consistent strength, , , , , , , ",Positive (Low/Mid arousal),2

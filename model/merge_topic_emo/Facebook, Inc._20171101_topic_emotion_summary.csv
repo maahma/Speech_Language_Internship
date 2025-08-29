@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",4
+-1,Outlier,Negative (Low/Med arousal),9
+-1,Outlier,Neutral,22
+-1,Outlier,Positive (Low/Mid arousal),3
+0,"long term, technical achievement, renewable energy, new threats, new data, scientific advances, national security, major tech, major data, important parts","Excited (Positive, High arousal)",13
+0,"long term, technical achievement, renewable energy, new threats, new data, scientific advances, national security, major tech, major data, important parts",Negative (Low/Med arousal),8
+0,"long term, technical achievement, renewable energy, new threats, new data, scientific advances, national security, major tech, major data, important parts",Neutral,31
+0,"long term, technical achievement, renewable energy, new threats, new data, scientific advances, national security, major tech, major data, important parts",Positive (Low/Mid arousal),5
+1,"social interaction, daily actives, specific type, specific community, social content, social capital, whole industries, similar interests, public consumption, greater sense","Excited (Positive, High arousal)",3
+1,"social interaction, daily actives, specific type, specific community, social content, social capital, whole industries, similar interests, public consumption, greater sense",Negative (Low/Med arousal),15
+1,"social interaction, daily actives, specific type, specific community, social content, social capital, whole industries, similar interests, public consumption, greater sense",Neutral,26
+1,"social interaction, daily actives, specific type, specific community, social content, social capital, whole industries, similar interests, public consumption, greater sense",Positive (Low/Mid arousal),4
+2,"bad actors, terrorist propaganda, serious issue, bad behavior, bad content, , , , , ","Excited (Positive, High arousal)",2
+2,"bad actors, terrorist propaganda, serious issue, bad behavior, bad content, , , , , ",Negative (Low/Med arousal),3
+2,"bad actors, terrorist propaganda, serious issue, bad behavior, bad content, , , , , ",Neutral,8

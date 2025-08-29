@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,Negative (Low/Med arousal),4
+-1,Outlier,Neutral,4
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"general assembly, electric transmission, new data, electric sales, various stages, public interest, strong operating, regulatory approval, solar projects, military installations","Excited (Positive, High arousal)",4
+0,"general assembly, electric transmission, new data, electric sales, various stages, public interest, strong operating, regulatory approval, solar projects, military installations",Negative (Low/Med arousal),22
+0,"general assembly, electric transmission, new data, electric sales, various stages, public interest, strong operating, regulatory approval, solar projects, military installations",Neutral,50
+0,"general assembly, electric transmission, new data, electric sales, various stages, public interest, strong operating, regulatory approval, solar projects, military installations",Positive (Low/Mid arousal),10
+1,"public comment, important outcome, close contact, close attention, , , , , , ","Excited (Positive, High arousal)",7
+1,"public comment, important outcome, close contact, close attention, , , , , , ",Negative (Low/Med arousal),3
+1,"public comment, important outcome, close contact, close attention, , , , , , ",Neutral,12
+1,"public comment, important outcome, close contact, close attention, , , , , , ",Positive (Low/Mid arousal),3

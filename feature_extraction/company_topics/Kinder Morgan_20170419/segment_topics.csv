@@ -1,0 +1,211 @@
+filename,topic_id,topic_keywords
+001.txt,0,"latter part, critical issue, , , , , , , , "
+002.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+003.txt,0,"latter part, critical issue, , , , , , , , "
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,0,"latter part, critical issue, , , , , , , , "
+007.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+008.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+009.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+010.txt,-1,Outlier
+011.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+012.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+013.txt,-1,Outlier
+014.txt,-1,Outlier
+015.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+016.txt,-1,Outlier
+017.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+018.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+019.txt,-1,Outlier
+020.txt,-1,Outlier
+021.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+022.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+023.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+024.txt,0,"latter part, critical issue, , , , , , , , "
+025.txt,-1,Outlier
+026.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+027.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+028.txt,0,"latter part, critical issue, , , , , , , , "
+029.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+030.txt,0,"latter part, critical issue, , , , , , , , "
+031.txt,-1,Outlier
+032.txt,-1,Outlier
+033.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+034.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+035.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+036.txt,0,"latter part, critical issue, , , , , , , , "
+037.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+038.txt,0,"latter part, critical issue, , , , , , , , "
+039.txt,-1,Outlier
+040.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+041.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+042.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+043.txt,-1,Outlier
+044.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+045.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+046.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+047.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+048.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+049.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+050.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+051.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+052.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+053.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+054.txt,-1,Outlier
+055.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+056.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+057.txt,-1,Outlier
+058.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+059.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+060.txt,0,"latter part, critical issue, , , , , , , , "
+061.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+062.txt,-1,Outlier
+063.txt,-1,Outlier
+064.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+065.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+066.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+067.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+068.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+069.txt,-1,Outlier
+070.txt,-1,Outlier
+071.txt,-1,Outlier
+072.txt,-1,Outlier
+073.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+074.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+075.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+076.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+077.txt,-1,Outlier
+078.txt,-1,Outlier
+079.txt,-1,Outlier
+080.txt,0,"latter part, critical issue, , , , , , , , "
+081.txt,0,"latter part, critical issue, , , , , , , , "
+082.txt,0,"latter part, critical issue, , , , , , , , "
+083.txt,-1,Outlier
+084.txt,-1,Outlier
+085.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+086.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+087.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+088.txt,0,"latter part, critical issue, , , , , , , , "
+089.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+090.txt,0,"latter part, critical issue, , , , , , , , "
+091.txt,-1,Outlier
+092.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+093.txt,0,"latter part, critical issue, , , , , , , , "
+094.txt,-1,Outlier
+095.txt,-1,Outlier
+096.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+097.txt,0,"latter part, critical issue, , , , , , , , "
+098.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+099.txt,0,"latter part, critical issue, , , , , , , , "
+100.txt,-1,Outlier
+101.txt,-1,Outlier
+102.txt,0,"latter part, critical issue, , , , , , , , "
+103.txt,0,"latter part, critical issue, , , , , , , , "
+104.txt,-1,Outlier
+105.txt,0,"latter part, critical issue, , , , , , , , "
+106.txt,0,"latter part, critical issue, , , , , , , , "
+107.txt,-1,Outlier
+108.txt,-1,Outlier
+109.txt,-1,Outlier
+110.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+111.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+112.txt,-1,Outlier
+113.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+114.txt,-1,Outlier
+115.txt,-1,Outlier
+116.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+117.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+118.txt,-1,Outlier
+119.txt,-1,Outlier
+120.txt,-1,Outlier
+121.txt,-1,Outlier
+122.txt,-1,Outlier
+123.txt,0,"latter part, critical issue, , , , , , , , "
+124.txt,-1,Outlier
+125.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+126.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+127.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+128.txt,-1,Outlier
+129.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+130.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+131.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+132.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+133.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+134.txt,-1,Outlier
+135.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+136.txt,-1,Outlier
+137.txt,0,"latter part, critical issue, , , , , , , , "
+138.txt,0,"latter part, critical issue, , , , , , , , "
+139.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+140.txt,0,"latter part, critical issue, , , , , , , , "
+141.txt,-1,Outlier
+142.txt,-1,Outlier
+143.txt,-1,Outlier
+144.txt,0,"latter part, critical issue, , , , , , , , "
+145.txt,0,"latter part, critical issue, , , , , , , , "
+146.txt,-1,Outlier
+147.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+148.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+149.txt,-1,Outlier
+150.txt,0,"latter part, critical issue, , , , , , , , "
+151.txt,-1,Outlier
+152.txt,0,"latter part, critical issue, , , , , , , , "
+153.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+154.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+155.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+156.txt,-1,Outlier
+157.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+158.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+159.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+160.txt,0,"latter part, critical issue, , , , , , , , "
+161.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+162.txt,0,"latter part, critical issue, , , , , , , , "
+163.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+164.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+165.txt,0,"latter part, critical issue, , , , , , , , "
+166.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+167.txt,0,"latter part, critical issue, , , , , , , , "
+168.txt,-1,Outlier
+169.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+170.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+171.txt,-1,Outlier
+172.txt,-1,Outlier
+173.txt,-1,Outlier
+174.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+175.txt,-1,Outlier
+176.txt,0,"latter part, critical issue, , , , , , , , "
+177.txt,0,"latter part, critical issue, , , , , , , , "
+178.txt,-1,Outlier
+179.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+180.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+181.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+182.txt,-1,Outlier
+183.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+184.txt,0,"latter part, critical issue, , , , , , , , "
+185.txt,0,"latter part, critical issue, , , , , , , , "
+186.txt,0,"latter part, critical issue, , , , , , , , "
+187.txt,0,"latter part, critical issue, , , , , , , , "
+188.txt,0,"latter part, critical issue, , , , , , , , "
+189.txt,-1,Outlier
+190.txt,-1,Outlier
+191.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+192.txt,0,"latter part, critical issue, , , , , , , , "
+193.txt,0,"latter part, critical issue, , , , , , , , "
+194.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+195.txt,0,"latter part, critical issue, , , , , , , , "
+196.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+197.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+198.txt,3,"refined products, long term, overall summary, industrial demand, commercial market, open season, , , , "
+199.txt,-1,Outlier
+200.txt,0,"latter part, critical issue, , , , , , , , "
+201.txt,-1,Outlier
+202.txt,2,"downstream connectivity, open season, upstream connectivity, small project, moving parts, significant investment, main development, liquids terminal, intrastate network, intrastate system"
+203.txt,-1,Outlier
+204.txt,-1,Outlier
+205.txt,-1,Outlier
+206.txt,1,"long term, provincial level, environmental approval, vast majority, provincial approval, strong support, firm transportation, promote payment, federal governments, detailed plans"
+207.txt,0,"latter part, critical issue, , , , , , , , "
+208.txt,0,"latter part, critical issue, , , , , , , , "
+209.txt,-1,Outlier
+210.txt,0,"latter part, critical issue, , , , , , , , "

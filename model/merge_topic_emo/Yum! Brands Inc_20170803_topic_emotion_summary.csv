@@ -1,0 +1,16 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),2
+-1,Outlier,Neutral,4
+-1,Outlier,Positive (Low/Mid arousal),1
+0,"key growth, new units, small box, relevant brands, new unit, national advertising, unrivaled culture, digital delivery, international markets, several items","Excited (Positive, High arousal)",17
+0,"key growth, new units, small box, relevant brands, new unit, national advertising, unrivaled culture, digital delivery, international markets, several items",Negative (Low/Med arousal),22
+0,"key growth, new units, small box, relevant brands, new unit, national advertising, unrivaled culture, digital delivery, international markets, several items",Neutral,50
+0,"key growth, new units, small box, relevant brands, new unit, national advertising, unrivaled culture, digital delivery, international markets, several items",Positive (Low/Mid arousal),14
+1,"better pizza, successful rollout, unmatched franchise, online guests, national pizza, key countries, repeatable model, hot pizza, easy components, centric alignment",Negative (Low/Med arousal),5
+1,"better pizza, successful rollout, unmatched franchise, online guests, national pizza, key countries, repeatable model, hot pizza, easy components, centric alignment",Neutral,19
+1,"better pizza, successful rollout, unmatched franchise, online guests, national pizza, key countries, repeatable model, hot pizza, easy components, centric alignment",Positive (Low/Mid arousal),2
+2,"international units, good taste, , , , , , , , ","Excited (Positive, High arousal)",3
+2,"international units, good taste, , , , , , , , ",Negative (Low/Med arousal),3
+2,"international units, good taste, , , , , , , , ",Neutral,11
+2,"international units, good taste, , , , , , , , ",Positive (Low/Mid arousal),1

@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",10
+-1,Outlier,Negative (Low/Med arousal),9
+-1,Outlier,Neutral,22
+0,"responsive capabilities, brand portfolio, significant market, retail distribution, significant opportunity, structural advantage, rewarding size, lean cost, direct distribution, super bottoms","Excited (Positive, High arousal)",61
+0,"responsive capabilities, brand portfolio, significant market, retail distribution, significant opportunity, structural advantage, rewarding size, lean cost, direct distribution, super bottoms",Negative (Low/Med arousal),59
+0,"responsive capabilities, brand portfolio, significant market, retail distribution, significant opportunity, structural advantage, rewarding size, lean cost, direct distribution, super bottoms",Neutral,112
+0,"responsive capabilities, brand portfolio, significant market, retail distribution, significant opportunity, structural advantage, rewarding size, lean cost, direct distribution, super bottoms",Positive (Low/Mid arousal),7
+1,"big business, responsive capabilities, relevant categories, strong bottoms, important thing, , , , , ","Excited (Positive, High arousal)",5
+1,"big business, responsive capabilities, relevant categories, strong bottoms, important thing, , , , , ",Negative (Low/Med arousal),6
+1,"big business, responsive capabilities, relevant categories, strong bottoms, important thing, , , , , ",Neutral,10
+2,"positive way, annual sales, additional stores, , , , , , , ","Excited (Positive, High arousal)",2
+2,"positive way, annual sales, additional stores, , , , , , , ",Negative (Low/Med arousal),4
+2,"positive way, annual sales, additional stores, , , , , , , ",Neutral,8
+3,"overall apparel, key driver, big way, big win, big unlock, responsive platform, , , , ","Excited (Positive, High arousal)",2
+3,"overall apparel, key driver, big way, big win, big unlock, responsive platform, , , , ",Negative (Low/Med arousal),4
+3,"overall apparel, key driver, big way, big win, big unlock, responsive platform, , , , ",Neutral,6

@@ -1,0 +1,100 @@
+filename,topic_id,topic_keywords
+001.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+002.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+003.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+004.txt,-1,Outlier
+005.txt,-1,Outlier
+006.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+007.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+008.txt,-1,Outlier
+009.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+010.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+011.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+012.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+013.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+014.txt,-1,Outlier
+015.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+016.txt,-1,Outlier
+017.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+018.txt,-1,Outlier
+019.txt,-1,Outlier
+020.txt,-1,Outlier
+021.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+022.txt,-1,Outlier
+023.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+024.txt,-1,Outlier
+025.txt,-1,Outlier
+026.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+027.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+028.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+029.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+030.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+031.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+032.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+033.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+034.txt,-1,Outlier
+035.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+036.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+037.txt,-1,Outlier
+038.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+039.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+040.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+041.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+042.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+043.txt,-1,Outlier
+044.txt,-1,Outlier
+045.txt,-1,Outlier
+046.txt,-1,Outlier
+047.txt,-1,Outlier
+048.txt,-1,Outlier
+049.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+050.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+051.txt,-1,Outlier
+052.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+053.txt,-1,Outlier
+054.txt,-1,Outlier
+055.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+056.txt,-1,Outlier
+057.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+058.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+059.txt,-1,Outlier
+060.txt,-1,Outlier
+061.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+062.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+063.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+064.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+065.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+066.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+067.txt,-1,Outlier
+068.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+069.txt,-1,Outlier
+070.txt,-1,Outlier
+071.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+072.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+073.txt,-1,Outlier
+074.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+075.txt,-1,Outlier
+076.txt,-1,Outlier
+077.txt,-1,Outlier
+078.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+079.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+080.txt,-1,Outlier
+081.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+082.txt,-1,Outlier
+083.txt,-1,Outlier
+084.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+085.txt,-1,Outlier
+086.txt,-1,Outlier
+087.txt,-1,Outlier
+088.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+089.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+090.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+091.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+092.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+093.txt,-1,Outlier
+094.txt,0,"primary endpoint, improved progression, regulatory submissions, free survival, complete response, significant improvement, superior efficacy, systemic therapy, severe plaque, next steps"
+095.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+096.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+097.txt,1,"top line, new products, worldwide revenue, strategic objective, total operating, pharmaceutical business, international inventory, interesting combinations, gross margin, great fit"
+098.txt,2,"key events, financial performance, detailed review, current expectations, strategic objectives, , , , , "
+099.txt,-1,Outlier

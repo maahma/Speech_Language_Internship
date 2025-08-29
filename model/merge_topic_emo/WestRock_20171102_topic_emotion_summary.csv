@@ -1,0 +1,9 @@
+topic_id,topic_keywords,emotion_label,count
+0,"corrugated packaging, long term, substantial progress, adjusted earnings, free cash, square feet, specific end, joint venture, overall integrations, older box","Excited (Positive, High arousal)",14
+0,"corrugated packaging, long term, substantial progress, adjusted earnings, free cash, square feet, specific end, joint venture, overall integrations, older box",Negative (Low/Med arousal),23
+0,"corrugated packaging, long term, substantial progress, adjusted earnings, free cash, square feet, specific end, joint venture, overall integrations, older box",Neutral,44
+0,"corrugated packaging, long term, substantial progress, adjusted earnings, free cash, square feet, specific end, joint venture, overall integrations, older box",Positive (Low/Mid arousal),6
+1,", , , , , , , , , ","Excited (Positive, High arousal)",2
+1,", , , , , , , , , ",Negative (Low/Med arousal),1
+1,", , , , , , , , , ",Neutral,4
+1,", , , , , , , , , ",Positive (Low/Mid arousal),1

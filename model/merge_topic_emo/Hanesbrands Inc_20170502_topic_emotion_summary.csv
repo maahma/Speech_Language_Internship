@@ -1,0 +1,17 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",2
+-1,Outlier,Negative (Low/Med arousal),10
+-1,Outlier,Neutral,17
+-1,Outlier,Positive (Low/Mid arousal),6
+0,"gross margin, strong start, overall results, gross profit, flat relative, bottom line, , , , ","Excited (Positive, High arousal)",8
+0,"gross margin, strong start, overall results, gross profit, flat relative, bottom line, , , , ",Negative (Low/Med arousal),4
+0,"gross margin, strong start, overall results, gross profit, flat relative, bottom line, , , , ",Neutral,20
+0,"gross margin, strong start, overall results, gross profit, flat relative, bottom line, , , , ",Positive (Low/Mid arousal),2
+1,"organic sales, organic growth, global footprint, mass retailer, receivable management, strong competency, modest contribution, largest business, largest vendors, sequential improvement","Excited (Positive, High arousal)",3
+1,"organic sales, organic growth, global footprint, mass retailer, receivable management, strong competency, modest contribution, largest business, largest vendors, sequential improvement",Negative (Low/Med arousal),6
+1,"organic sales, organic growth, global footprint, mass retailer, receivable management, strong competency, modest contribution, largest business, largest vendors, sequential improvement",Neutral,12
+1,"organic sales, organic growth, global footprint, mass retailer, receivable management, strong competency, modest contribution, largest business, largest vendors, sequential improvement",Positive (Low/Mid arousal),3
+2,"prior acquisitions, next phase, net savings, net cost, incremental cash, gross cost, full revenue, annual basis, current plan, adjusted results","Excited (Positive, High arousal)",1
+2,"prior acquisitions, next phase, net savings, net cost, incremental cash, gross cost, full revenue, annual basis, current plan, adjusted results",Negative (Low/Med arousal),5
+2,"prior acquisitions, next phase, net savings, net cost, incremental cash, gross cost, full revenue, annual basis, current plan, adjusted results",Neutral,9
+2,"prior acquisitions, next phase, net savings, net cost, incremental cash, gross cost, full revenue, annual basis, current plan, adjusted results",Positive (Low/Mid arousal),1

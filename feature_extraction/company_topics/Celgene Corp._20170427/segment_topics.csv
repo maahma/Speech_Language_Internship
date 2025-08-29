@@ -1,0 +1,121 @@
+filename,topic_id,topic_keywords
+001.txt,-1,Outlier
+002.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+003.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+004.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+005.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+006.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+007.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+008.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+009.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+010.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+011.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+012.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+013.txt,-1,Outlier
+014.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+015.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+016.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+017.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+018.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+019.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+020.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+021.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+022.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+023.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+024.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+025.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+026.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+027.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+028.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+029.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+030.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+031.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+032.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+033.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+034.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+035.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+036.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+037.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+038.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+039.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+040.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+041.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+042.txt,-1,Outlier
+043.txt,-1,Outlier
+044.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+045.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+046.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+047.txt,-1,Outlier
+048.txt,-1,Outlier
+049.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+050.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+051.txt,-1,Outlier
+052.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+053.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+054.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+055.txt,-1,Outlier
+056.txt,-1,Outlier
+057.txt,-1,Outlier
+058.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+059.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+060.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+061.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+062.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+063.txt,-1,Outlier
+064.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+065.txt,-1,Outlier
+066.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+067.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+068.txt,-1,Outlier
+069.txt,-1,Outlier
+070.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+071.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+072.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+073.txt,-1,Outlier
+074.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+075.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+076.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+077.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+078.txt,-1,Outlier
+079.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+080.txt,-1,Outlier
+081.txt,-1,Outlier
+082.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+083.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+084.txt,-1,Outlier
+085.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+086.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+087.txt,1,"net sales, sequential growth, strong sales, , , , , , , "
+088.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+089.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+090.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+091.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+092.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+093.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+094.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+095.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+096.txt,-1,Outlier
+097.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+098.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+099.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+100.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+101.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+102.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+103.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+104.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+105.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+106.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+107.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+108.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+109.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+110.txt,-1,Outlier
+111.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+112.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+113.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+114.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+115.txt,-1,Outlier
+116.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+117.txt,-1,Outlier
+118.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+119.txt,0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones"
+120.txt,-1,Outlier

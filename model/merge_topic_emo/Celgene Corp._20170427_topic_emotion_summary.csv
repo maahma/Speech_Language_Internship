@@ -1,0 +1,12 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,"Excited (Positive, High arousal)",7
+-1,Outlier,Negative (Low/Med arousal),5
+-1,Outlier,Neutral,7
+-1,Outlier,Positive (Low/Mid arousal),5
+0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones","Excited (Positive, High arousal)",2
+0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones",Negative (Low/Med arousal),16
+0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones",Neutral,39
+0,"late line, low risk, multiple myeloma, autologous stem, later line, refractory myeloma, patient population, regulatory approval, relevant dose, clinical milestones",Positive (Low/Mid arousal),12
+1,"net sales, sequential growth, strong sales, , , , , , , ","Excited (Positive, High arousal)",2
+1,"net sales, sequential growth, strong sales, , , , , , , ",Negative (Low/Med arousal),5
+1,"net sales, sequential growth, strong sales, , , , , , , ",Neutral,20

@@ -1,0 +1,10 @@
+topic_id,topic_keywords,emotion_label,count
+-1,Outlier,Neutral,4
+0,"operational excellence, average realizations, incremental capacity, saw logs, average log, strong results, current prices, strong demand, wet weather, small amounts","Excited (Positive, High arousal)",46
+0,"operational excellence, average realizations, incremental capacity, saw logs, average log, strong results, current prices, strong demand, wet weather, small amounts",Negative (Low/Med arousal),41
+0,"operational excellence, average realizations, incremental capacity, saw logs, average log, strong results, current prices, strong demand, wet weather, small amounts","Nervous (Negative, High arousal)",13
+0,"operational excellence, average realizations, incremental capacity, saw logs, average log, strong results, current prices, strong demand, wet weather, small amounts",Neutral,118
+1,"good question, final question, , , , , , , , ","Excited (Positive, High arousal)",12
+1,"good question, final question, , , , , , , , ",Negative (Low/Med arousal),2
+1,"good question, final question, , , , , , , , ","Nervous (Negative, High arousal)",3
+1,"good question, final question, , , , , , , , ",Neutral,10
