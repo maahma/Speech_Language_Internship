@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"single digits, organic sales, organic growth, new product, overall sales, free cash, core margins, new products, diluted earnings, strong order","Excited (Positive, High arousal)",31
-0,"single digits, organic sales, organic growth, new product, overall sales, free cash, core margins, new products, diluted earnings, strong order",Negative (Low/Med arousal),58
-0,"single digits, organic sales, organic growth, new product, overall sales, free cash, core margins, new products, diluted earnings, strong order",Neutral,122
-0,"single digits, organic sales, organic growth, new product, overall sales, free cash, core margins, new products, diluted earnings, strong order",Positive (Low/Mid arousal),14
-1,"great question, , , , , , , , , ","Excited (Positive, High arousal)",15
-1,"great question, , , , , , , , , ",Negative (Low/Med arousal),1
-1,"great question, , , , , , , , , ",Neutral,8
-1,"great question, , , , , , , , , ",Positive (Low/Mid arousal),3

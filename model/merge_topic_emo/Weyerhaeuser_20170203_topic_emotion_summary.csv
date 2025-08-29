@@ -1,8 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"operational excellence, real estate, bottom line, lower sales, single family, average realizations, diluted share, discontinued operations, overall cost, operational synergies","Excited (Positive, High arousal)",21
-0,"operational excellence, real estate, bottom line, lower sales, single family, average realizations, diluted share, discontinued operations, overall cost, operational synergies",Negative (Low/Med arousal),63
-0,"operational excellence, real estate, bottom line, lower sales, single family, average realizations, diluted share, discontinued operations, overall cost, operational synergies",Neutral,119
-0,"operational excellence, real estate, bottom line, lower sales, single family, average realizations, diluted share, discontinued operations, overall cost, operational synergies",Positive (Low/Mid arousal),26
-1,", , , , , , , , , ","Excited (Positive, High arousal)",10
-1,", , , , , , , , , ",Neutral,1
-1,", , , , , , , , , ",Positive (Low/Mid arousal),1

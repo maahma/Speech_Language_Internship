@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"long term, high 30s, diluted share, new product, high end, effective tax, foreign exchange, interim model, foreseeable future, net income","Excited (Positive, High arousal)",17
-0,"long term, high 30s, diluted share, new product, high end, effective tax, foreign exchange, interim model, foreseeable future, net income",Negative (Low/Med arousal),57
-0,"long term, high 30s, diluted share, new product, high end, effective tax, foreign exchange, interim model, foreseeable future, net income",Neutral,104
-0,"long term, high 30s, diluted share, new product, high end, effective tax, foreign exchange, interim model, foreseeable future, net income",Positive (Low/Mid arousal),25
-1,", , , , , , , , , ","Excited (Positive, High arousal)",8
-1,", , , , , , , , , ",Negative (Low/Med arousal),1
-1,", , , , , , , , , ",Neutral,3
-1,", , , , , , , , , ",Positive (Low/Mid arousal),2

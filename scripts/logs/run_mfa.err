@@ -1,9 +1,0 @@
-[2025-07-23 10:29:48,429] INFO: Running MFA for Facebook, Inc._20171101
-[2025-07-23 10:30:10,289] INFO: MFA failed for Facebook, Inc._20171101: Command '['/users/ac4ma/.conda/envs/aligner/bin/mfa', 'align', '../All_Recordings/Facebook, Inc._20171101/corpus_dir', '/users/ac4ma/Documents/MFA/pretrained_models/dictionary/english_us_arpa.dict', '/users/ac4ma/Documents/MFA/pretrained_models/acoustic/english_us_arpa.zip', '../aligned_audio_txt/Facebook, Inc._20171101', '--clean', '--overwrite']' died with <Signals.SIGKILL: 9>.
-[2025-07-23 10:30:10,291] INFO: Running MFA for FLIR Systems_20171025
-[2025-07-23 10:30:36,914] INFO: MFA failed for FLIR Systems_20171025: Command '['/users/ac4ma/.conda/envs/aligner/bin/mfa', 'align', '../All_Recordings/FLIR Systems_20171025/corpus_dir', '/users/ac4ma/Documents/MFA/pretrained_models/dictionary/english_us_arpa.dict', '/users/ac4ma/Documents/MFA/pretrained_models/acoustic/english_us_arpa.zip', '../aligned_audio_txt/FLIR Systems_20171025', '--clean', '--overwrite']' died with <Signals.SIGKILL: 9>.
-[2025-07-23 10:30:36,916] INFO: Running MFA for Humana Inc._20170503
-[2025-07-23 10:30:59,881] INFO: MFA failed for Humana Inc._20170503: Command '['/users/ac4ma/.conda/envs/aligner/bin/mfa', 'align', '../All_Recordings/Humana Inc._20170503/corpus_dir', '/users/ac4ma/Documents/MFA/pretrained_models/dictionary/english_us_arpa.dict', '/users/ac4ma/Documents/MFA/pretrained_models/acoustic/english_us_arpa.zip', '../aligned_audio_txt/Humana Inc._20170503', '--clean', '--overwrite']' died with <Signals.SIGKILL: 9>.
-[2025-07-23 10:30:59,908] INFO: Running MFA for Rockwell Automation Inc._20170426
-slurmstepd: error: *** JOB 7183024 ON node139 CANCELLED AT 2025-07-23T10:31:11 ***
-slurmstepd: error: Detected 3 oom_kill events in StepId=7183024.batch. Some of the step tasks have been OOM Killed.

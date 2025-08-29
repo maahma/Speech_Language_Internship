@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
--1,Outlier,Negative (Low/Med arousal),2
--1,Outlier,Neutral,7
-0,"net income, right side, left side, thermal cameras, taxable income, strong topline, personal surveillance, portable products, next generation, negative impact","Excited (Positive, High arousal)",12
-0,"net income, right side, left side, thermal cameras, taxable income, strong topline, personal surveillance, portable products, next generation, negative impact",Negative (Low/Med arousal),13
-0,"net income, right side, left side, thermal cameras, taxable income, strong topline, personal surveillance, portable products, next generation, negative impact",Neutral,20
-1,"big orders, right deal, difficult comp, different ways, acquisitive company, , , , , ","Excited (Positive, High arousal)",6
-1,"big orders, right deal, difficult comp, different ways, acquisitive company, , , , , ",Negative (Low/Med arousal),2
-1,"big orders, right deal, difficult comp, different ways, acquisitive company, , , , , ",Neutral,5

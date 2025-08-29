@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"top line, lower inventory, proprietary brands, online sales, private brands, national brand, square footage, exclusive brands, digital sales, online demand","Excited (Positive, High arousal)",39
-0,"top line, lower inventory, proprietary brands, online sales, private brands, national brand, square footage, exclusive brands, digital sales, online demand",Negative (Low/Med arousal),45
-0,"top line, lower inventory, proprietary brands, online sales, private brands, national brand, square footage, exclusive brands, digital sales, online demand",Neutral,93
-0,"top line, lower inventory, proprietary brands, online sales, private brands, national brand, square footage, exclusive brands, digital sales, online demand",Positive (Low/Mid arousal),1
-1,"good stewards, digital technology, online demand, , , , , , , ","Excited (Positive, High arousal)",7
-1,"good stewards, digital technology, online demand, , , , , , , ",Negative (Low/Med arousal),6
-1,"good stewards, digital technology, online demand, , , , , , , ",Neutral,6
-1,"good stewards, digital technology, online demand, , , , , , , ",Positive (Low/Mid arousal),1

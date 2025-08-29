@@ -1,5 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
--1,Outlier,"Excited (Positive, High arousal)",3
--1,Outlier,Negative (Low/Med arousal),14
--1,Outlier,Neutral,25
--1,Outlier,Positive (Low/Mid arousal),7

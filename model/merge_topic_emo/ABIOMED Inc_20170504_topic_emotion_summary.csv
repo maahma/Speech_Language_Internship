@@ -1,8 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"cardiogenic shock, cath lab, right side, hemodynamic support, complete revascularization, coronary artery, best outcomes, acute kidney, patient ejection, emergent patients","Excited (Positive, High arousal)",35
-0,"cardiogenic shock, cath lab, right side, hemodynamic support, complete revascularization, coronary artery, best outcomes, acute kidney, patient ejection, emergent patients",Negative (Low/Med arousal),51
-0,"cardiogenic shock, cath lab, right side, hemodynamic support, complete revascularization, coronary artery, best outcomes, acute kidney, patient ejection, emergent patients",Neutral,107
-0,"cardiogenic shock, cath lab, right side, hemodynamic support, complete revascularization, coronary artery, best outcomes, acute kidney, patient ejection, emergent patients",Positive (Low/Mid arousal),9
-1,"great day, , , , , , , , , ","Excited (Positive, High arousal)",6
-1,"great day, , , , , , , , , ",Negative (Low/Med arousal),1
-1,"great day, , , , , , , , , ",Neutral,8

@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"gross profit, gross bookings, top line, long term, net income, consolidated group, beneficial impact, negative impact, top end, advertising operating","Excited (Positive, High arousal)",15
-0,"gross profit, gross bookings, top line, long term, net income, consolidated group, beneficial impact, negative impact, top end, advertising operating",Negative (Low/Med arousal),32
-0,"gross profit, gross bookings, top line, long term, net income, consolidated group, beneficial impact, negative impact, top end, advertising operating",Neutral,70
-0,"gross profit, gross bookings, top line, long term, net income, consolidated group, beneficial impact, negative impact, top end, advertising operating",Positive (Low/Mid arousal),13
-1,", , , , , , , , , ","Excited (Positive, High arousal)",8
-1,", , , , , , , , , ",Negative (Low/Med arousal),1
-1,", , , , , , , , , ",Neutral,1
-1,", , , , , , , , , ",Positive (Low/Mid arousal),1

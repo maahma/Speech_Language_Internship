@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"top line, organic sales, additional savings, cumulative savings, key retailers, foreign exchange, favorable pricing, strong market, unfavorable input, unfavorable product","Excited (Positive, High arousal)",5
-0,"top line, organic sales, additional savings, cumulative savings, key retailers, foreign exchange, favorable pricing, strong market, unfavorable input, unfavorable product",Negative (Low/Med arousal),23
-0,"top line, organic sales, additional savings, cumulative savings, key retailers, foreign exchange, favorable pricing, strong market, unfavorable input, unfavorable product",Neutral,32
-0,"top line, organic sales, additional savings, cumulative savings, key retailers, foreign exchange, favorable pricing, strong market, unfavorable input, unfavorable product",Positive (Low/Mid arousal),15
-1,", , , , , , , , , ","Excited (Positive, High arousal)",5
-1,", , , , , , , , , ",Negative (Low/Med arousal),1
-1,", , , , , , , , , ",Neutral,9
-1,", , , , , , , , , ",Positive (Low/Mid arousal),1

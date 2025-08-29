@@ -1,9 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"total revenue, high end, total backlog, average billings, quarterly cash, cancellable subscriptions, effective tax, total change, intangible assets, largest driver","Excited (Positive, High arousal)",8
-0,"total revenue, high end, total backlog, average billings, quarterly cash, cancellable subscriptions, effective tax, total change, intangible assets, largest driver",Negative (Low/Med arousal),18
-0,"total revenue, high end, total backlog, average billings, quarterly cash, cancellable subscriptions, effective tax, total change, intangible assets, largest driver",Neutral,52
-0,"total revenue, high end, total backlog, average billings, quarterly cash, cancellable subscriptions, effective tax, total change, intangible assets, largest driver",Positive (Low/Mid arousal),12
-1,"hybrid cloud, digital transformation, cloud access, standalone automation, open stack, modern infrastructure, open source, broader solutions, big top, actual number","Excited (Positive, High arousal)",2
-1,"hybrid cloud, digital transformation, cloud access, standalone automation, open stack, modern infrastructure, open source, broader solutions, big top, actual number",Negative (Low/Med arousal),5
-1,"hybrid cloud, digital transformation, cloud access, standalone automation, open stack, modern infrastructure, open source, broader solutions, big top, actual number",Neutral,8
-1,"hybrid cloud, digital transformation, cloud access, standalone automation, open stack, modern infrastructure, open source, broader solutions, big top, actual number",Positive (Low/Mid arousal),2

@@ -1,8 +1,0 @@
-topic_id,topic_keywords,emotion_label,count
-0,"gross margin, ongoing earnings, financial results, financial outlook, renewable resources, next rate, net effect, regulatory commission, normal number, several factors","Excited (Positive, High arousal)",8
-0,"gross margin, ongoing earnings, financial results, financial outlook, renewable resources, next rate, net effect, regulatory commission, normal number, several factors",Negative (Low/Med arousal),18
-0,"gross margin, ongoing earnings, financial results, financial outlook, renewable resources, next rate, net effect, regulatory commission, normal number, several factors",Neutral,33
-0,"gross margin, ongoing earnings, financial results, financial outlook, renewable resources, next rate, net effect, regulatory commission, normal number, several factors",Positive (Low/Mid arousal),9
-1,"real estate, related job, positive effect, national average, commercial markets, commercial development, average job, , , ",Negative (Low/Med arousal),2
-1,"real estate, related job, positive effect, national average, commercial markets, commercial development, average job, , , ",Neutral,7
-1,"real estate, related job, positive effect, national average, commercial markets, commercial development, average job, , , ",Positive (Low/Mid arousal),5
