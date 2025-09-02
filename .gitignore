@@ -7,10 +7,9 @@ feature_extraction/features_speech_emobase/
 feature_extraction/features_text_sbert/
 feature_extraction/company_topics/
 feature_extraction/plot_company_topics/
-feature_extraction/plot_speech_features/
+feature_extraction/plots_speech_features/
 glove
 COPIES
-Sectors
 scripts
 model/emo_classifier_result/
 model/emo_label/
